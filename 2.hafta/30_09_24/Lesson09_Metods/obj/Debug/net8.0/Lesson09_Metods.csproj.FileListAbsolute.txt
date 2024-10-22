@@ -1,0 +1,14 @@
+D:\Kodlama\Kurs Günlükleri\2.hafta\30_09_24\Lesson09_Metods\bin\Debug\net8.0\Lesson09_Metods.exe
+D:\Kodlama\Kurs Günlükleri\2.hafta\30_09_24\Lesson09_Metods\bin\Debug\net8.0\Lesson09_Metods.deps.json
+D:\Kodlama\Kurs Günlükleri\2.hafta\30_09_24\Lesson09_Metods\bin\Debug\net8.0\Lesson09_Metods.runtimeconfig.json
+D:\Kodlama\Kurs Günlükleri\2.hafta\30_09_24\Lesson09_Metods\bin\Debug\net8.0\Lesson09_Metods.dll
+D:\Kodlama\Kurs Günlükleri\2.hafta\30_09_24\Lesson09_Metods\bin\Debug\net8.0\Lesson09_Metods.pdb
+D:\Kodlama\Kurs Günlükleri\2.hafta\30_09_24\Lesson09_Metods\obj\Debug\net8.0\Lesson09_Metods.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kodlama\Kurs Günlükleri\2.hafta\30_09_24\Lesson09_Metods\obj\Debug\net8.0\Lesson09_Metods.AssemblyInfoInputs.cache
+D:\Kodlama\Kurs Günlükleri\2.hafta\30_09_24\Lesson09_Metods\obj\Debug\net8.0\Lesson09_Metods.AssemblyInfo.cs
+D:\Kodlama\Kurs Günlükleri\2.hafta\30_09_24\Lesson09_Metods\obj\Debug\net8.0\Lesson09_Metods.csproj.CoreCompileInputs.cache
+D:\Kodlama\Kurs Günlükleri\2.hafta\30_09_24\Lesson09_Metods\obj\Debug\net8.0\Lesson09_Metods.dll
+D:\Kodlama\Kurs Günlükleri\2.hafta\30_09_24\Lesson09_Metods\obj\Debug\net8.0\refint\Lesson09_Metods.dll
+D:\Kodlama\Kurs Günlükleri\2.hafta\30_09_24\Lesson09_Metods\obj\Debug\net8.0\Lesson09_Metods.pdb
+D:\Kodlama\Kurs Günlükleri\2.hafta\30_09_24\Lesson09_Metods\obj\Debug\net8.0\Lesson09_Metods.genruntimeconfig.cache
+D:\Kodlama\Kurs Günlükleri\2.hafta\30_09_24\Lesson09_Metods\obj\Debug\net8.0\ref\Lesson09_Metods.dll

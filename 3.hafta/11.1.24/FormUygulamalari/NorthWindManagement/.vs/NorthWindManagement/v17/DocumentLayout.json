@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Kodlama\\Kurs G\u00FCnl\u00FCkleri\\3.hafta\\11.1.24\\FormUygulamalari\\NorthWindManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{74750B56-A2AA-4891-AFD1-331405BCC309}|NorthWindManagement.csproj|D:\\Kodlama\\Kurs G\u00FCnl\u00FCkleri\\3.hafta\\11.1.24\\FormUygulamalari\\NorthWindManagement\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{74750B56-A2AA-4891-AFD1-331405BCC309}|NorthWindManagement.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74750B56-A2AA-4891-AFD1-331405BCC309}|NorthWindManagement.csproj|D:\\Kodlama\\Kurs G\u00FCnl\u00FCkleri\\3.hafta\\11.1.24\\FormUygulamalari\\NorthWindManagement\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74750B56-A2AA-4891-AFD1-331405BCC309}|NorthWindManagement.csproj|solutionrelative:mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74750B56-A2AA-4891-AFD1-331405BCC309}|NorthWindManagement.csproj|d:\\kodlama\\kurs g\u00FCnl\u00FCkleri\\3.hafta\\11.1.24\\formuygulamalari\\northwindmanagement\\dataaccesslayer\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74750B56-A2AA-4891-AFD1-331405BCC309}|NorthWindManagement.csproj|solutionrelative:dataaccesslayer\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Database.cs",
+              "DocumentMoniker": "D:\\Kodlama\\Kurs G\u00FCnl\u00FCkleri\\3.hafta\\11.1.24\\FormUygulamalari\\NorthWindManagement\\DataAccessLayer\\Database.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Database.cs",
+              "ToolTip": "D:\\Kodlama\\Kurs G\u00FCnl\u00FCkleri\\3.hafta\\11.1.24\\FormUygulamalari\\NorthWindManagement\\DataAccessLayer\\Database.cs",
+              "RelativeToolTip": "DataAccessLayer\\Database.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T11:57:40.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "D:\\Kodlama\\Kurs G\u00FCnl\u00FCkleri\\3.hafta\\11.1.24\\FormUygulamalari\\NorthWindManagement\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "D:\\Kodlama\\Kurs G\u00FCnl\u00FCkleri\\3.hafta\\11.1.24\\FormUygulamalari\\NorthWindManagement\\MainForm.cs [Design]",
+              "RelativeToolTip": "MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T10:26:19.929Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "D:\\Kodlama\\Kurs G\u00FCnl\u00FCkleri\\3.hafta\\11.1.24\\FormUygulamalari\\NorthWindManagement\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "MainForm.Designer.cs",
+              "ToolTip": "D:\\Kodlama\\Kurs G\u00FCnl\u00FCkleri\\3.hafta\\11.1.24\\FormUygulamalari\\NorthWindManagement\\MainForm.Designer.cs",
+              "RelativeToolTip": "MainForm.Designer.cs",
+              "ViewState": "AQIAADABAAAAAAAAAAAkwD0BAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T11:22:07.721Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

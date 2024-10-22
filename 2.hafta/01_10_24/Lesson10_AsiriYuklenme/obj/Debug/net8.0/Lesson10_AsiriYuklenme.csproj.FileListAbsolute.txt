@@ -1,0 +1,14 @@
+D:\Kodlama\Kurs Günlükleri\2.hafta\01_10_24\Lesson10_AsiriYuklenme\bin\Debug\net8.0\Lesson10_AsiriYuklenme.exe
+D:\Kodlama\Kurs Günlükleri\2.hafta\01_10_24\Lesson10_AsiriYuklenme\bin\Debug\net8.0\Lesson10_AsiriYuklenme.deps.json
+D:\Kodlama\Kurs Günlükleri\2.hafta\01_10_24\Lesson10_AsiriYuklenme\bin\Debug\net8.0\Lesson10_AsiriYuklenme.runtimeconfig.json
+D:\Kodlama\Kurs Günlükleri\2.hafta\01_10_24\Lesson10_AsiriYuklenme\bin\Debug\net8.0\Lesson10_AsiriYuklenme.dll
+D:\Kodlama\Kurs Günlükleri\2.hafta\01_10_24\Lesson10_AsiriYuklenme\bin\Debug\net8.0\Lesson10_AsiriYuklenme.pdb
+D:\Kodlama\Kurs Günlükleri\2.hafta\01_10_24\Lesson10_AsiriYuklenme\obj\Debug\net8.0\Lesson10_AsiriYuklenme.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kodlama\Kurs Günlükleri\2.hafta\01_10_24\Lesson10_AsiriYuklenme\obj\Debug\net8.0\Lesson10_AsiriYuklenme.AssemblyInfoInputs.cache
+D:\Kodlama\Kurs Günlükleri\2.hafta\01_10_24\Lesson10_AsiriYuklenme\obj\Debug\net8.0\Lesson10_AsiriYuklenme.AssemblyInfo.cs
+D:\Kodlama\Kurs Günlükleri\2.hafta\01_10_24\Lesson10_AsiriYuklenme\obj\Debug\net8.0\Lesson10_AsiriYuklenme.csproj.CoreCompileInputs.cache
+D:\Kodlama\Kurs Günlükleri\2.hafta\01_10_24\Lesson10_AsiriYuklenme\obj\Debug\net8.0\Lesson10_AsiriYuklenme.dll
+D:\Kodlama\Kurs Günlükleri\2.hafta\01_10_24\Lesson10_AsiriYuklenme\obj\Debug\net8.0\refint\Lesson10_AsiriYuklenme.dll
+D:\Kodlama\Kurs Günlükleri\2.hafta\01_10_24\Lesson10_AsiriYuklenme\obj\Debug\net8.0\Lesson10_AsiriYuklenme.pdb
+D:\Kodlama\Kurs Günlükleri\2.hafta\01_10_24\Lesson10_AsiriYuklenme\obj\Debug\net8.0\Lesson10_AsiriYuklenme.genruntimeconfig.cache
+D:\Kodlama\Kurs Günlükleri\2.hafta\01_10_24\Lesson10_AsiriYuklenme\obj\Debug\net8.0\ref\Lesson10_AsiriYuklenme.dll

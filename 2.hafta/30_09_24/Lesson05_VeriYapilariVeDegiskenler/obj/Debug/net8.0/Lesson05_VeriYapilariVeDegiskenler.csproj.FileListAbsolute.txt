@@ -1,0 +1,14 @@
+D:\Kodlama\Kurs Günlükleri\2.hafta\30_09_24\Lesson05_VeriYapilariVeDegiskenler\bin\Debug\net8.0\Lesson05_VeriYapilariVeDegiskenler.exe
+D:\Kodlama\Kurs Günlükleri\2.hafta\30_09_24\Lesson05_VeriYapilariVeDegiskenler\bin\Debug\net8.0\Lesson05_VeriYapilariVeDegiskenler.deps.json
+D:\Kodlama\Kurs Günlükleri\2.hafta\30_09_24\Lesson05_VeriYapilariVeDegiskenler\bin\Debug\net8.0\Lesson05_VeriYapilariVeDegiskenler.runtimeconfig.json
+D:\Kodlama\Kurs Günlükleri\2.hafta\30_09_24\Lesson05_VeriYapilariVeDegiskenler\bin\Debug\net8.0\Lesson05_VeriYapilariVeDegiskenler.dll
+D:\Kodlama\Kurs Günlükleri\2.hafta\30_09_24\Lesson05_VeriYapilariVeDegiskenler\bin\Debug\net8.0\Lesson05_VeriYapilariVeDegiskenler.pdb
+D:\Kodlama\Kurs Günlükleri\2.hafta\30_09_24\Lesson05_VeriYapilariVeDegiskenler\obj\Debug\net8.0\Lesson05_VeriYapilariVeDegiskenler.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kodlama\Kurs Günlükleri\2.hafta\30_09_24\Lesson05_VeriYapilariVeDegiskenler\obj\Debug\net8.0\Lesson05_VeriYapilariVeDegiskenler.AssemblyInfoInputs.cache
+D:\Kodlama\Kurs Günlükleri\2.hafta\30_09_24\Lesson05_VeriYapilariVeDegiskenler\obj\Debug\net8.0\Lesson05_VeriYapilariVeDegiskenler.AssemblyInfo.cs
+D:\Kodlama\Kurs Günlükleri\2.hafta\30_09_24\Lesson05_VeriYapilariVeDegiskenler\obj\Debug\net8.0\Lesson05_VeriYapilariVeDegiskenler.csproj.CoreCompileInputs.cache
+D:\Kodlama\Kurs Günlükleri\2.hafta\30_09_24\Lesson05_VeriYapilariVeDegiskenler\obj\Debug\net8.0\Lesson05_VeriYapilariVeDegiskenler.dll
+D:\Kodlama\Kurs Günlükleri\2.hafta\30_09_24\Lesson05_VeriYapilariVeDegiskenler\obj\Debug\net8.0\refint\Lesson05_VeriYapilariVeDegiskenler.dll
+D:\Kodlama\Kurs Günlükleri\2.hafta\30_09_24\Lesson05_VeriYapilariVeDegiskenler\obj\Debug\net8.0\Lesson05_VeriYapilariVeDegiskenler.pdb
+D:\Kodlama\Kurs Günlükleri\2.hafta\30_09_24\Lesson05_VeriYapilariVeDegiskenler\obj\Debug\net8.0\Lesson05_VeriYapilariVeDegiskenler.genruntimeconfig.cache
+D:\Kodlama\Kurs Günlükleri\2.hafta\30_09_24\Lesson05_VeriYapilariVeDegiskenler\obj\Debug\net8.0\ref\Lesson05_VeriYapilariVeDegiskenler.dll

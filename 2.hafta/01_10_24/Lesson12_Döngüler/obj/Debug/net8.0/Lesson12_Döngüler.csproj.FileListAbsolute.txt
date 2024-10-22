@@ -1,0 +1,14 @@
+D:\Kodlama\Kurs Günlükleri\2.hafta\01_10_24\Lesson12_Döngüler\bin\Debug\net8.0\Lesson12_Döngüler.exe
+D:\Kodlama\Kurs Günlükleri\2.hafta\01_10_24\Lesson12_Döngüler\bin\Debug\net8.0\Lesson12_Döngüler.deps.json
+D:\Kodlama\Kurs Günlükleri\2.hafta\01_10_24\Lesson12_Döngüler\bin\Debug\net8.0\Lesson12_Döngüler.runtimeconfig.json
+D:\Kodlama\Kurs Günlükleri\2.hafta\01_10_24\Lesson12_Döngüler\bin\Debug\net8.0\Lesson12_Döngüler.dll
+D:\Kodlama\Kurs Günlükleri\2.hafta\01_10_24\Lesson12_Döngüler\bin\Debug\net8.0\Lesson12_Döngüler.pdb
+D:\Kodlama\Kurs Günlükleri\2.hafta\01_10_24\Lesson12_Döngüler\obj\Debug\net8.0\Lesson12_Döngüler.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kodlama\Kurs Günlükleri\2.hafta\01_10_24\Lesson12_Döngüler\obj\Debug\net8.0\Lesson12_Döngüler.AssemblyInfoInputs.cache
+D:\Kodlama\Kurs Günlükleri\2.hafta\01_10_24\Lesson12_Döngüler\obj\Debug\net8.0\Lesson12_Döngüler.AssemblyInfo.cs
+D:\Kodlama\Kurs Günlükleri\2.hafta\01_10_24\Lesson12_Döngüler\obj\Debug\net8.0\Lesson12_Döngüler.csproj.CoreCompileInputs.cache
+D:\Kodlama\Kurs Günlükleri\2.hafta\01_10_24\Lesson12_Döngüler\obj\Debug\net8.0\Lesson12_Döngüler.dll
+D:\Kodlama\Kurs Günlükleri\2.hafta\01_10_24\Lesson12_Döngüler\obj\Debug\net8.0\refint\Lesson12_Döngüler.dll
+D:\Kodlama\Kurs Günlükleri\2.hafta\01_10_24\Lesson12_Döngüler\obj\Debug\net8.0\Lesson12_Döngüler.pdb
+D:\Kodlama\Kurs Günlükleri\2.hafta\01_10_24\Lesson12_Döngüler\obj\Debug\net8.0\Lesson12_Döngüler.genruntimeconfig.cache
+D:\Kodlama\Kurs Günlükleri\2.hafta\01_10_24\Lesson12_Döngüler\obj\Debug\net8.0\ref\Lesson12_Döngüler.dll

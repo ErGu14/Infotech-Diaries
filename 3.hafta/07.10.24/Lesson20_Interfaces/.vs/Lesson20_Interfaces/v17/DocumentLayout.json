@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Kodlama\\Kurs G\u00FCnl\u00FCkleri\\3.hafta\\07.10.24\\Lesson20_Interfaces\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D1811A29-564F-4B8E-A1ED-28D346BF4BA2}|Lesson20_Interfaces.csproj|d:\\kodlama\\kurs g\u00FCnl\u00FCkleri\\3.hafta\\07.10.24\\lesson20_interfaces\\eshop\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1811A29-564F-4B8E-A1ED-28D346BF4BA2}|Lesson20_Interfaces.csproj|solutionrelative:eshop\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1811A29-564F-4B8E-A1ED-28D346BF4BA2}|Lesson20_Interfaces.csproj|d:\\kodlama\\kurs g\u00FCnl\u00FCkleri\\3.hafta\\07.10.24\\lesson20_interfaces\\eshop\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1811A29-564F-4B8E-A1ED-28D346BF4BA2}|Lesson20_Interfaces.csproj|solutionrelative:eshop\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1811A29-564F-4B8E-A1ED-28D346BF4BA2}|Lesson20_Interfaces.csproj|d:\\kodlama\\kurs g\u00FCnl\u00FCkleri\\3.hafta\\07.10.24\\lesson20_interfaces\\eshop\\idataservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1811A29-564F-4B8E-A1ED-28D346BF4BA2}|Lesson20_Interfaces.csproj|solutionrelative:eshop\\idataservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1811A29-564F-4B8E-A1ED-28D346BF4BA2}|Lesson20_Interfaces.csproj|d:\\kodlama\\kurs g\u00FCnl\u00FCkleri\\3.hafta\\07.10.24\\lesson20_interfaces\\abstract\\isample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1811A29-564F-4B8E-A1ED-28D346BF4BA2}|Lesson20_Interfaces.csproj|solutionrelative:abstract\\isample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1811A29-564F-4B8E-A1ED-28D346BF4BA2}|Lesson20_Interfaces.csproj|d:\\kodlama\\kurs g\u00FCnl\u00FCkleri\\3.hafta\\07.10.24\\lesson20_interfaces\\eshop\\ibase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1811A29-564F-4B8E-A1ED-28D346BF4BA2}|Lesson20_Interfaces.csproj|solutionrelative:eshop\\ibase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1811A29-564F-4B8E-A1ED-28D346BF4BA2}|Lesson20_Interfaces.csproj|d:\\kodlama\\kurs g\u00FCnl\u00FCkleri\\3.hafta\\07.10.24\\lesson20_interfaces\\concrete\\sample1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1811A29-564F-4B8E-A1ED-28D346BF4BA2}|Lesson20_Interfaces.csproj|solutionrelative:concrete\\sample1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1811A29-564F-4B8E-A1ED-28D346BF4BA2}|Lesson20_Interfaces.csproj|d:\\kodlama\\kurs g\u00FCnl\u00FCkleri\\3.hafta\\07.10.24\\lesson20_interfaces\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1811A29-564F-4B8E-A1ED-28D346BF4BA2}|Lesson20_Interfaces.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IDataServices.cs",
+              "DocumentMoniker": "D:\\Kodlama\\Kurs G\u00FCnl\u00FCkleri\\3.hafta\\07.10.24\\Lesson20_Interfaces\\Eshop\\IDataServices.cs",
+              "RelativeDocumentMoniker": "Eshop\\IDataServices.cs",
+              "ToolTip": "D:\\Kodlama\\Kurs G\u00FCnl\u00FCkleri\\3.hafta\\07.10.24\\Lesson20_Interfaces\\Eshop\\IDataServices.cs",
+              "RelativeToolTip": "Eshop\\IDataServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T07:46:39.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Kodlama\\Kurs G\u00FCnl\u00FCkleri\\3.hafta\\07.10.24\\Lesson20_Interfaces\\Eshop\\Product.cs",
+              "RelativeDocumentMoniker": "Eshop\\Product.cs",
+              "ToolTip": "D:\\Kodlama\\Kurs G\u00FCnl\u00FCkleri\\3.hafta\\07.10.24\\Lesson20_Interfaces\\Eshop\\Product.cs",
+              "RelativeToolTip": "Eshop\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T07:37:23.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\Kodlama\\Kurs G\u00FCnl\u00FCkleri\\3.hafta\\07.10.24\\Lesson20_Interfaces\\Eshop\\Category.cs",
+              "RelativeDocumentMoniker": "Eshop\\Category.cs",
+              "ToolTip": "D:\\Kodlama\\Kurs G\u00FCnl\u00FCkleri\\3.hafta\\07.10.24\\Lesson20_Interfaces\\Eshop\\Category.cs",
+              "RelativeToolTip": "Eshop\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T07:26:25.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IBase.cs",
+              "DocumentMoniker": "D:\\Kodlama\\Kurs G\u00FCnl\u00FCkleri\\3.hafta\\07.10.24\\Lesson20_Interfaces\\Eshop\\IBase.cs",
+              "RelativeDocumentMoniker": "Eshop\\IBase.cs",
+              "ToolTip": "D:\\Kodlama\\Kurs G\u00FCnl\u00FCkleri\\3.hafta\\07.10.24\\Lesson20_Interfaces\\Eshop\\IBase.cs",
+              "RelativeToolTip": "Eshop\\IBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T07:24:33.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Sample1.cs",
+              "DocumentMoniker": "D:\\Kodlama\\Kurs G\u00FCnl\u00FCkleri\\3.hafta\\07.10.24\\Lesson20_Interfaces\\Concrete\\Sample1.cs",
+              "RelativeDocumentMoniker": "Concrete\\Sample1.cs",
+              "ToolTip": "D:\\Kodlama\\Kurs G\u00FCnl\u00FCkleri\\3.hafta\\07.10.24\\Lesson20_Interfaces\\Concrete\\Sample1.cs",
+              "RelativeToolTip": "Concrete\\Sample1.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAYwBMAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T07:14:52.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ISample.cs",
+              "DocumentMoniker": "D:\\Kodlama\\Kurs G\u00FCnl\u00FCkleri\\3.hafta\\07.10.24\\Lesson20_Interfaces\\Abstract\\ISample.cs",
+              "RelativeDocumentMoniker": "Abstract\\ISample.cs",
+              "ToolTip": "D:\\Kodlama\\Kurs G\u00FCnl\u00FCkleri\\3.hafta\\07.10.24\\Lesson20_Interfaces\\Abstract\\ISample.cs",
+              "RelativeToolTip": "Abstract\\ISample.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T07:11:09.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Kodlama\\Kurs G\u00FCnl\u00FCkleri\\3.hafta\\07.10.24\\Lesson20_Interfaces\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Kodlama\\Kurs G\u00FCnl\u00FCkleri\\3.hafta\\07.10.24\\Lesson20_Interfaces\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T07:02:52.386Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

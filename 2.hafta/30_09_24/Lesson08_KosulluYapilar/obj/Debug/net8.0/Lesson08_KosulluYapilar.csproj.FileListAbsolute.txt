@@ -1,0 +1,14 @@
+D:\Kodlama\Kurs Günlükleri\2.hafta\30_09_24\Lesson08_KosulluYapilar\bin\Debug\net8.0\Lesson08_KosulluYapilar.exe
+D:\Kodlama\Kurs Günlükleri\2.hafta\30_09_24\Lesson08_KosulluYapilar\bin\Debug\net8.0\Lesson08_KosulluYapilar.deps.json
+D:\Kodlama\Kurs Günlükleri\2.hafta\30_09_24\Lesson08_KosulluYapilar\bin\Debug\net8.0\Lesson08_KosulluYapilar.runtimeconfig.json
+D:\Kodlama\Kurs Günlükleri\2.hafta\30_09_24\Lesson08_KosulluYapilar\bin\Debug\net8.0\Lesson08_KosulluYapilar.dll
+D:\Kodlama\Kurs Günlükleri\2.hafta\30_09_24\Lesson08_KosulluYapilar\bin\Debug\net8.0\Lesson08_KosulluYapilar.pdb
+D:\Kodlama\Kurs Günlükleri\2.hafta\30_09_24\Lesson08_KosulluYapilar\obj\Debug\net8.0\Lesson08_KosulluYapilar.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kodlama\Kurs Günlükleri\2.hafta\30_09_24\Lesson08_KosulluYapilar\obj\Debug\net8.0\Lesson08_KosulluYapilar.AssemblyInfoInputs.cache
+D:\Kodlama\Kurs Günlükleri\2.hafta\30_09_24\Lesson08_KosulluYapilar\obj\Debug\net8.0\Lesson08_KosulluYapilar.AssemblyInfo.cs
+D:\Kodlama\Kurs Günlükleri\2.hafta\30_09_24\Lesson08_KosulluYapilar\obj\Debug\net8.0\Lesson08_KosulluYapilar.csproj.CoreCompileInputs.cache
+D:\Kodlama\Kurs Günlükleri\2.hafta\30_09_24\Lesson08_KosulluYapilar\obj\Debug\net8.0\Lesson08_KosulluYapilar.dll
+D:\Kodlama\Kurs Günlükleri\2.hafta\30_09_24\Lesson08_KosulluYapilar\obj\Debug\net8.0\refint\Lesson08_KosulluYapilar.dll
+D:\Kodlama\Kurs Günlükleri\2.hafta\30_09_24\Lesson08_KosulluYapilar\obj\Debug\net8.0\Lesson08_KosulluYapilar.pdb
+D:\Kodlama\Kurs Günlükleri\2.hafta\30_09_24\Lesson08_KosulluYapilar\obj\Debug\net8.0\Lesson08_KosulluYapilar.genruntimeconfig.cache
+D:\Kodlama\Kurs Günlükleri\2.hafta\30_09_24\Lesson08_KosulluYapilar\obj\Debug\net8.0\ref\Lesson08_KosulluYapilar.dll

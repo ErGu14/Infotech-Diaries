@@ -1,0 +1,16 @@
+D:\Kodlama\Kurs Günlükleri\3.hafta\11.1.24\FormUygulamalari\NorthWindManagement\bin\Debug\net8.0-windows\NorthWindManagement.exe
+D:\Kodlama\Kurs Günlükleri\3.hafta\11.1.24\FormUygulamalari\NorthWindManagement\bin\Debug\net8.0-windows\NorthWindManagement.deps.json
+D:\Kodlama\Kurs Günlükleri\3.hafta\11.1.24\FormUygulamalari\NorthWindManagement\bin\Debug\net8.0-windows\NorthWindManagement.runtimeconfig.json
+D:\Kodlama\Kurs Günlükleri\3.hafta\11.1.24\FormUygulamalari\NorthWindManagement\bin\Debug\net8.0-windows\NorthWindManagement.dll
+D:\Kodlama\Kurs Günlükleri\3.hafta\11.1.24\FormUygulamalari\NorthWindManagement\bin\Debug\net8.0-windows\NorthWindManagement.pdb
+D:\Kodlama\Kurs Günlükleri\3.hafta\11.1.24\FormUygulamalari\NorthWindManagement\obj\Debug\net8.0-windows\NorthWindManagement.csproj.GenerateResource.cache
+D:\Kodlama\Kurs Günlükleri\3.hafta\11.1.24\FormUygulamalari\NorthWindManagement\obj\Debug\net8.0-windows\NorthWindManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kodlama\Kurs Günlükleri\3.hafta\11.1.24\FormUygulamalari\NorthWindManagement\obj\Debug\net8.0-windows\NorthWindManagement.AssemblyInfoInputs.cache
+D:\Kodlama\Kurs Günlükleri\3.hafta\11.1.24\FormUygulamalari\NorthWindManagement\obj\Debug\net8.0-windows\NorthWindManagement.AssemblyInfo.cs
+D:\Kodlama\Kurs Günlükleri\3.hafta\11.1.24\FormUygulamalari\NorthWindManagement\obj\Debug\net8.0-windows\NorthWindManagement.csproj.CoreCompileInputs.cache
+D:\Kodlama\Kurs Günlükleri\3.hafta\11.1.24\FormUygulamalari\NorthWindManagement\obj\Debug\net8.0-windows\NorthWindManagement.dll
+D:\Kodlama\Kurs Günlükleri\3.hafta\11.1.24\FormUygulamalari\NorthWindManagement\obj\Debug\net8.0-windows\refint\NorthWindManagement.dll
+D:\Kodlama\Kurs Günlükleri\3.hafta\11.1.24\FormUygulamalari\NorthWindManagement\obj\Debug\net8.0-windows\NorthWindManagement.pdb
+D:\Kodlama\Kurs Günlükleri\3.hafta\11.1.24\FormUygulamalari\NorthWindManagement\obj\Debug\net8.0-windows\NorthWindManagement.genruntimeconfig.cache
+D:\Kodlama\Kurs Günlükleri\3.hafta\11.1.24\FormUygulamalari\NorthWindManagement\obj\Debug\net8.0-windows\ref\NorthWindManagement.dll
+D:\Kodlama\Kurs Günlükleri\3.hafta\11.1.24\FormUygulamalari\NorthWindManagement\obj\Debug\net8.0-windows\NorthWindManagement.Form1Main.resources

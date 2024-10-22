@@ -1,0 +1,42 @@
+! = head-body kısayol
+
+meta charset= karakter koruması (türkçe karakter konabiliyor)
+meta name = genişlik problemini çözüyor(ekran genişliği)
+title = başlık (sekme adı)
+index = açılan sayfanın adı (arama yapınca çıkan sonuç gibi)
+h1 = başlık (/h1 ile kapanır / bize bu imkanı sağlar)
+a = Tıklamalı Yazı(link yönlendirme)
+p = paragraf oluşturma
+lang / href vb = ara birim 
+href = link yazmamıza yarıyor (1 özelliği bu)
+DEL = Yazının üstünü çizme
+b = yazı kalınlaştırma
+br = alt satıra geçme
+i= eğik yazı
+sub = cümledeki küçük şeyler alta yazma h2o daki 2 yi kuralına göre 
+sup = cümledeki küçük şeyleri üste yazma 2^2 gibi
+img = resim ekleme   src= resim kaynağı     alt = yazı
+
+style = yazdığım yazının veya herhangi bir şeyin şeklini / biçimini değiştirme (i,b gibi elementlerden farklı)
+Örnek Kod
+**<h1 style="color: crimson;">Stiller</h1>**  
+
+font-family,font-size  (kısaca style sayesinde bir elementi düzenleyebiliyorum )
+
+target "_Blank" = Yeni Sekme Açmaya yarıyor 
+Örnek Kod
+**<a href="https://www.github.com" target="_blank">Github Profilim</a>**
+
+title = resim vs gibi şeylerin üzerine bir süre mouse imleci tutunca çıkan yazı
+Örnek Kod
+**<a href="https://www.github.com" target="_blank" title="Çalışmalarımı Görmek İçin Tıklayın !">** 
+
+table = tablo oluşturma
+tr = tablo satırı
+td = tablo satır değeri
+
+Not 1 : Bazı kodları kendiliğinden br yani alt satıra geçme özelliği var
+Not 2 = <!-- diyerek yorum yazabiliriz
+not 3 = kodlamada örnek resim için lorem picsum kullanabilirsin (https://andreiadaska.github.io/ita/homework/lorempic/index.html)
+
+

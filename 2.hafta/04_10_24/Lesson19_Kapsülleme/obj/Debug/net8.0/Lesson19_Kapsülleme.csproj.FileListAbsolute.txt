@@ -1,0 +1,14 @@
+D:\Kodlama\Kurs Günlükleri\2.hafta\04_10_24\Lesson19_Kapsülleme\bin\Debug\net8.0\Lesson19_Kapsülleme.exe
+D:\Kodlama\Kurs Günlükleri\2.hafta\04_10_24\Lesson19_Kapsülleme\bin\Debug\net8.0\Lesson19_Kapsülleme.deps.json
+D:\Kodlama\Kurs Günlükleri\2.hafta\04_10_24\Lesson19_Kapsülleme\bin\Debug\net8.0\Lesson19_Kapsülleme.runtimeconfig.json
+D:\Kodlama\Kurs Günlükleri\2.hafta\04_10_24\Lesson19_Kapsülleme\bin\Debug\net8.0\Lesson19_Kapsülleme.dll
+D:\Kodlama\Kurs Günlükleri\2.hafta\04_10_24\Lesson19_Kapsülleme\bin\Debug\net8.0\Lesson19_Kapsülleme.pdb
+D:\Kodlama\Kurs Günlükleri\2.hafta\04_10_24\Lesson19_Kapsülleme\obj\Debug\net8.0\Lesson19_Kapsülleme.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kodlama\Kurs Günlükleri\2.hafta\04_10_24\Lesson19_Kapsülleme\obj\Debug\net8.0\Lesson19_Kapsülleme.AssemblyInfoInputs.cache
+D:\Kodlama\Kurs Günlükleri\2.hafta\04_10_24\Lesson19_Kapsülleme\obj\Debug\net8.0\Lesson19_Kapsülleme.AssemblyInfo.cs
+D:\Kodlama\Kurs Günlükleri\2.hafta\04_10_24\Lesson19_Kapsülleme\obj\Debug\net8.0\Lesson19_Kapsülleme.csproj.CoreCompileInputs.cache
+D:\Kodlama\Kurs Günlükleri\2.hafta\04_10_24\Lesson19_Kapsülleme\obj\Debug\net8.0\Lesson19_Kapsülleme.dll
+D:\Kodlama\Kurs Günlükleri\2.hafta\04_10_24\Lesson19_Kapsülleme\obj\Debug\net8.0\refint\Lesson19_Kapsülleme.dll
+D:\Kodlama\Kurs Günlükleri\2.hafta\04_10_24\Lesson19_Kapsülleme\obj\Debug\net8.0\Lesson19_Kapsülleme.pdb
+D:\Kodlama\Kurs Günlükleri\2.hafta\04_10_24\Lesson19_Kapsülleme\obj\Debug\net8.0\Lesson19_Kapsülleme.genruntimeconfig.cache
+D:\Kodlama\Kurs Günlükleri\2.hafta\04_10_24\Lesson19_Kapsülleme\obj\Debug\net8.0\ref\Lesson19_Kapsülleme.dll

@@ -1,0 +1,14 @@
+D:\Kodlama\Kurs Günlükleri\2.hafta\30_09_24\Lesson07_Operatorler\bin\Debug\net8.0\Lesson07_Operatorler.exe
+D:\Kodlama\Kurs Günlükleri\2.hafta\30_09_24\Lesson07_Operatorler\bin\Debug\net8.0\Lesson07_Operatorler.deps.json
+D:\Kodlama\Kurs Günlükleri\2.hafta\30_09_24\Lesson07_Operatorler\bin\Debug\net8.0\Lesson07_Operatorler.runtimeconfig.json
+D:\Kodlama\Kurs Günlükleri\2.hafta\30_09_24\Lesson07_Operatorler\bin\Debug\net8.0\Lesson07_Operatorler.dll
+D:\Kodlama\Kurs Günlükleri\2.hafta\30_09_24\Lesson07_Operatorler\bin\Debug\net8.0\Lesson07_Operatorler.pdb
+D:\Kodlama\Kurs Günlükleri\2.hafta\30_09_24\Lesson07_Operatorler\obj\Debug\net8.0\Lesson07_Operatorler.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kodlama\Kurs Günlükleri\2.hafta\30_09_24\Lesson07_Operatorler\obj\Debug\net8.0\Lesson07_Operatorler.AssemblyInfoInputs.cache
+D:\Kodlama\Kurs Günlükleri\2.hafta\30_09_24\Lesson07_Operatorler\obj\Debug\net8.0\Lesson07_Operatorler.AssemblyInfo.cs
+D:\Kodlama\Kurs Günlükleri\2.hafta\30_09_24\Lesson07_Operatorler\obj\Debug\net8.0\Lesson07_Operatorler.csproj.CoreCompileInputs.cache
+D:\Kodlama\Kurs Günlükleri\2.hafta\30_09_24\Lesson07_Operatorler\obj\Debug\net8.0\Lesson07_Operatorler.dll
+D:\Kodlama\Kurs Günlükleri\2.hafta\30_09_24\Lesson07_Operatorler\obj\Debug\net8.0\refint\Lesson07_Operatorler.dll
+D:\Kodlama\Kurs Günlükleri\2.hafta\30_09_24\Lesson07_Operatorler\obj\Debug\net8.0\Lesson07_Operatorler.pdb
+D:\Kodlama\Kurs Günlükleri\2.hafta\30_09_24\Lesson07_Operatorler\obj\Debug\net8.0\Lesson07_Operatorler.genruntimeconfig.cache
+D:\Kodlama\Kurs Günlükleri\2.hafta\30_09_24\Lesson07_Operatorler\obj\Debug\net8.0\ref\Lesson07_Operatorler.dll

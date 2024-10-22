@@ -1,0 +1,14 @@
+D:\Kodlama\Kurs Günlükleri\2.hafta\04_10_24\Lesson18_Miras_Inheritance\bin\Debug\net8.0\Lesson18_Miras_Inheritance.exe
+D:\Kodlama\Kurs Günlükleri\2.hafta\04_10_24\Lesson18_Miras_Inheritance\bin\Debug\net8.0\Lesson18_Miras_Inheritance.deps.json
+D:\Kodlama\Kurs Günlükleri\2.hafta\04_10_24\Lesson18_Miras_Inheritance\bin\Debug\net8.0\Lesson18_Miras_Inheritance.runtimeconfig.json
+D:\Kodlama\Kurs Günlükleri\2.hafta\04_10_24\Lesson18_Miras_Inheritance\bin\Debug\net8.0\Lesson18_Miras_Inheritance.dll
+D:\Kodlama\Kurs Günlükleri\2.hafta\04_10_24\Lesson18_Miras_Inheritance\bin\Debug\net8.0\Lesson18_Miras_Inheritance.pdb
+D:\Kodlama\Kurs Günlükleri\2.hafta\04_10_24\Lesson18_Miras_Inheritance\obj\Debug\net8.0\Lesson18_Miras_Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kodlama\Kurs Günlükleri\2.hafta\04_10_24\Lesson18_Miras_Inheritance\obj\Debug\net8.0\Lesson18_Miras_Inheritance.AssemblyInfoInputs.cache
+D:\Kodlama\Kurs Günlükleri\2.hafta\04_10_24\Lesson18_Miras_Inheritance\obj\Debug\net8.0\Lesson18_Miras_Inheritance.AssemblyInfo.cs
+D:\Kodlama\Kurs Günlükleri\2.hafta\04_10_24\Lesson18_Miras_Inheritance\obj\Debug\net8.0\Lesson18_Miras_Inheritance.csproj.CoreCompileInputs.cache
+D:\Kodlama\Kurs Günlükleri\2.hafta\04_10_24\Lesson18_Miras_Inheritance\obj\Debug\net8.0\Lesson18_Miras_Inheritance.dll
+D:\Kodlama\Kurs Günlükleri\2.hafta\04_10_24\Lesson18_Miras_Inheritance\obj\Debug\net8.0\refint\Lesson18_Miras_Inheritance.dll
+D:\Kodlama\Kurs Günlükleri\2.hafta\04_10_24\Lesson18_Miras_Inheritance\obj\Debug\net8.0\Lesson18_Miras_Inheritance.pdb
+D:\Kodlama\Kurs Günlükleri\2.hafta\04_10_24\Lesson18_Miras_Inheritance\obj\Debug\net8.0\Lesson18_Miras_Inheritance.genruntimeconfig.cache
+D:\Kodlama\Kurs Günlükleri\2.hafta\04_10_24\Lesson18_Miras_Inheritance\obj\Debug\net8.0\ref\Lesson18_Miras_Inheritance.dll

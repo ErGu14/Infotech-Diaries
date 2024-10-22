@@ -1,0 +1,14 @@
+D:\Kodlama\Kurs Günlükleri\2.hafta\04_10_24\Lesson16_Strings\bin\Debug\net8.0\Lesson16_Strings.exe
+D:\Kodlama\Kurs Günlükleri\2.hafta\04_10_24\Lesson16_Strings\bin\Debug\net8.0\Lesson16_Strings.deps.json
+D:\Kodlama\Kurs Günlükleri\2.hafta\04_10_24\Lesson16_Strings\bin\Debug\net8.0\Lesson16_Strings.runtimeconfig.json
+D:\Kodlama\Kurs Günlükleri\2.hafta\04_10_24\Lesson16_Strings\bin\Debug\net8.0\Lesson16_Strings.dll
+D:\Kodlama\Kurs Günlükleri\2.hafta\04_10_24\Lesson16_Strings\bin\Debug\net8.0\Lesson16_Strings.pdb
+D:\Kodlama\Kurs Günlükleri\2.hafta\04_10_24\Lesson16_Strings\obj\Debug\net8.0\Lesson16_Strings.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kodlama\Kurs Günlükleri\2.hafta\04_10_24\Lesson16_Strings\obj\Debug\net8.0\Lesson16_Strings.AssemblyInfoInputs.cache
+D:\Kodlama\Kurs Günlükleri\2.hafta\04_10_24\Lesson16_Strings\obj\Debug\net8.0\Lesson16_Strings.AssemblyInfo.cs
+D:\Kodlama\Kurs Günlükleri\2.hafta\04_10_24\Lesson16_Strings\obj\Debug\net8.0\Lesson16_Strings.csproj.CoreCompileInputs.cache
+D:\Kodlama\Kurs Günlükleri\2.hafta\04_10_24\Lesson16_Strings\obj\Debug\net8.0\Lesson16_Strings.dll
+D:\Kodlama\Kurs Günlükleri\2.hafta\04_10_24\Lesson16_Strings\obj\Debug\net8.0\refint\Lesson16_Strings.dll
+D:\Kodlama\Kurs Günlükleri\2.hafta\04_10_24\Lesson16_Strings\obj\Debug\net8.0\Lesson16_Strings.pdb
+D:\Kodlama\Kurs Günlükleri\2.hafta\04_10_24\Lesson16_Strings\obj\Debug\net8.0\Lesson16_Strings.genruntimeconfig.cache
+D:\Kodlama\Kurs Günlükleri\2.hafta\04_10_24\Lesson16_Strings\obj\Debug\net8.0\ref\Lesson16_Strings.dll

@@ -1,0 +1,14 @@
+D:\Kodlama\Kurs Günlükleri\2.hafta\01_10_24\Lesson14_SiniflarMetodlar\bin\Debug\net8.0\Lesson14_SiniflarMetodlar.exe
+D:\Kodlama\Kurs Günlükleri\2.hafta\01_10_24\Lesson14_SiniflarMetodlar\bin\Debug\net8.0\Lesson14_SiniflarMetodlar.deps.json
+D:\Kodlama\Kurs Günlükleri\2.hafta\01_10_24\Lesson14_SiniflarMetodlar\bin\Debug\net8.0\Lesson14_SiniflarMetodlar.runtimeconfig.json
+D:\Kodlama\Kurs Günlükleri\2.hafta\01_10_24\Lesson14_SiniflarMetodlar\bin\Debug\net8.0\Lesson14_SiniflarMetodlar.dll
+D:\Kodlama\Kurs Günlükleri\2.hafta\01_10_24\Lesson14_SiniflarMetodlar\bin\Debug\net8.0\Lesson14_SiniflarMetodlar.pdb
+D:\Kodlama\Kurs Günlükleri\2.hafta\01_10_24\Lesson14_SiniflarMetodlar\obj\Debug\net8.0\Lesson14_SiniflarMetodlar.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kodlama\Kurs Günlükleri\2.hafta\01_10_24\Lesson14_SiniflarMetodlar\obj\Debug\net8.0\Lesson14_SiniflarMetodlar.AssemblyInfoInputs.cache
+D:\Kodlama\Kurs Günlükleri\2.hafta\01_10_24\Lesson14_SiniflarMetodlar\obj\Debug\net8.0\Lesson14_SiniflarMetodlar.AssemblyInfo.cs
+D:\Kodlama\Kurs Günlükleri\2.hafta\01_10_24\Lesson14_SiniflarMetodlar\obj\Debug\net8.0\Lesson14_SiniflarMetodlar.csproj.CoreCompileInputs.cache
+D:\Kodlama\Kurs Günlükleri\2.hafta\01_10_24\Lesson14_SiniflarMetodlar\obj\Debug\net8.0\Lesson14_SiniflarMetodlar.dll
+D:\Kodlama\Kurs Günlükleri\2.hafta\01_10_24\Lesson14_SiniflarMetodlar\obj\Debug\net8.0\refint\Lesson14_SiniflarMetodlar.dll
+D:\Kodlama\Kurs Günlükleri\2.hafta\01_10_24\Lesson14_SiniflarMetodlar\obj\Debug\net8.0\Lesson14_SiniflarMetodlar.pdb
+D:\Kodlama\Kurs Günlükleri\2.hafta\01_10_24\Lesson14_SiniflarMetodlar\obj\Debug\net8.0\Lesson14_SiniflarMetodlar.genruntimeconfig.cache
+D:\Kodlama\Kurs Günlükleri\2.hafta\01_10_24\Lesson14_SiniflarMetodlar\obj\Debug\net8.0\ref\Lesson14_SiniflarMetodlar.dll

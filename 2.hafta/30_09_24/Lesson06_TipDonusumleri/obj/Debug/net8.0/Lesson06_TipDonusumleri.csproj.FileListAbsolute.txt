@@ -1,0 +1,14 @@
+D:\Kodlama\Kurs Günlükleri\2.hafta\30_09_24\Lesson06_TipDonusumleri\bin\Debug\net8.0\Lesson06_TipDonusumleri.exe
+D:\Kodlama\Kurs Günlükleri\2.hafta\30_09_24\Lesson06_TipDonusumleri\bin\Debug\net8.0\Lesson06_TipDonusumleri.deps.json
+D:\Kodlama\Kurs Günlükleri\2.hafta\30_09_24\Lesson06_TipDonusumleri\bin\Debug\net8.0\Lesson06_TipDonusumleri.runtimeconfig.json
+D:\Kodlama\Kurs Günlükleri\2.hafta\30_09_24\Lesson06_TipDonusumleri\bin\Debug\net8.0\Lesson06_TipDonusumleri.dll
+D:\Kodlama\Kurs Günlükleri\2.hafta\30_09_24\Lesson06_TipDonusumleri\bin\Debug\net8.0\Lesson06_TipDonusumleri.pdb
+D:\Kodlama\Kurs Günlükleri\2.hafta\30_09_24\Lesson06_TipDonusumleri\obj\Debug\net8.0\Lesson06_TipDonusumleri.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kodlama\Kurs Günlükleri\2.hafta\30_09_24\Lesson06_TipDonusumleri\obj\Debug\net8.0\Lesson06_TipDonusumleri.AssemblyInfoInputs.cache
+D:\Kodlama\Kurs Günlükleri\2.hafta\30_09_24\Lesson06_TipDonusumleri\obj\Debug\net8.0\Lesson06_TipDonusumleri.AssemblyInfo.cs
+D:\Kodlama\Kurs Günlükleri\2.hafta\30_09_24\Lesson06_TipDonusumleri\obj\Debug\net8.0\Lesson06_TipDonusumleri.csproj.CoreCompileInputs.cache
+D:\Kodlama\Kurs Günlükleri\2.hafta\30_09_24\Lesson06_TipDonusumleri\obj\Debug\net8.0\Lesson06_TipDonusumleri.dll
+D:\Kodlama\Kurs Günlükleri\2.hafta\30_09_24\Lesson06_TipDonusumleri\obj\Debug\net8.0\refint\Lesson06_TipDonusumleri.dll
+D:\Kodlama\Kurs Günlükleri\2.hafta\30_09_24\Lesson06_TipDonusumleri\obj\Debug\net8.0\Lesson06_TipDonusumleri.pdb
+D:\Kodlama\Kurs Günlükleri\2.hafta\30_09_24\Lesson06_TipDonusumleri\obj\Debug\net8.0\Lesson06_TipDonusumleri.genruntimeconfig.cache
+D:\Kodlama\Kurs Günlükleri\2.hafta\30_09_24\Lesson06_TipDonusumleri\obj\Debug\net8.0\ref\Lesson06_TipDonusumleri.dll

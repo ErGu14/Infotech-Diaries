@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Kodlama\\Kurs G\u00FCnl\u00FCkleri\\2.hafta\\01_10_24\\Lesson14_SiniflarMetodlar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AFAF90B1-FC37-4E3D-BC5F-FCBC812A04E5}|Lesson14_SiniflarMetodlar.csproj|d:\\kodlama\\kurs g\u00FCnl\u00FCkleri\\2.hafta\\01_10_24\\lesson14_siniflarmetodlar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFAF90B1-FC37-4E3D-BC5F-FCBC812A04E5}|Lesson14_SiniflarMetodlar.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFAF90B1-FC37-4E3D-BC5F-FCBC812A04E5}|Lesson14_SiniflarMetodlar.csproj|d:\\kodlama\\kurs g\u00FCnl\u00FCkleri\\2.hafta\\01_10_24\\lesson14_siniflarmetodlar\\members\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFAF90B1-FC37-4E3D-BC5F-FCBC812A04E5}|Lesson14_SiniflarMetodlar.csproj|solutionrelative:members\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFAF90B1-FC37-4E3D-BC5F-FCBC812A04E5}|Lesson14_SiniflarMetodlar.csproj|d:\\kodlama\\kurs g\u00FCnl\u00FCkleri\\2.hafta\\01_10_24\\lesson14_siniflarmetodlar\\shoping\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFAF90B1-FC37-4E3D-BC5F-FCBC812A04E5}|Lesson14_SiniflarMetodlar.csproj|solutionrelative:shoping\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFAF90B1-FC37-4E3D-BC5F-FCBC812A04E5}|Lesson14_SiniflarMetodlar.csproj|d:\\kodlama\\kurs g\u00FCnl\u00FCkleri\\2.hafta\\01_10_24\\lesson14_siniflarmetodlar\\shoping\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFAF90B1-FC37-4E3D-BC5F-FCBC812A04E5}|Lesson14_SiniflarMetodlar.csproj|solutionrelative:shoping\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Kodlama\\Kurs G\u00FCnl\u00FCkleri\\2.hafta\\01_10_24\\Lesson14_SiniflarMetodlar\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Kodlama\\Kurs G\u00FCnl\u00FCkleri\\2.hafta\\01_10_24\\Lesson14_SiniflarMetodlar\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T11:03:40.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Role.cs",
+              "DocumentMoniker": "D:\\Kodlama\\Kurs G\u00FCnl\u00FCkleri\\2.hafta\\01_10_24\\Lesson14_SiniflarMetodlar\\Members\\Role.cs",
+              "RelativeDocumentMoniker": "Members\\Role.cs",
+              "ToolTip": "D:\\Kodlama\\Kurs G\u00FCnl\u00FCkleri\\2.hafta\\01_10_24\\Lesson14_SiniflarMetodlar\\Members\\Role.cs",
+              "RelativeToolTip": "Members\\Role.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T11:46:47.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Kodlama\\Kurs G\u00FCnl\u00FCkleri\\2.hafta\\01_10_24\\Lesson14_SiniflarMetodlar\\Shoping\\Product.cs",
+              "RelativeDocumentMoniker": "Shoping\\Product.cs",
+              "ToolTip": "D:\\Kodlama\\Kurs G\u00FCnl\u00FCkleri\\2.hafta\\01_10_24\\Lesson14_SiniflarMetodlar\\Shoping\\Product.cs",
+              "RelativeToolTip": "Shoping\\Product.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAWwBYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T11:15:53.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\Kodlama\\Kurs G\u00FCnl\u00FCkleri\\2.hafta\\01_10_24\\Lesson14_SiniflarMetodlar\\Shoping\\Category.cs",
+              "RelativeDocumentMoniker": "Shoping\\Category.cs",
+              "ToolTip": "D:\\Kodlama\\Kurs G\u00FCnl\u00FCkleri\\2.hafta\\01_10_24\\Lesson14_SiniflarMetodlar\\Shoping\\Category.cs",
+              "RelativeToolTip": "Shoping\\Category.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAWwBEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T11:10:00.524Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

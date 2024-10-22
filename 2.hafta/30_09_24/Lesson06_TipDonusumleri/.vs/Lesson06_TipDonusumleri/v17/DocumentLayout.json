@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Kodlama\\Kurs G\u00FCnl\u00FCkleri\\2.hafta\\30_09_24\\Lesson06_TipDonusumleri\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{60F38F03-FE8E-437F-B8E4-4EFF5D22433B}|Lesson06_TipDonusumleri.csproj|d:\\kodlama\\kurs g\u00FCnl\u00FCkleri\\2.hafta\\30_09_24\\lesson06_tipdonusumleri\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60F38F03-FE8E-437F-B8E4-4EFF5D22433B}|Lesson06_TipDonusumleri.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Kodlama\\Kurs G\u00FCnl\u00FCkleri\\2.hafta\\30_09_24\\Lesson06_TipDonusumleri\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Kodlama\\Kurs G\u00FCnl\u00FCkleri\\2.hafta\\30_09_24\\Lesson06_TipDonusumleri\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwB8AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T07:40:14.71Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

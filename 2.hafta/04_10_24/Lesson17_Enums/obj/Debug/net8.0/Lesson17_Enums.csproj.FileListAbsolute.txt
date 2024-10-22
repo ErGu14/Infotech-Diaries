@@ -1,0 +1,14 @@
+D:\Kodlama\Kurs Günlükleri\2.hafta\04_10_24\Lesson17_Enums\bin\Debug\net8.0\Lesson17_Enums.exe
+D:\Kodlama\Kurs Günlükleri\2.hafta\04_10_24\Lesson17_Enums\bin\Debug\net8.0\Lesson17_Enums.deps.json
+D:\Kodlama\Kurs Günlükleri\2.hafta\04_10_24\Lesson17_Enums\bin\Debug\net8.0\Lesson17_Enums.runtimeconfig.json
+D:\Kodlama\Kurs Günlükleri\2.hafta\04_10_24\Lesson17_Enums\bin\Debug\net8.0\Lesson17_Enums.dll
+D:\Kodlama\Kurs Günlükleri\2.hafta\04_10_24\Lesson17_Enums\bin\Debug\net8.0\Lesson17_Enums.pdb
+D:\Kodlama\Kurs Günlükleri\2.hafta\04_10_24\Lesson17_Enums\obj\Debug\net8.0\Lesson17_Enums.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kodlama\Kurs Günlükleri\2.hafta\04_10_24\Lesson17_Enums\obj\Debug\net8.0\Lesson17_Enums.AssemblyInfoInputs.cache
+D:\Kodlama\Kurs Günlükleri\2.hafta\04_10_24\Lesson17_Enums\obj\Debug\net8.0\Lesson17_Enums.AssemblyInfo.cs
+D:\Kodlama\Kurs Günlükleri\2.hafta\04_10_24\Lesson17_Enums\obj\Debug\net8.0\Lesson17_Enums.csproj.CoreCompileInputs.cache
+D:\Kodlama\Kurs Günlükleri\2.hafta\04_10_24\Lesson17_Enums\obj\Debug\net8.0\Lesson17_Enums.dll
+D:\Kodlama\Kurs Günlükleri\2.hafta\04_10_24\Lesson17_Enums\obj\Debug\net8.0\refint\Lesson17_Enums.dll
+D:\Kodlama\Kurs Günlükleri\2.hafta\04_10_24\Lesson17_Enums\obj\Debug\net8.0\Lesson17_Enums.pdb
+D:\Kodlama\Kurs Günlükleri\2.hafta\04_10_24\Lesson17_Enums\obj\Debug\net8.0\Lesson17_Enums.genruntimeconfig.cache
+D:\Kodlama\Kurs Günlükleri\2.hafta\04_10_24\Lesson17_Enums\obj\Debug\net8.0\ref\Lesson17_Enums.dll

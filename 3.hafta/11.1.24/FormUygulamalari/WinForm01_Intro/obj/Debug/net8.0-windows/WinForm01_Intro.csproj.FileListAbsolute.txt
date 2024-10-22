@@ -1,0 +1,16 @@
+D:\Kodlama\Kurs Günlükleri\3.hafta\11.1.24\FormUygulamalari\WinForm01_Intro\bin\Debug\net8.0-windows\WinForm01_Intro.exe
+D:\Kodlama\Kurs Günlükleri\3.hafta\11.1.24\FormUygulamalari\WinForm01_Intro\bin\Debug\net8.0-windows\WinForm01_Intro.deps.json
+D:\Kodlama\Kurs Günlükleri\3.hafta\11.1.24\FormUygulamalari\WinForm01_Intro\bin\Debug\net8.0-windows\WinForm01_Intro.runtimeconfig.json
+D:\Kodlama\Kurs Günlükleri\3.hafta\11.1.24\FormUygulamalari\WinForm01_Intro\bin\Debug\net8.0-windows\WinForm01_Intro.dll
+D:\Kodlama\Kurs Günlükleri\3.hafta\11.1.24\FormUygulamalari\WinForm01_Intro\bin\Debug\net8.0-windows\WinForm01_Intro.pdb
+D:\Kodlama\Kurs Günlükleri\3.hafta\11.1.24\FormUygulamalari\WinForm01_Intro\obj\Debug\net8.0-windows\WinForm01_Intro.Form1.resources
+D:\Kodlama\Kurs Günlükleri\3.hafta\11.1.24\FormUygulamalari\WinForm01_Intro\obj\Debug\net8.0-windows\WinForm01_Intro.csproj.GenerateResource.cache
+D:\Kodlama\Kurs Günlükleri\3.hafta\11.1.24\FormUygulamalari\WinForm01_Intro\obj\Debug\net8.0-windows\WinForm01_Intro.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kodlama\Kurs Günlükleri\3.hafta\11.1.24\FormUygulamalari\WinForm01_Intro\obj\Debug\net8.0-windows\WinForm01_Intro.AssemblyInfoInputs.cache
+D:\Kodlama\Kurs Günlükleri\3.hafta\11.1.24\FormUygulamalari\WinForm01_Intro\obj\Debug\net8.0-windows\WinForm01_Intro.AssemblyInfo.cs
+D:\Kodlama\Kurs Günlükleri\3.hafta\11.1.24\FormUygulamalari\WinForm01_Intro\obj\Debug\net8.0-windows\WinForm01_Intro.csproj.CoreCompileInputs.cache
+D:\Kodlama\Kurs Günlükleri\3.hafta\11.1.24\FormUygulamalari\WinForm01_Intro\obj\Debug\net8.0-windows\WinForm01_Intro.dll
+D:\Kodlama\Kurs Günlükleri\3.hafta\11.1.24\FormUygulamalari\WinForm01_Intro\obj\Debug\net8.0-windows\refint\WinForm01_Intro.dll
+D:\Kodlama\Kurs Günlükleri\3.hafta\11.1.24\FormUygulamalari\WinForm01_Intro\obj\Debug\net8.0-windows\WinForm01_Intro.pdb
+D:\Kodlama\Kurs Günlükleri\3.hafta\11.1.24\FormUygulamalari\WinForm01_Intro\obj\Debug\net8.0-windows\WinForm01_Intro.genruntimeconfig.cache
+D:\Kodlama\Kurs Günlükleri\3.hafta\11.1.24\FormUygulamalari\WinForm01_Intro\obj\Debug\net8.0-windows\ref\WinForm01_Intro.dll
