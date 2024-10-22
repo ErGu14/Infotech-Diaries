@@ -1,0 +1,4 @@
+-- resim olarak gif ekleme
+--uygulamanın büyütme küçültme işleri
+--buton , textbox gibi formların üzerine gelice Mouse imleci değiştirmeyi
+-- dgv de istediğim şekilde ürün sergileme

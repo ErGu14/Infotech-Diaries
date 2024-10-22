@@ -1,0 +1,14 @@
+D:\Kodlama\evde yapılanlar\30_09_24\Koşullu Yapılar (switch-İf Alıştırma)\Exercise01_Kosullar\bin\Debug\net8.0\Exercise01_Kosullar.exe
+D:\Kodlama\evde yapılanlar\30_09_24\Koşullu Yapılar (switch-İf Alıştırma)\Exercise01_Kosullar\bin\Debug\net8.0\Exercise01_Kosullar.deps.json
+D:\Kodlama\evde yapılanlar\30_09_24\Koşullu Yapılar (switch-İf Alıştırma)\Exercise01_Kosullar\bin\Debug\net8.0\Exercise01_Kosullar.runtimeconfig.json
+D:\Kodlama\evde yapılanlar\30_09_24\Koşullu Yapılar (switch-İf Alıştırma)\Exercise01_Kosullar\bin\Debug\net8.0\Exercise01_Kosullar.dll
+D:\Kodlama\evde yapılanlar\30_09_24\Koşullu Yapılar (switch-İf Alıştırma)\Exercise01_Kosullar\bin\Debug\net8.0\Exercise01_Kosullar.pdb
+D:\Kodlama\evde yapılanlar\30_09_24\Koşullu Yapılar (switch-İf Alıştırma)\Exercise01_Kosullar\obj\Debug\net8.0\Exercise01_Kosullar.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kodlama\evde yapılanlar\30_09_24\Koşullu Yapılar (switch-İf Alıştırma)\Exercise01_Kosullar\obj\Debug\net8.0\Exercise01_Kosullar.AssemblyInfoInputs.cache
+D:\Kodlama\evde yapılanlar\30_09_24\Koşullu Yapılar (switch-İf Alıştırma)\Exercise01_Kosullar\obj\Debug\net8.0\Exercise01_Kosullar.AssemblyInfo.cs
+D:\Kodlama\evde yapılanlar\30_09_24\Koşullu Yapılar (switch-İf Alıştırma)\Exercise01_Kosullar\obj\Debug\net8.0\Exercise01_Kosullar.csproj.CoreCompileInputs.cache
+D:\Kodlama\evde yapılanlar\30_09_24\Koşullu Yapılar (switch-İf Alıştırma)\Exercise01_Kosullar\obj\Debug\net8.0\Exercise01_Kosullar.dll
+D:\Kodlama\evde yapılanlar\30_09_24\Koşullu Yapılar (switch-İf Alıştırma)\Exercise01_Kosullar\obj\Debug\net8.0\refint\Exercise01_Kosullar.dll
+D:\Kodlama\evde yapılanlar\30_09_24\Koşullu Yapılar (switch-İf Alıştırma)\Exercise01_Kosullar\obj\Debug\net8.0\Exercise01_Kosullar.pdb
+D:\Kodlama\evde yapılanlar\30_09_24\Koşullu Yapılar (switch-İf Alıştırma)\Exercise01_Kosullar\obj\Debug\net8.0\Exercise01_Kosullar.genruntimeconfig.cache
+D:\Kodlama\evde yapılanlar\30_09_24\Koşullu Yapılar (switch-İf Alıştırma)\Exercise01_Kosullar\obj\Debug\net8.0\ref\Exercise01_Kosullar.dll

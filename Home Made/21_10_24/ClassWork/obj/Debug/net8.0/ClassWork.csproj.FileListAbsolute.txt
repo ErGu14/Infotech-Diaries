@@ -1,0 +1,14 @@
+D:\Kodlama\evde yapılanlar\21_10_24\ClassWork\bin\Debug\net8.0\ClassWork.exe
+D:\Kodlama\evde yapılanlar\21_10_24\ClassWork\bin\Debug\net8.0\ClassWork.deps.json
+D:\Kodlama\evde yapılanlar\21_10_24\ClassWork\bin\Debug\net8.0\ClassWork.runtimeconfig.json
+D:\Kodlama\evde yapılanlar\21_10_24\ClassWork\bin\Debug\net8.0\ClassWork.dll
+D:\Kodlama\evde yapılanlar\21_10_24\ClassWork\bin\Debug\net8.0\ClassWork.pdb
+D:\Kodlama\evde yapılanlar\21_10_24\ClassWork\obj\Debug\net8.0\ClassWork.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kodlama\evde yapılanlar\21_10_24\ClassWork\obj\Debug\net8.0\ClassWork.AssemblyInfoInputs.cache
+D:\Kodlama\evde yapılanlar\21_10_24\ClassWork\obj\Debug\net8.0\ClassWork.AssemblyInfo.cs
+D:\Kodlama\evde yapılanlar\21_10_24\ClassWork\obj\Debug\net8.0\ClassWork.csproj.CoreCompileInputs.cache
+D:\Kodlama\evde yapılanlar\21_10_24\ClassWork\obj\Debug\net8.0\ClassWork.dll
+D:\Kodlama\evde yapılanlar\21_10_24\ClassWork\obj\Debug\net8.0\refint\ClassWork.dll
+D:\Kodlama\evde yapılanlar\21_10_24\ClassWork\obj\Debug\net8.0\ClassWork.pdb
+D:\Kodlama\evde yapılanlar\21_10_24\ClassWork\obj\Debug\net8.0\ClassWork.genruntimeconfig.cache
+D:\Kodlama\evde yapılanlar\21_10_24\ClassWork\obj\Debug\net8.0\ref\ClassWork.dll
