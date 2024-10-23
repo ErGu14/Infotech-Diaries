@@ -17,6 +17,21 @@ sub = cümledeki küçük şeyler alta yazma h2o daki 2 yi kuralına göre
 sup = cümledeki küçük şeyleri üste yazma 2^2 gibi
 img = resim ekleme   src= resim kaynağı     alt = yazı
 
+ul = listelemek aşağı (yukarı)
+li = liste elemenaları eklemek (tr,td gibi )
+ol = içine li de katınca başınma 1 2 3 ekleme gibi işler yapıyor
+th = kalın yazma
+colspan= yer kaplicak alan 
+border = çerçeve kalınlığı
+blockquote = uzun alıntılar için
+q = kısa alıntılar için
+abbr = kısaltmalar için (a daki title gibi)
+address = iletişim bilgileri için
+background = arka plan işleri
+<style>body{}</style> --> body{} = style içerisindeki tanımlı şeyi düzenlemek sülü püslü hale getirmek
+
+
+
 style = yazdığım yazının veya herhangi bir şeyin şeklini / biçimini değiştirme (i,b gibi elementlerden farklı)
 Örnek Kod
 **<h1 style="color: crimson;">Stiller</h1>**  
@@ -34,9 +49,33 @@ title = resim vs gibi şeylerin üzerine bir süre mouse imleci tutunca çıkan 
 table = tablo oluşturma
 tr = tablo satırı
 td = tablo satır değeri
+ul = listelemek aşağı (yukarı)
+li = liste elemenaları eklemek (tr,td gibi )
+ol = içine li de katınca başınma 1 2 3 ekleme gibi işler yapıyor
+th = kalın yazma (tablo başlığı) 
+colspan= yer kaplicak alan 
+border = çerçeve kalınlığı
+caption = tablo başlığı
+cite= kaynak belirtmek için
+bdo = metnin yönünü değiştirmek için
+background = arka plan işleri
+
+
+yaygın img formatları
+
+APNG	Animated Portable Network Graphics	.apng
+GIF	Graphics Interchange Format	.gif
+ICO	Microsoft Icon	.ico, .cur
+JPEG	Joint Photographic Expert Group image	.jpg, .jpeg, .jfif, .pjpeg, .pjp
+PNG	Portable Network Graphics	.png
+SVG	Scalable Vector Graphics	.svg
+
+
+
 
 Not 1 : Bazı kodları kendiliğinden br yani alt satıra geçme özelliği var
 Not 2 = <!-- diyerek yorum yazabiliriz
 not 3 = kodlamada örnek resim için lorem picsum kullanabilirsin (https://andreiadaska.github.io/ita/homework/lorempic/index.html)
+not 4 = başlıklar arası atlama yapmak için ilk önce başlığa bir id tanımlıyoruz sonra href metoduyla başıan # koyarak ve id yazarak atlama yapabiliyoruz
 
 
