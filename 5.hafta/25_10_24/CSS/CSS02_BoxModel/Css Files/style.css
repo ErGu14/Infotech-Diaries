@@ -1,0 +1,54 @@
+/* CSS reset : tarayıcılar arasındaki html elementlerinin default değer farklılıklarını ortadan kaldırmaya çalışıyoruz. */
+
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+
+.box-container{
+    width: 500px;
+    background-color: crimson;
+
+}
+.box{
+    background-color: blue;
+    color: white;
+    width: 100px;
+    display: inline-block;
+    padding: 10px;
+    border: 5px solid black;
+}
+
+
+
+
+.box-eski{
+    background-color:rgb(119, 205, 255);
+    /* margin: 10px; */
+    /* margin-top: 10px;
+    margin-right: 30px;
+    margin-bottom: 50px;
+    margin-left: 70px; */
+
+    /* (üst sağ alt sol)  */
+    /* margin: 10px 30px 50px 70px;  */
+    /* margin-top: 10px;
+    margin-right: 30px;
+    margin-bottom: 10px;
+    margin-left: 30px; */
+    /* margin: 10px 30px; */
+    /* margin-top: 10px;
+    margin-right: 40px;
+    margin-bottom: 20px;    
+    margin-left: 40px;
+    */
+    /* margin:10px 40px 20px; */
+    margin: 10px;
+    padding: 10px;
+    /* margin ile ilgili kullanım seçeneklerinin aynıları padding içinde kullanılabilir */
+    border: 5px solid black;
+    width: 200px;
+    
+} 
+

@@ -17,6 +17,12 @@ sub = cümledeki küçük şeyler alta yazma h2o daki 2 yi kuralına göre
 sup = cümledeki küçük şeyleri üste yazma 2^2 gibi
 img = resim ekleme   src= resim kaynağı     alt = yazı
 
+**Tablo**
+
+table = tablo oluşturma
+
+tr = tablo satırı
+td = tablo satır değeri
 ul = listelemek aşağı (yukarı)
 li = liste elemenaları eklemek (tr,td gibi )
 ol = içine li de katınca başınma 1 2 3 ekleme gibi işler yapıyor
@@ -24,10 +30,13 @@ th = kalın yazma
 colspan= yer kaplicak alan 
 border = çerçeve kalınlığı
 blockquote = uzun alıntılar için
+caption = tablo başlığı
 q = kısa alıntılar için
 abbr = kısaltmalar için (a daki title gibi)
 address = iletişim bilgileri için
+cite= kaynak belirtmek için
 background = arka plan işleri
+bdo = metnin yönünü değiştirmek için
 <style>body{}</style> --> body{} = style içerisindeki tanımlı şeyi düzenlemek sülü püslü hale getirmek
 
 
@@ -45,21 +54,6 @@ target "_Blank" = Yeni Sekme Açmaya yarıyor
 title = resim vs gibi şeylerin üzerine bir süre mouse imleci tutunca çıkan yazı
 Örnek Kod
 **<a href="https://www.github.com" target="_blank" title="Çalışmalarımı Görmek İçin Tıklayın !">** 
-
-table = tablo oluşturma
-tr = tablo satırı
-td = tablo satır değeri
-ul = listelemek aşağı (yukarı)
-li = liste elemenaları eklemek (tr,td gibi )
-ol = içine li de katınca başınma 1 2 3 ekleme gibi işler yapıyor
-th = kalın yazma (tablo başlığı) 
-colspan= yer kaplicak alan 
-border = çerçeve kalınlığı
-caption = tablo başlığı
-cite= kaynak belirtmek için
-bdo = metnin yönünü değiştirmek için
-background = arka plan işleri
-
 
 yaygın img formatları
 

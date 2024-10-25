@@ -1,0 +1,38 @@
+**tablo**
+width = table th gibi şeylerin yanına width yazarak uzunluk belirtebiliriz 
+thed = tablo başlığı 
+tbody = tablonun gövdesi 
+tfoot = tablonun başlığını (misal) kaybolmaması için yani aşağılara inske bile tablo başlığını görmemize yarıyor
+
+**Listeler**
+ul = unorder list (sıralı olmayan listeler)
+li = list item (liste elementleri)
+style="list-style-type: decimal = stilini yani sıralandırma şeklini değiştirme
+ol = order list (sıralı listeler)
+ul>li*4 = > (büyüktür) işareti bir şeyin içine şu elementide ekle  -- ..*4 ise eklediğin elementten 4 tane veya kaç tane istiyorsan o kadar ekle demek.
+hr = çizgi çizmek
+
+**Span Div**
+div = özel amacı olmayan sadece bölüm oluşturmamı sağlayan blok elementi
+span = inline elementi yani sadece kendi içinde blok oluşturuyor (paragrafların içerisinde istediğim bir yeri özel olarak erişip değiştirebiliyorum)
+
+**form**
+form = arka planda çalışıcak şeyler (sunucuya gidicke verileri hazırlama)
+action = şurda şu şeyim var onu çalıştır
+input = ekle
+type = tür  örnek = text = text türünde bir kutu birşey ekle
+label = başlık ekleme
+for = bağlama
+id = çağrılacak şeyin bağlantı noktası
+name = aynı özelliğe sahip olmak demek
+chcked = işaretli olmasını sağlamak (Radio Butonu)
+select = combobox
+option = seçenek
+submit = kodu gönder ve sayfayı yenile
+textarea= inputların aynısı fakat textin uzun hali 
+
+not 1 = 100% yazaarsak sayfa büyüklüğü ne kadarsa o kadar doldur demek
+not 2 = liste elemanının altına eleman eklemek için yine ul li yazabilirsin
+not 3 = > işaretini ihtiyacın olduğu kadar kullanabilirsin sınır yok
+not 4 = eğer veri tabanına bilgi göndericeksem ve kaydet tuşu ile yapıcaksam formun içinde olmalı
+not 5 = Bir formun içindeki bilgilerin sunucuya gönderilmesi işlemine SUBMIT denir.

@@ -1,0 +1,34 @@
+**css başlangıç**
+--Cascading Style Sheet--
+
+**style**
+
+1- Inline CSS: Elementin Açılış Etiketi içinde style attribute'ile
+
+style div{] = divin stilini değiştirme (/head  in üzerine yazmak tercih edilir)
+margin = divler arası mesafe
+#box1 = box1 adlı id den söz etmek
+class = aynı özellikten bahsetme 
+.class = class tan söz etmek
+
+2- Internal CSS :  Sayfanın Head bölümünde style etiketleri arasına yazılır
+
+seçiciler(selectors):
+ 1) element seçici : element Adı
+ 2) id seçici : #id
+ 3) class seçici : .class
+link:css = css dosyasını aktarma  (title ın altına yazılır genellikle)  (istisnalara göre değişir yani title içinde herhangi bir yere)
+
+3-External CSS : harici bir css dosyasına yazılır
+
+div.box*6    = 6 tane class ı box olan div oluştur
+padding = iç boşluk
+border = kutu düzenleme (ilk olarak kaç piksel olcak sonra çizgi türü sonra renk)
+*{} = tüm elementler
+
+**NOTLAR**
+not 1 =incele/netwok de status 200 veya 300 ile başlıyorsa başarılıdır
+not 2= .box*6 dai yazsan default olarak başını div alıcaktır
+not 3 = https://colorhunt.co/    : renk paletleri sunan site
+not 4 = https://meyerweb.com/eric/tools/css/reset/  : reset.css (divler classlar vs gibi şeylerin boyutlarını sıfırlama)
+
