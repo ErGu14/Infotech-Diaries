@@ -1,0 +1,41 @@
+windowsta sağ tuşta terminali göstermek nasıl olur
+
+---
+
+Windows’ta sağ tıklama menüsünde Terminal’i göstermek için aşağıdaki adımları izleyebilirsiniz:
+
+Windows Terminal’i Yükleyin:
+Windows Terminal’i Microsoft Store’dan indirip yükleyin.
+Kayıt Defteri Düzenleyicisi’ni Açın:
+Win + R tuşlarına basarak Çalıştır penceresini açın.
+regedit yazın ve Enter’a basın.
+Kayıt Defteri Anahtarını Ekleyin:
+Kayıt Defteri Düzenleyicisi’nde şu yolu izleyin:
+HKEY_CLASSES_ROOT\Directory\Background\shell
+
+shell anahtarına sağ tıklayın ve Yeni > Anahtar seçeneğini seçin. Bu yeni anahtara WindowsTerminal adını verin.
+WindowsTerminal anahtarına sağ tıklayın ve Yeni > Anahtar seçeneğini seçin. Bu yeni anahtara command adını verin.
+command anahtarına tıklayın ve sağ pencerede (Varsayılan) değerine çift tıklayın.
+Değer verisi olarak şu komutu girin:
+wt.exe
+
+
+visual studiodda enable container support seçeneği çıkmıyor nasıl çıkarabiliriz
+
+----
+
+
+Gerekli Bileşenleri Yükleyin:
+
+Visual Studio’nun en son sürümünü kullanıyor olduğunuzdan emin olun.
+
+“ASP.NET ve web geliştirme” veya “Azure geliştirme araçları” gibi ilgili iş yüklerini yüklediğinizden emin olun. Bu iş yüklerini yüklemek için Visual Studio Installer’ı kullanabilirsiniz.
+
+Docker Desktop’ı Yükleyin:
+Docker Desktop’ı indirip yükleyin ve çalıştırın. Docker Desktop’ın doğru şekilde yapılandırıldığından emin olun.
+
+Proje Ayarlarını Kontrol Edin:
+
+Projenizi Visual Studio’da açın.
+
+Proje dosyasına sağ tıklayın ve “Add” > “Docker Support” seçeneğini seçin.

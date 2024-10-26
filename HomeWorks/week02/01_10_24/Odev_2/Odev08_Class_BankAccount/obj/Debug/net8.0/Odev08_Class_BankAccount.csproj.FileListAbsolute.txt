@@ -1,0 +1,14 @@
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev_2\Odev08_Class_BankAccount\bin\Debug\net8.0\Odev08_Class_BankAccount.exe
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev_2\Odev08_Class_BankAccount\bin\Debug\net8.0\Odev08_Class_BankAccount.deps.json
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev_2\Odev08_Class_BankAccount\bin\Debug\net8.0\Odev08_Class_BankAccount.runtimeconfig.json
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev_2\Odev08_Class_BankAccount\bin\Debug\net8.0\Odev08_Class_BankAccount.dll
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev_2\Odev08_Class_BankAccount\bin\Debug\net8.0\Odev08_Class_BankAccount.pdb
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev_2\Odev08_Class_BankAccount\obj\Debug\net8.0\Odev08_Class_BankAccount.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev_2\Odev08_Class_BankAccount\obj\Debug\net8.0\Odev08_Class_BankAccount.AssemblyInfoInputs.cache
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev_2\Odev08_Class_BankAccount\obj\Debug\net8.0\Odev08_Class_BankAccount.AssemblyInfo.cs
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev_2\Odev08_Class_BankAccount\obj\Debug\net8.0\Odev08_Class_BankAccount.csproj.CoreCompileInputs.cache
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev_2\Odev08_Class_BankAccount\obj\Debug\net8.0\Odev08_Class_BankAccount.dll
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev_2\Odev08_Class_BankAccount\obj\Debug\net8.0\refint\Odev08_Class_BankAccount.dll
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev_2\Odev08_Class_BankAccount\obj\Debug\net8.0\Odev08_Class_BankAccount.pdb
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev_2\Odev08_Class_BankAccount\obj\Debug\net8.0\Odev08_Class_BankAccount.genruntimeconfig.cache
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev_2\Odev08_Class_BankAccount\obj\Debug\net8.0\ref\Odev08_Class_BankAccount.dll

@@ -1,0 +1,14 @@
+D:\Kodlama\Infotech Odevler\week02\01_10_24\ODEV02_1_Den_100_E_Kadar\bin\Debug\net8.0\ODEV02_1_Den_100_E_Kadar.exe
+D:\Kodlama\Infotech Odevler\week02\01_10_24\ODEV02_1_Den_100_E_Kadar\bin\Debug\net8.0\ODEV02_1_Den_100_E_Kadar.deps.json
+D:\Kodlama\Infotech Odevler\week02\01_10_24\ODEV02_1_Den_100_E_Kadar\bin\Debug\net8.0\ODEV02_1_Den_100_E_Kadar.runtimeconfig.json
+D:\Kodlama\Infotech Odevler\week02\01_10_24\ODEV02_1_Den_100_E_Kadar\bin\Debug\net8.0\ODEV02_1_Den_100_E_Kadar.dll
+D:\Kodlama\Infotech Odevler\week02\01_10_24\ODEV02_1_Den_100_E_Kadar\bin\Debug\net8.0\ODEV02_1_Den_100_E_Kadar.pdb
+D:\Kodlama\Infotech Odevler\week02\01_10_24\ODEV02_1_Den_100_E_Kadar\obj\Debug\net8.0\ODEV02_1_Den_100_E_Kadar.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kodlama\Infotech Odevler\week02\01_10_24\ODEV02_1_Den_100_E_Kadar\obj\Debug\net8.0\ODEV02_1_Den_100_E_Kadar.AssemblyInfoInputs.cache
+D:\Kodlama\Infotech Odevler\week02\01_10_24\ODEV02_1_Den_100_E_Kadar\obj\Debug\net8.0\ODEV02_1_Den_100_E_Kadar.AssemblyInfo.cs
+D:\Kodlama\Infotech Odevler\week02\01_10_24\ODEV02_1_Den_100_E_Kadar\obj\Debug\net8.0\ODEV02_1_Den_100_E_Kadar.csproj.CoreCompileInputs.cache
+D:\Kodlama\Infotech Odevler\week02\01_10_24\ODEV02_1_Den_100_E_Kadar\obj\Debug\net8.0\ODEV02_1_Den_100_E_Kadar.dll
+D:\Kodlama\Infotech Odevler\week02\01_10_24\ODEV02_1_Den_100_E_Kadar\obj\Debug\net8.0\refint\ODEV02_1_Den_100_E_Kadar.dll
+D:\Kodlama\Infotech Odevler\week02\01_10_24\ODEV02_1_Den_100_E_Kadar\obj\Debug\net8.0\ODEV02_1_Den_100_E_Kadar.pdb
+D:\Kodlama\Infotech Odevler\week02\01_10_24\ODEV02_1_Den_100_E_Kadar\obj\Debug\net8.0\ODEV02_1_Den_100_E_Kadar.genruntimeconfig.cache
+D:\Kodlama\Infotech Odevler\week02\01_10_24\ODEV02_1_Den_100_E_Kadar\obj\Debug\net8.0\ref\ODEV02_1_Den_100_E_Kadar.dll

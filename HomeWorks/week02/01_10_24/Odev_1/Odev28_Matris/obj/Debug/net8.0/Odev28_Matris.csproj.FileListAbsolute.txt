@@ -1,0 +1,14 @@
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev28_Matris\bin\Debug\net8.0\Odev28_Matris.exe
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev28_Matris\bin\Debug\net8.0\Odev28_Matris.deps.json
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev28_Matris\bin\Debug\net8.0\Odev28_Matris.runtimeconfig.json
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev28_Matris\bin\Debug\net8.0\Odev28_Matris.dll
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev28_Matris\bin\Debug\net8.0\Odev28_Matris.pdb
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev28_Matris\obj\Debug\net8.0\Odev28_Matris.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev28_Matris\obj\Debug\net8.0\Odev28_Matris.AssemblyInfoInputs.cache
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev28_Matris\obj\Debug\net8.0\Odev28_Matris.AssemblyInfo.cs
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev28_Matris\obj\Debug\net8.0\Odev28_Matris.csproj.CoreCompileInputs.cache
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev28_Matris\obj\Debug\net8.0\Odev28_Matris.dll
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev28_Matris\obj\Debug\net8.0\refint\Odev28_Matris.dll
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev28_Matris\obj\Debug\net8.0\Odev28_Matris.pdb
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev28_Matris\obj\Debug\net8.0\Odev28_Matris.genruntimeconfig.cache
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev28_Matris\obj\Debug\net8.0\ref\Odev28_Matris.dll

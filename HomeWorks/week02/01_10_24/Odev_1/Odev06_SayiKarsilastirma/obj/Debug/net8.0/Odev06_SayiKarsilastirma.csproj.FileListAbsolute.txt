@@ -1,0 +1,14 @@
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev06_SayiKarsilastirma\bin\Debug\net8.0\Odev06_SayiKarsilastirma.exe
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev06_SayiKarsilastirma\bin\Debug\net8.0\Odev06_SayiKarsilastirma.deps.json
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev06_SayiKarsilastirma\bin\Debug\net8.0\Odev06_SayiKarsilastirma.runtimeconfig.json
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev06_SayiKarsilastirma\bin\Debug\net8.0\Odev06_SayiKarsilastirma.dll
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev06_SayiKarsilastirma\bin\Debug\net8.0\Odev06_SayiKarsilastirma.pdb
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev06_SayiKarsilastirma\obj\Debug\net8.0\Odev06_SayiKarsilastirma.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev06_SayiKarsilastirma\obj\Debug\net8.0\Odev06_SayiKarsilastirma.AssemblyInfoInputs.cache
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev06_SayiKarsilastirma\obj\Debug\net8.0\Odev06_SayiKarsilastirma.AssemblyInfo.cs
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev06_SayiKarsilastirma\obj\Debug\net8.0\Odev06_SayiKarsilastirma.csproj.CoreCompileInputs.cache
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev06_SayiKarsilastirma\obj\Debug\net8.0\Odev06_SayiKarsilastirma.dll
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev06_SayiKarsilastirma\obj\Debug\net8.0\refint\Odev06_SayiKarsilastirma.dll
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev06_SayiKarsilastirma\obj\Debug\net8.0\Odev06_SayiKarsilastirma.pdb
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev06_SayiKarsilastirma\obj\Debug\net8.0\Odev06_SayiKarsilastirma.genruntimeconfig.cache
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev06_SayiKarsilastirma\obj\Debug\net8.0\ref\Odev06_SayiKarsilastirma.dll

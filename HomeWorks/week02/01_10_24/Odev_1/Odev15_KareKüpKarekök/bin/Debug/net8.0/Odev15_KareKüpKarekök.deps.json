@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Odev15_KareKüpKarekök/1.0.0": {
+        "runtime": {
+          "Odev15_KareKüpKarekök.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Odev15_KareKüpKarekök/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

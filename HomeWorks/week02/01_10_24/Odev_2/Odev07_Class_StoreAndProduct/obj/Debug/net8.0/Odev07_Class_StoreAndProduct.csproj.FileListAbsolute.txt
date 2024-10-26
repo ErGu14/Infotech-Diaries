@@ -1,0 +1,14 @@
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev_2\Odev07_Class_StoreAndProduct\bin\Debug\net8.0\Odev07_Class_StoreAndProduct.exe
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev_2\Odev07_Class_StoreAndProduct\bin\Debug\net8.0\Odev07_Class_StoreAndProduct.deps.json
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev_2\Odev07_Class_StoreAndProduct\bin\Debug\net8.0\Odev07_Class_StoreAndProduct.runtimeconfig.json
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev_2\Odev07_Class_StoreAndProduct\bin\Debug\net8.0\Odev07_Class_StoreAndProduct.dll
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev_2\Odev07_Class_StoreAndProduct\bin\Debug\net8.0\Odev07_Class_StoreAndProduct.pdb
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev_2\Odev07_Class_StoreAndProduct\obj\Debug\net8.0\Odev07_Class_StoreAndProduct.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev_2\Odev07_Class_StoreAndProduct\obj\Debug\net8.0\Odev07_Class_StoreAndProduct.AssemblyInfoInputs.cache
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev_2\Odev07_Class_StoreAndProduct\obj\Debug\net8.0\Odev07_Class_StoreAndProduct.AssemblyInfo.cs
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev_2\Odev07_Class_StoreAndProduct\obj\Debug\net8.0\Odev07_Class_StoreAndProduct.csproj.CoreCompileInputs.cache
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev_2\Odev07_Class_StoreAndProduct\obj\Debug\net8.0\Odev07_Class_StoreAndProduct.dll
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev_2\Odev07_Class_StoreAndProduct\obj\Debug\net8.0\refint\Odev07_Class_StoreAndProduct.dll
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev_2\Odev07_Class_StoreAndProduct\obj\Debug\net8.0\Odev07_Class_StoreAndProduct.pdb
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev_2\Odev07_Class_StoreAndProduct\obj\Debug\net8.0\Odev07_Class_StoreAndProduct.genruntimeconfig.cache
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev_2\Odev07_Class_StoreAndProduct\obj\Debug\net8.0\ref\Odev07_Class_StoreAndProduct.dll

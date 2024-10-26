@@ -1,0 +1,14 @@
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev13_AsalSayiKontrol\bin\Debug\net8.0\Odev13_AsalSayiKontrol.exe
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev13_AsalSayiKontrol\bin\Debug\net8.0\Odev13_AsalSayiKontrol.deps.json
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev13_AsalSayiKontrol\bin\Debug\net8.0\Odev13_AsalSayiKontrol.runtimeconfig.json
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev13_AsalSayiKontrol\bin\Debug\net8.0\Odev13_AsalSayiKontrol.dll
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev13_AsalSayiKontrol\bin\Debug\net8.0\Odev13_AsalSayiKontrol.pdb
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev13_AsalSayiKontrol\obj\Debug\net8.0\Odev13_AsalSayiKontrol.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev13_AsalSayiKontrol\obj\Debug\net8.0\Odev13_AsalSayiKontrol.AssemblyInfoInputs.cache
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev13_AsalSayiKontrol\obj\Debug\net8.0\Odev13_AsalSayiKontrol.AssemblyInfo.cs
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev13_AsalSayiKontrol\obj\Debug\net8.0\Odev13_AsalSayiKontrol.csproj.CoreCompileInputs.cache
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev13_AsalSayiKontrol\obj\Debug\net8.0\Odev13_AsalSayiKontrol.dll
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev13_AsalSayiKontrol\obj\Debug\net8.0\refint\Odev13_AsalSayiKontrol.dll
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev13_AsalSayiKontrol\obj\Debug\net8.0\Odev13_AsalSayiKontrol.pdb
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev13_AsalSayiKontrol\obj\Debug\net8.0\Odev13_AsalSayiKontrol.genruntimeconfig.cache
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev13_AsalSayiKontrol\obj\Debug\net8.0\ref\Odev13_AsalSayiKontrol.dll

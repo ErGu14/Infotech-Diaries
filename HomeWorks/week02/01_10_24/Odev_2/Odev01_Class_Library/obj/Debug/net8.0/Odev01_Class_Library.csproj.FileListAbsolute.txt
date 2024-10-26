@@ -1,0 +1,14 @@
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev_2\Odev01_Class_Library\bin\Debug\net8.0\Odev01_Class_Library.exe
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev_2\Odev01_Class_Library\bin\Debug\net8.0\Odev01_Class_Library.deps.json
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev_2\Odev01_Class_Library\bin\Debug\net8.0\Odev01_Class_Library.runtimeconfig.json
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev_2\Odev01_Class_Library\bin\Debug\net8.0\Odev01_Class_Library.dll
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev_2\Odev01_Class_Library\bin\Debug\net8.0\Odev01_Class_Library.pdb
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev_2\Odev01_Class_Library\obj\Debug\net8.0\Odev01_Class_Library.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev_2\Odev01_Class_Library\obj\Debug\net8.0\Odev01_Class_Library.AssemblyInfoInputs.cache
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev_2\Odev01_Class_Library\obj\Debug\net8.0\Odev01_Class_Library.AssemblyInfo.cs
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev_2\Odev01_Class_Library\obj\Debug\net8.0\Odev01_Class_Library.csproj.CoreCompileInputs.cache
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev_2\Odev01_Class_Library\obj\Debug\net8.0\Odev01_Class_Library.dll
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev_2\Odev01_Class_Library\obj\Debug\net8.0\refint\Odev01_Class_Library.dll
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev_2\Odev01_Class_Library\obj\Debug\net8.0\Odev01_Class_Library.pdb
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev_2\Odev01_Class_Library\obj\Debug\net8.0\Odev01_Class_Library.genruntimeconfig.cache
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev_2\Odev01_Class_Library\obj\Debug\net8.0\ref\Odev01_Class_Library.dll

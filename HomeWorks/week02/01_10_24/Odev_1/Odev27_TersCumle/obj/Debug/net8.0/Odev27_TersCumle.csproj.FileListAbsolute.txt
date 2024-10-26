@@ -1,0 +1,14 @@
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev27_TersCumle\bin\Debug\net8.0\Odev27_TersCumle.exe
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev27_TersCumle\bin\Debug\net8.0\Odev27_TersCumle.deps.json
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev27_TersCumle\bin\Debug\net8.0\Odev27_TersCumle.runtimeconfig.json
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev27_TersCumle\bin\Debug\net8.0\Odev27_TersCumle.dll
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev27_TersCumle\bin\Debug\net8.0\Odev27_TersCumle.pdb
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev27_TersCumle\obj\Debug\net8.0\Odev27_TersCumle.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev27_TersCumle\obj\Debug\net8.0\Odev27_TersCumle.AssemblyInfoInputs.cache
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev27_TersCumle\obj\Debug\net8.0\Odev27_TersCumle.AssemblyInfo.cs
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev27_TersCumle\obj\Debug\net8.0\Odev27_TersCumle.csproj.CoreCompileInputs.cache
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev27_TersCumle\obj\Debug\net8.0\Odev27_TersCumle.dll
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev27_TersCumle\obj\Debug\net8.0\refint\Odev27_TersCumle.dll
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev27_TersCumle\obj\Debug\net8.0\Odev27_TersCumle.pdb
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev27_TersCumle\obj\Debug\net8.0\Odev27_TersCumle.genruntimeconfig.cache
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev27_TersCumle\obj\Debug\net8.0\ref\Odev27_TersCumle.dll

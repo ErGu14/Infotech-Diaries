@@ -1,0 +1,14 @@
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev11_1-10_SayiTahmin\bin\Debug\net8.0\Odev11_1-10_SayiTahmin.exe
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev11_1-10_SayiTahmin\bin\Debug\net8.0\Odev11_1-10_SayiTahmin.deps.json
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev11_1-10_SayiTahmin\bin\Debug\net8.0\Odev11_1-10_SayiTahmin.runtimeconfig.json
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev11_1-10_SayiTahmin\bin\Debug\net8.0\Odev11_1-10_SayiTahmin.dll
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev11_1-10_SayiTahmin\bin\Debug\net8.0\Odev11_1-10_SayiTahmin.pdb
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev11_1-10_SayiTahmin\obj\Debug\net8.0\Odev11_1-10_SayiTahmin.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev11_1-10_SayiTahmin\obj\Debug\net8.0\Odev11_1-10_SayiTahmin.AssemblyInfoInputs.cache
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev11_1-10_SayiTahmin\obj\Debug\net8.0\Odev11_1-10_SayiTahmin.AssemblyInfo.cs
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev11_1-10_SayiTahmin\obj\Debug\net8.0\Odev11_1-10_SayiTahmin.csproj.CoreCompileInputs.cache
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev11_1-10_SayiTahmin\obj\Debug\net8.0\Odev11_1-10_SayiTahmin.dll
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev11_1-10_SayiTahmin\obj\Debug\net8.0\refint\Odev11_1-10_SayiTahmin.dll
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev11_1-10_SayiTahmin\obj\Debug\net8.0\Odev11_1-10_SayiTahmin.pdb
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev11_1-10_SayiTahmin\obj\Debug\net8.0\Odev11_1-10_SayiTahmin.genruntimeconfig.cache
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev11_1-10_SayiTahmin\obj\Debug\net8.0\ref\Odev11_1-10_SayiTahmin.dll

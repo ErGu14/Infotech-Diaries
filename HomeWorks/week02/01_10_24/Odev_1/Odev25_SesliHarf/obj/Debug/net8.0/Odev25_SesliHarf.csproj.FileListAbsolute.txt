@@ -1,0 +1,14 @@
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev25_SesliHarf\bin\Debug\net8.0\Odev25_SesliHarf.exe
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev25_SesliHarf\bin\Debug\net8.0\Odev25_SesliHarf.deps.json
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev25_SesliHarf\bin\Debug\net8.0\Odev25_SesliHarf.runtimeconfig.json
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev25_SesliHarf\bin\Debug\net8.0\Odev25_SesliHarf.dll
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev25_SesliHarf\bin\Debug\net8.0\Odev25_SesliHarf.pdb
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev25_SesliHarf\obj\Debug\net8.0\Odev25_SesliHarf.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev25_SesliHarf\obj\Debug\net8.0\Odev25_SesliHarf.AssemblyInfoInputs.cache
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev25_SesliHarf\obj\Debug\net8.0\Odev25_SesliHarf.AssemblyInfo.cs
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev25_SesliHarf\obj\Debug\net8.0\Odev25_SesliHarf.csproj.CoreCompileInputs.cache
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev25_SesliHarf\obj\Debug\net8.0\Odev25_SesliHarf.dll
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev25_SesliHarf\obj\Debug\net8.0\refint\Odev25_SesliHarf.dll
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev25_SesliHarf\obj\Debug\net8.0\Odev25_SesliHarf.pdb
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev25_SesliHarf\obj\Debug\net8.0\Odev25_SesliHarf.genruntimeconfig.cache
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev25_SesliHarf\obj\Debug\net8.0\ref\Odev25_SesliHarf.dll

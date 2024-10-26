@@ -1,0 +1,14 @@
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev_2\Odev_05_Class_Musteri\bin\Debug\net8.0\Odev_05_Class_Musteri.exe
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev_2\Odev_05_Class_Musteri\bin\Debug\net8.0\Odev_05_Class_Musteri.deps.json
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev_2\Odev_05_Class_Musteri\bin\Debug\net8.0\Odev_05_Class_Musteri.runtimeconfig.json
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev_2\Odev_05_Class_Musteri\bin\Debug\net8.0\Odev_05_Class_Musteri.dll
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev_2\Odev_05_Class_Musteri\bin\Debug\net8.0\Odev_05_Class_Musteri.pdb
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev_2\Odev_05_Class_Musteri\obj\Debug\net8.0\Odev_05_Class_Musteri.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev_2\Odev_05_Class_Musteri\obj\Debug\net8.0\Odev_05_Class_Musteri.AssemblyInfoInputs.cache
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev_2\Odev_05_Class_Musteri\obj\Debug\net8.0\Odev_05_Class_Musteri.AssemblyInfo.cs
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev_2\Odev_05_Class_Musteri\obj\Debug\net8.0\Odev_05_Class_Musteri.csproj.CoreCompileInputs.cache
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev_2\Odev_05_Class_Musteri\obj\Debug\net8.0\Odev_05_Class_Musteri.dll
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev_2\Odev_05_Class_Musteri\obj\Debug\net8.0\refint\Odev_05_Class_Musteri.dll
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev_2\Odev_05_Class_Musteri\obj\Debug\net8.0\Odev_05_Class_Musteri.pdb
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev_2\Odev_05_Class_Musteri\obj\Debug\net8.0\Odev_05_Class_Musteri.genruntimeconfig.cache
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev_2\Odev_05_Class_Musteri\obj\Debug\net8.0\ref\Odev_05_Class_Musteri.dll

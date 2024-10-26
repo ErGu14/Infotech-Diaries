@@ -1,0 +1,14 @@
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev30_Polindrom\bin\Debug\net8.0\Odev30_Polindrom.exe
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev30_Polindrom\bin\Debug\net8.0\Odev30_Polindrom.deps.json
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev30_Polindrom\bin\Debug\net8.0\Odev30_Polindrom.runtimeconfig.json
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev30_Polindrom\bin\Debug\net8.0\Odev30_Polindrom.dll
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev30_Polindrom\bin\Debug\net8.0\Odev30_Polindrom.pdb
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev30_Polindrom\obj\Debug\net8.0\Odev30_Polindrom.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev30_Polindrom\obj\Debug\net8.0\Odev30_Polindrom.AssemblyInfoInputs.cache
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev30_Polindrom\obj\Debug\net8.0\Odev30_Polindrom.AssemblyInfo.cs
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev30_Polindrom\obj\Debug\net8.0\Odev30_Polindrom.csproj.CoreCompileInputs.cache
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev30_Polindrom\obj\Debug\net8.0\Odev30_Polindrom.dll
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev30_Polindrom\obj\Debug\net8.0\refint\Odev30_Polindrom.dll
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev30_Polindrom\obj\Debug\net8.0\Odev30_Polindrom.pdb
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev30_Polindrom\obj\Debug\net8.0\Odev30_Polindrom.genruntimeconfig.cache
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev30_Polindrom\obj\Debug\net8.0\ref\Odev30_Polindrom.dll

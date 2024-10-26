@@ -1,0 +1,14 @@
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev26_BuyukKucukHarf\bin\Debug\net8.0\Odev26_BuyukKucukHarf.exe
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev26_BuyukKucukHarf\bin\Debug\net8.0\Odev26_BuyukKucukHarf.deps.json
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev26_BuyukKucukHarf\bin\Debug\net8.0\Odev26_BuyukKucukHarf.runtimeconfig.json
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev26_BuyukKucukHarf\bin\Debug\net8.0\Odev26_BuyukKucukHarf.dll
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev26_BuyukKucukHarf\bin\Debug\net8.0\Odev26_BuyukKucukHarf.pdb
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev26_BuyukKucukHarf\obj\Debug\net8.0\Odev26_BuyukKucukHarf.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev26_BuyukKucukHarf\obj\Debug\net8.0\Odev26_BuyukKucukHarf.AssemblyInfoInputs.cache
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev26_BuyukKucukHarf\obj\Debug\net8.0\Odev26_BuyukKucukHarf.AssemblyInfo.cs
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev26_BuyukKucukHarf\obj\Debug\net8.0\Odev26_BuyukKucukHarf.csproj.CoreCompileInputs.cache
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev26_BuyukKucukHarf\obj\Debug\net8.0\Odev26_BuyukKucukHarf.dll
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev26_BuyukKucukHarf\obj\Debug\net8.0\refint\Odev26_BuyukKucukHarf.dll
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev26_BuyukKucukHarf\obj\Debug\net8.0\Odev26_BuyukKucukHarf.pdb
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev26_BuyukKucukHarf\obj\Debug\net8.0\Odev26_BuyukKucukHarf.genruntimeconfig.cache
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev26_BuyukKucukHarf\obj\Debug\net8.0\ref\Odev26_BuyukKucukHarf.dll

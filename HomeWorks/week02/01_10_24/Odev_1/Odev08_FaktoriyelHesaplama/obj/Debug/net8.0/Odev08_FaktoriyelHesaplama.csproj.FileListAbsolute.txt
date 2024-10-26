@@ -1,0 +1,14 @@
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev08_FaktoriyelHesaplama\bin\Debug\net8.0\Odev08_FaktoriyelHesaplama.exe
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev08_FaktoriyelHesaplama\bin\Debug\net8.0\Odev08_FaktoriyelHesaplama.deps.json
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev08_FaktoriyelHesaplama\bin\Debug\net8.0\Odev08_FaktoriyelHesaplama.runtimeconfig.json
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev08_FaktoriyelHesaplama\bin\Debug\net8.0\Odev08_FaktoriyelHesaplama.dll
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev08_FaktoriyelHesaplama\bin\Debug\net8.0\Odev08_FaktoriyelHesaplama.pdb
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev08_FaktoriyelHesaplama\obj\Debug\net8.0\Odev08_FaktoriyelHesaplama.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev08_FaktoriyelHesaplama\obj\Debug\net8.0\Odev08_FaktoriyelHesaplama.AssemblyInfoInputs.cache
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev08_FaktoriyelHesaplama\obj\Debug\net8.0\Odev08_FaktoriyelHesaplama.AssemblyInfo.cs
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev08_FaktoriyelHesaplama\obj\Debug\net8.0\Odev08_FaktoriyelHesaplama.csproj.CoreCompileInputs.cache
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev08_FaktoriyelHesaplama\obj\Debug\net8.0\Odev08_FaktoriyelHesaplama.dll
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev08_FaktoriyelHesaplama\obj\Debug\net8.0\refint\Odev08_FaktoriyelHesaplama.dll
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev08_FaktoriyelHesaplama\obj\Debug\net8.0\Odev08_FaktoriyelHesaplama.pdb
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev08_FaktoriyelHesaplama\obj\Debug\net8.0\Odev08_FaktoriyelHesaplama.genruntimeconfig.cache
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev08_FaktoriyelHesaplama\obj\Debug\net8.0\ref\Odev08_FaktoriyelHesaplama.dll

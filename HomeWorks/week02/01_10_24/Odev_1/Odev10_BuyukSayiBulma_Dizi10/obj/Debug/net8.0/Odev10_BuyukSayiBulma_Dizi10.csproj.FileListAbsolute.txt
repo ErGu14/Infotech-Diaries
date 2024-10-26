@@ -1,0 +1,14 @@
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev10_BuyukSayiBulma_Dizi10\bin\Debug\net8.0\Odev10_BuyukSayiBulma_Dizi10.exe
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev10_BuyukSayiBulma_Dizi10\bin\Debug\net8.0\Odev10_BuyukSayiBulma_Dizi10.deps.json
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev10_BuyukSayiBulma_Dizi10\bin\Debug\net8.0\Odev10_BuyukSayiBulma_Dizi10.runtimeconfig.json
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev10_BuyukSayiBulma_Dizi10\bin\Debug\net8.0\Odev10_BuyukSayiBulma_Dizi10.dll
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev10_BuyukSayiBulma_Dizi10\bin\Debug\net8.0\Odev10_BuyukSayiBulma_Dizi10.pdb
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev10_BuyukSayiBulma_Dizi10\obj\Debug\net8.0\Odev10_BuyukSayiBulma_Dizi10.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev10_BuyukSayiBulma_Dizi10\obj\Debug\net8.0\Odev10_BuyukSayiBulma_Dizi10.AssemblyInfoInputs.cache
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev10_BuyukSayiBulma_Dizi10\obj\Debug\net8.0\Odev10_BuyukSayiBulma_Dizi10.AssemblyInfo.cs
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev10_BuyukSayiBulma_Dizi10\obj\Debug\net8.0\Odev10_BuyukSayiBulma_Dizi10.csproj.CoreCompileInputs.cache
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev10_BuyukSayiBulma_Dizi10\obj\Debug\net8.0\Odev10_BuyukSayiBulma_Dizi10.dll
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev10_BuyukSayiBulma_Dizi10\obj\Debug\net8.0\refint\Odev10_BuyukSayiBulma_Dizi10.dll
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev10_BuyukSayiBulma_Dizi10\obj\Debug\net8.0\Odev10_BuyukSayiBulma_Dizi10.pdb
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev10_BuyukSayiBulma_Dizi10\obj\Debug\net8.0\Odev10_BuyukSayiBulma_Dizi10.genruntimeconfig.cache
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev10_BuyukSayiBulma_Dizi10\obj\Debug\net8.0\ref\Odev10_BuyukSayiBulma_Dizi10.dll

@@ -1,0 +1,28 @@
+C:\Users\erayg\source\repos\Odev04_PozitifNegatif\bin\Debug\net8.0\Odev04_PozitifNegatif.exe
+C:\Users\erayg\source\repos\Odev04_PozitifNegatif\bin\Debug\net8.0\Odev04_PozitifNegatif.deps.json
+C:\Users\erayg\source\repos\Odev04_PozitifNegatif\bin\Debug\net8.0\Odev04_PozitifNegatif.runtimeconfig.json
+C:\Users\erayg\source\repos\Odev04_PozitifNegatif\bin\Debug\net8.0\Odev04_PozitifNegatif.dll
+C:\Users\erayg\source\repos\Odev04_PozitifNegatif\bin\Debug\net8.0\Odev04_PozitifNegatif.pdb
+C:\Users\erayg\source\repos\Odev04_PozitifNegatif\obj\Debug\net8.0\Odev04_PozitifNegatif.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erayg\source\repos\Odev04_PozitifNegatif\obj\Debug\net8.0\Odev04_PozitifNegatif.AssemblyInfoInputs.cache
+C:\Users\erayg\source\repos\Odev04_PozitifNegatif\obj\Debug\net8.0\Odev04_PozitifNegatif.AssemblyInfo.cs
+C:\Users\erayg\source\repos\Odev04_PozitifNegatif\obj\Debug\net8.0\Odev04_PozitifNegatif.csproj.CoreCompileInputs.cache
+C:\Users\erayg\source\repos\Odev04_PozitifNegatif\obj\Debug\net8.0\Odev04_PozitifNegatif.dll
+C:\Users\erayg\source\repos\Odev04_PozitifNegatif\obj\Debug\net8.0\refint\Odev04_PozitifNegatif.dll
+C:\Users\erayg\source\repos\Odev04_PozitifNegatif\obj\Debug\net8.0\Odev04_PozitifNegatif.pdb
+C:\Users\erayg\source\repos\Odev04_PozitifNegatif\obj\Debug\net8.0\Odev04_PozitifNegatif.genruntimeconfig.cache
+C:\Users\erayg\source\repos\Odev04_PozitifNegatif\obj\Debug\net8.0\ref\Odev04_PozitifNegatif.dll
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev04_PozitifNegatif\bin\Debug\net8.0\Odev04_PozitifNegatif.exe
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev04_PozitifNegatif\bin\Debug\net8.0\Odev04_PozitifNegatif.deps.json
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev04_PozitifNegatif\bin\Debug\net8.0\Odev04_PozitifNegatif.runtimeconfig.json
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev04_PozitifNegatif\bin\Debug\net8.0\Odev04_PozitifNegatif.dll
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev04_PozitifNegatif\bin\Debug\net8.0\Odev04_PozitifNegatif.pdb
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev04_PozitifNegatif\obj\Debug\net8.0\Odev04_PozitifNegatif.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev04_PozitifNegatif\obj\Debug\net8.0\Odev04_PozitifNegatif.AssemblyInfoInputs.cache
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev04_PozitifNegatif\obj\Debug\net8.0\Odev04_PozitifNegatif.AssemblyInfo.cs
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev04_PozitifNegatif\obj\Debug\net8.0\Odev04_PozitifNegatif.csproj.CoreCompileInputs.cache
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev04_PozitifNegatif\obj\Debug\net8.0\Odev04_PozitifNegatif.dll
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev04_PozitifNegatif\obj\Debug\net8.0\refint\Odev04_PozitifNegatif.dll
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev04_PozitifNegatif\obj\Debug\net8.0\Odev04_PozitifNegatif.pdb
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev04_PozitifNegatif\obj\Debug\net8.0\Odev04_PozitifNegatif.genruntimeconfig.cache
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev04_PozitifNegatif\obj\Debug\net8.0\ref\Odev04_PozitifNegatif.dll

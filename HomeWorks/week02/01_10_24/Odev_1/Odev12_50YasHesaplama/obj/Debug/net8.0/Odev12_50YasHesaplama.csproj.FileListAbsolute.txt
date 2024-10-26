@@ -1,0 +1,14 @@
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev12_50YasHesaplama\bin\Debug\net8.0\Odev12_50YasHesaplama.exe
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev12_50YasHesaplama\bin\Debug\net8.0\Odev12_50YasHesaplama.deps.json
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev12_50YasHesaplama\bin\Debug\net8.0\Odev12_50YasHesaplama.runtimeconfig.json
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev12_50YasHesaplama\bin\Debug\net8.0\Odev12_50YasHesaplama.dll
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev12_50YasHesaplama\bin\Debug\net8.0\Odev12_50YasHesaplama.pdb
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev12_50YasHesaplama\obj\Debug\net8.0\Odev12_50YasHesaplama.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev12_50YasHesaplama\obj\Debug\net8.0\Odev12_50YasHesaplama.AssemblyInfoInputs.cache
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev12_50YasHesaplama\obj\Debug\net8.0\Odev12_50YasHesaplama.AssemblyInfo.cs
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev12_50YasHesaplama\obj\Debug\net8.0\Odev12_50YasHesaplama.csproj.CoreCompileInputs.cache
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev12_50YasHesaplama\obj\Debug\net8.0\Odev12_50YasHesaplama.dll
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev12_50YasHesaplama\obj\Debug\net8.0\refint\Odev12_50YasHesaplama.dll
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev12_50YasHesaplama\obj\Debug\net8.0\Odev12_50YasHesaplama.pdb
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev12_50YasHesaplama\obj\Debug\net8.0\Odev12_50YasHesaplama.genruntimeconfig.cache
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev12_50YasHesaplama\obj\Debug\net8.0\ref\Odev12_50YasHesaplama.dll

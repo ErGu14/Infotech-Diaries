@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Odev24_DiziOrtalamaVeToplama/1.0.0": {
+        "runtime": {
+          "Odev24_DiziOrtalamaVeToplama.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Odev24_DiziOrtalamaVeToplama/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

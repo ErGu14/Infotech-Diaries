@@ -1,0 +1,14 @@
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev_2\Odev10_Class_Zoo\bin\Debug\net8.0\Odev10_Class_Zoo.exe
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev_2\Odev10_Class_Zoo\bin\Debug\net8.0\Odev10_Class_Zoo.deps.json
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev_2\Odev10_Class_Zoo\bin\Debug\net8.0\Odev10_Class_Zoo.runtimeconfig.json
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev_2\Odev10_Class_Zoo\bin\Debug\net8.0\Odev10_Class_Zoo.dll
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev_2\Odev10_Class_Zoo\bin\Debug\net8.0\Odev10_Class_Zoo.pdb
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev_2\Odev10_Class_Zoo\obj\Debug\net8.0\Odev10_Class_Zoo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev_2\Odev10_Class_Zoo\obj\Debug\net8.0\Odev10_Class_Zoo.AssemblyInfoInputs.cache
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev_2\Odev10_Class_Zoo\obj\Debug\net8.0\Odev10_Class_Zoo.AssemblyInfo.cs
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev_2\Odev10_Class_Zoo\obj\Debug\net8.0\Odev10_Class_Zoo.csproj.CoreCompileInputs.cache
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev_2\Odev10_Class_Zoo\obj\Debug\net8.0\Odev10_Class_Zoo.dll
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev_2\Odev10_Class_Zoo\obj\Debug\net8.0\refint\Odev10_Class_Zoo.dll
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev_2\Odev10_Class_Zoo\obj\Debug\net8.0\Odev10_Class_Zoo.pdb
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev_2\Odev10_Class_Zoo\obj\Debug\net8.0\Odev10_Class_Zoo.genruntimeconfig.cache
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev_2\Odev10_Class_Zoo\obj\Debug\net8.0\ref\Odev10_Class_Zoo.dll

@@ -1,0 +1,48 @@
+HTML Semantik Etiketleri
+
+Bu etiketler bize düzenlemede içeriğin ne tür içerik olduğunu gruplandırmamıza yarıyor 
+div ile sayfanın altını üstünü işte menümü olduğunu claslarla veya idlerle bildiriyorduk fakat şu an işleyeceğim etiketler ile bana belirli bir yeri işaret etmemde yardımcı olucak.
+
+Peki bu etiketler neler ?
+
+section = bu etiket sayfada bir tane bölüm tanımlar :  genellikle ana sayfaya giriş,içerik,duyurular,iletişim bölümleri için kullanılabilir (divin bir benzeri sadece kendine has düzenlenebilir bir alan oluşturuyor)
+
+article = bu etiket sayfada içerik alanını tanımlar site türüne göre forum yazıları, blog yazıları, köşe yazıları vb yerlerde kullanılabilir / İçeriğin makale, deneme olduğunu belirtir.
+
+
+header = içeriğin veya sayfanın başlığını belirtir 
+
+footer = içeriğin alt bölümü veya sayfanın alt bölümü için bilgi yazmamızı sağlar bu etiket  telif hakkı, iletişim bilgileri, kullanım şartları vb. yerlerde kullanılabilir.
+
+nav = içeriğin bağlantıları veya bağlantı noktalarının bulunduğu yeri belirtir site içi dolaşım gibi şeylerde kullanılabilir
+
+aside = içeriğin yan menü veya kenar çubuğu olduğunu gösterir
+
+figure = içeriğin şekil, fotoğraf, şema olduğunu belirtir
+
+figcaption = figüre etiketine başlık belirtir (ilk figürü yaz sonra içine figcaption ekle  ve alta veya üste yazma zorunluluğun yok tasarımına göre) 
+
+main = sayfa içeriğinin ana kökünü belirtir
+
+mark =içeriğin vurgulanmış, işaretlenmiş olduğu belirtilir
+
+details = özet için detay bilgisi tanımlar (ayrı bir ayrıntılar sekmesi oluşturuyor ve içine bilgileri girip bilgilerin görünürlüğünü açıp kapayabiliyoruz)
+
+summary = <details> etiketi için özet/başlık tanımlar.
+
+time = içeriğin tarih/ saat olduğunu belirtir (tarayıcının okumasına ve arama yapıldığında tarih belirtilmesine yardımcı oluyor)
+
+
+
+Not 1 = HTML De copyright sembolü kullanmak için metnin hemen başına " &copy; " yazmam yeterli.
+
+
+
+
+
+
+
+
+
+
+

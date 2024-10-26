@@ -1,0 +1,14 @@
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev34_KelimeTersCevirici\bin\Debug\net8.0\Odev34_KelimeTersCevirici.exe
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev34_KelimeTersCevirici\bin\Debug\net8.0\Odev34_KelimeTersCevirici.deps.json
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev34_KelimeTersCevirici\bin\Debug\net8.0\Odev34_KelimeTersCevirici.runtimeconfig.json
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev34_KelimeTersCevirici\bin\Debug\net8.0\Odev34_KelimeTersCevirici.dll
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev34_KelimeTersCevirici\bin\Debug\net8.0\Odev34_KelimeTersCevirici.pdb
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev34_KelimeTersCevirici\obj\Debug\net8.0\Odev34_KelimeTersCevirici.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev34_KelimeTersCevirici\obj\Debug\net8.0\Odev34_KelimeTersCevirici.AssemblyInfoInputs.cache
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev34_KelimeTersCevirici\obj\Debug\net8.0\Odev34_KelimeTersCevirici.AssemblyInfo.cs
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev34_KelimeTersCevirici\obj\Debug\net8.0\Odev34_KelimeTersCevirici.csproj.CoreCompileInputs.cache
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev34_KelimeTersCevirici\obj\Debug\net8.0\Odev34_KelimeTersCevirici.dll
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev34_KelimeTersCevirici\obj\Debug\net8.0\refint\Odev34_KelimeTersCevirici.dll
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev34_KelimeTersCevirici\obj\Debug\net8.0\Odev34_KelimeTersCevirici.pdb
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev34_KelimeTersCevirici\obj\Debug\net8.0\Odev34_KelimeTersCevirici.genruntimeconfig.cache
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev34_KelimeTersCevirici\obj\Debug\net8.0\ref\Odev34_KelimeTersCevirici.dll

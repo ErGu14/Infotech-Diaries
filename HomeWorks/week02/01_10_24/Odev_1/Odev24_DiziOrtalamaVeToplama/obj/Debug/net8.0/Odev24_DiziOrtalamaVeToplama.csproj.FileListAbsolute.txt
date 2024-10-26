@@ -1,0 +1,14 @@
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev24_DiziOrtalamaVeToplama\bin\Debug\net8.0\Odev24_DiziOrtalamaVeToplama.exe
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev24_DiziOrtalamaVeToplama\bin\Debug\net8.0\Odev24_DiziOrtalamaVeToplama.deps.json
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev24_DiziOrtalamaVeToplama\bin\Debug\net8.0\Odev24_DiziOrtalamaVeToplama.runtimeconfig.json
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev24_DiziOrtalamaVeToplama\bin\Debug\net8.0\Odev24_DiziOrtalamaVeToplama.dll
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev24_DiziOrtalamaVeToplama\bin\Debug\net8.0\Odev24_DiziOrtalamaVeToplama.pdb
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev24_DiziOrtalamaVeToplama\obj\Debug\net8.0\Odev24_DiziOrtalamaVeToplama.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev24_DiziOrtalamaVeToplama\obj\Debug\net8.0\Odev24_DiziOrtalamaVeToplama.AssemblyInfoInputs.cache
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev24_DiziOrtalamaVeToplama\obj\Debug\net8.0\Odev24_DiziOrtalamaVeToplama.AssemblyInfo.cs
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev24_DiziOrtalamaVeToplama\obj\Debug\net8.0\Odev24_DiziOrtalamaVeToplama.csproj.CoreCompileInputs.cache
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev24_DiziOrtalamaVeToplama\obj\Debug\net8.0\Odev24_DiziOrtalamaVeToplama.dll
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev24_DiziOrtalamaVeToplama\obj\Debug\net8.0\refint\Odev24_DiziOrtalamaVeToplama.dll
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev24_DiziOrtalamaVeToplama\obj\Debug\net8.0\Odev24_DiziOrtalamaVeToplama.pdb
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev24_DiziOrtalamaVeToplama\obj\Debug\net8.0\Odev24_DiziOrtalamaVeToplama.genruntimeconfig.cache
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev24_DiziOrtalamaVeToplama\obj\Debug\net8.0\ref\Odev24_DiziOrtalamaVeToplama.dll

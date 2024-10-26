@@ -1,0 +1,14 @@
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev19_ArtikYil\bin\Debug\net8.0\Odev19_ArtikYil.exe
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev19_ArtikYil\bin\Debug\net8.0\Odev19_ArtikYil.deps.json
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev19_ArtikYil\bin\Debug\net8.0\Odev19_ArtikYil.runtimeconfig.json
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev19_ArtikYil\bin\Debug\net8.0\Odev19_ArtikYil.dll
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev19_ArtikYil\bin\Debug\net8.0\Odev19_ArtikYil.pdb
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev19_ArtikYil\obj\Debug\net8.0\Odev19_ArtikYil.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev19_ArtikYil\obj\Debug\net8.0\Odev19_ArtikYil.AssemblyInfoInputs.cache
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev19_ArtikYil\obj\Debug\net8.0\Odev19_ArtikYil.AssemblyInfo.cs
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev19_ArtikYil\obj\Debug\net8.0\Odev19_ArtikYil.csproj.CoreCompileInputs.cache
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev19_ArtikYil\obj\Debug\net8.0\Odev19_ArtikYil.dll
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev19_ArtikYil\obj\Debug\net8.0\refint\Odev19_ArtikYil.dll
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev19_ArtikYil\obj\Debug\net8.0\Odev19_ArtikYil.pdb
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev19_ArtikYil\obj\Debug\net8.0\Odev19_ArtikYil.genruntimeconfig.cache
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev19_ArtikYil\obj\Debug\net8.0\ref\Odev19_ArtikYil.dll

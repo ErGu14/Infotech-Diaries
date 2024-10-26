@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ODEV02_1_Den_100_E_Kadar/1.0.0": {
+        "runtime": {
+          "ODEV02_1_Den_100_E_Kadar.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ODEV02_1_Den_100_E_Kadar/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

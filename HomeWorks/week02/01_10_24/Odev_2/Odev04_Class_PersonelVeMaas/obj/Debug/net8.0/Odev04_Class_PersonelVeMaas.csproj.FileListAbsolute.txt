@@ -1,0 +1,14 @@
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev_2\Odev04_Class_PersonelVeMaas\bin\Debug\net8.0\Odev04_Class_PersonelVeMaas.exe
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev_2\Odev04_Class_PersonelVeMaas\bin\Debug\net8.0\Odev04_Class_PersonelVeMaas.deps.json
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev_2\Odev04_Class_PersonelVeMaas\bin\Debug\net8.0\Odev04_Class_PersonelVeMaas.runtimeconfig.json
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev_2\Odev04_Class_PersonelVeMaas\bin\Debug\net8.0\Odev04_Class_PersonelVeMaas.dll
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev_2\Odev04_Class_PersonelVeMaas\bin\Debug\net8.0\Odev04_Class_PersonelVeMaas.pdb
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev_2\Odev04_Class_PersonelVeMaas\obj\Debug\net8.0\Odev04_Class_PersonelVeMaas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev_2\Odev04_Class_PersonelVeMaas\obj\Debug\net8.0\Odev04_Class_PersonelVeMaas.AssemblyInfoInputs.cache
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev_2\Odev04_Class_PersonelVeMaas\obj\Debug\net8.0\Odev04_Class_PersonelVeMaas.AssemblyInfo.cs
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev_2\Odev04_Class_PersonelVeMaas\obj\Debug\net8.0\Odev04_Class_PersonelVeMaas.csproj.CoreCompileInputs.cache
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev_2\Odev04_Class_PersonelVeMaas\obj\Debug\net8.0\Odev04_Class_PersonelVeMaas.dll
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev_2\Odev04_Class_PersonelVeMaas\obj\Debug\net8.0\refint\Odev04_Class_PersonelVeMaas.dll
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev_2\Odev04_Class_PersonelVeMaas\obj\Debug\net8.0\Odev04_Class_PersonelVeMaas.pdb
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev_2\Odev04_Class_PersonelVeMaas\obj\Debug\net8.0\Odev04_Class_PersonelVeMaas.genruntimeconfig.cache
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev_2\Odev04_Class_PersonelVeMaas\obj\Debug\net8.0\ref\Odev04_Class_PersonelVeMaas.dll

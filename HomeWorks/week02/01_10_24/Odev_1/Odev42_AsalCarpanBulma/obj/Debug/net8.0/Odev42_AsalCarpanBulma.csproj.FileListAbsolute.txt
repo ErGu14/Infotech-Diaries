@@ -1,0 +1,14 @@
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev42_AsalCarpanBulma\bin\Debug\net8.0\Odev42_AsalCarpanBulma.exe
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev42_AsalCarpanBulma\bin\Debug\net8.0\Odev42_AsalCarpanBulma.deps.json
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev42_AsalCarpanBulma\bin\Debug\net8.0\Odev42_AsalCarpanBulma.runtimeconfig.json
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev42_AsalCarpanBulma\bin\Debug\net8.0\Odev42_AsalCarpanBulma.dll
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev42_AsalCarpanBulma\bin\Debug\net8.0\Odev42_AsalCarpanBulma.pdb
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev42_AsalCarpanBulma\obj\Debug\net8.0\Odev42_AsalCarpanBulma.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev42_AsalCarpanBulma\obj\Debug\net8.0\Odev42_AsalCarpanBulma.AssemblyInfoInputs.cache
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev42_AsalCarpanBulma\obj\Debug\net8.0\Odev42_AsalCarpanBulma.AssemblyInfo.cs
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev42_AsalCarpanBulma\obj\Debug\net8.0\Odev42_AsalCarpanBulma.csproj.CoreCompileInputs.cache
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev42_AsalCarpanBulma\obj\Debug\net8.0\Odev42_AsalCarpanBulma.dll
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev42_AsalCarpanBulma\obj\Debug\net8.0\refint\Odev42_AsalCarpanBulma.dll
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev42_AsalCarpanBulma\obj\Debug\net8.0\Odev42_AsalCarpanBulma.pdb
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev42_AsalCarpanBulma\obj\Debug\net8.0\Odev42_AsalCarpanBulma.genruntimeconfig.cache
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev42_AsalCarpanBulma\obj\Debug\net8.0\ref\Odev42_AsalCarpanBulma.dll

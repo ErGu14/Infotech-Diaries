@@ -1,0 +1,14 @@
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev14_20DiziSiralama\bin\Debug\net8.0\Odev14_20DiziSiralama.exe
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev14_20DiziSiralama\bin\Debug\net8.0\Odev14_20DiziSiralama.deps.json
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev14_20DiziSiralama\bin\Debug\net8.0\Odev14_20DiziSiralama.runtimeconfig.json
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev14_20DiziSiralama\bin\Debug\net8.0\Odev14_20DiziSiralama.dll
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev14_20DiziSiralama\bin\Debug\net8.0\Odev14_20DiziSiralama.pdb
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev14_20DiziSiralama\obj\Debug\net8.0\Odev14_20DiziSiralama.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev14_20DiziSiralama\obj\Debug\net8.0\Odev14_20DiziSiralama.AssemblyInfoInputs.cache
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev14_20DiziSiralama\obj\Debug\net8.0\Odev14_20DiziSiralama.AssemblyInfo.cs
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev14_20DiziSiralama\obj\Debug\net8.0\Odev14_20DiziSiralama.csproj.CoreCompileInputs.cache
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev14_20DiziSiralama\obj\Debug\net8.0\Odev14_20DiziSiralama.dll
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev14_20DiziSiralama\obj\Debug\net8.0\refint\Odev14_20DiziSiralama.dll
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev14_20DiziSiralama\obj\Debug\net8.0\Odev14_20DiziSiralama.pdb
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev14_20DiziSiralama\obj\Debug\net8.0\Odev14_20DiziSiralama.genruntimeconfig.cache
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev14_20DiziSiralama\obj\Debug\net8.0\ref\Odev14_20DiziSiralama.dll

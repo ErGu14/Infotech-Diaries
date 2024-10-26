@@ -1,0 +1,14 @@
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev21_Fibonacci\bin\Debug\net8.0\Odev21_Fibonacci.exe
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev21_Fibonacci\bin\Debug\net8.0\Odev21_Fibonacci.deps.json
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev21_Fibonacci\bin\Debug\net8.0\Odev21_Fibonacci.runtimeconfig.json
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev21_Fibonacci\bin\Debug\net8.0\Odev21_Fibonacci.dll
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev21_Fibonacci\bin\Debug\net8.0\Odev21_Fibonacci.pdb
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev21_Fibonacci\obj\Debug\net8.0\Odev21_Fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev21_Fibonacci\obj\Debug\net8.0\Odev21_Fibonacci.AssemblyInfoInputs.cache
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev21_Fibonacci\obj\Debug\net8.0\Odev21_Fibonacci.AssemblyInfo.cs
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev21_Fibonacci\obj\Debug\net8.0\Odev21_Fibonacci.csproj.CoreCompileInputs.cache
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev21_Fibonacci\obj\Debug\net8.0\Odev21_Fibonacci.dll
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev21_Fibonacci\obj\Debug\net8.0\refint\Odev21_Fibonacci.dll
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev21_Fibonacci\obj\Debug\net8.0\Odev21_Fibonacci.pdb
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev21_Fibonacci\obj\Debug\net8.0\Odev21_Fibonacci.genruntimeconfig.cache
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev21_Fibonacci\obj\Debug\net8.0\ref\Odev21_Fibonacci.dll

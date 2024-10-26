@@ -1,0 +1,14 @@
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev_2\Odev02_Class_Araba\bin\Debug\net8.0\Odev02_Class_Araba.exe
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev_2\Odev02_Class_Araba\bin\Debug\net8.0\Odev02_Class_Araba.deps.json
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev_2\Odev02_Class_Araba\bin\Debug\net8.0\Odev02_Class_Araba.runtimeconfig.json
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev_2\Odev02_Class_Araba\bin\Debug\net8.0\Odev02_Class_Araba.dll
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev_2\Odev02_Class_Araba\bin\Debug\net8.0\Odev02_Class_Araba.pdb
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev_2\Odev02_Class_Araba\obj\Debug\net8.0\Odev02_Class_Araba.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev_2\Odev02_Class_Araba\obj\Debug\net8.0\Odev02_Class_Araba.AssemblyInfoInputs.cache
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev_2\Odev02_Class_Araba\obj\Debug\net8.0\Odev02_Class_Araba.AssemblyInfo.cs
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev_2\Odev02_Class_Araba\obj\Debug\net8.0\Odev02_Class_Araba.csproj.CoreCompileInputs.cache
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev_2\Odev02_Class_Araba\obj\Debug\net8.0\Odev02_Class_Araba.dll
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev_2\Odev02_Class_Araba\obj\Debug\net8.0\refint\Odev02_Class_Araba.dll
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev_2\Odev02_Class_Araba\obj\Debug\net8.0\Odev02_Class_Araba.pdb
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev_2\Odev02_Class_Araba\obj\Debug\net8.0\Odev02_Class_Araba.genruntimeconfig.cache
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev_2\Odev02_Class_Araba\obj\Debug\net8.0\ref\Odev02_Class_Araba.dll

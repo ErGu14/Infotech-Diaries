@@ -1,0 +1,14 @@
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev22_KelimeSayisi\bin\Debug\net8.0\Odev22_KelimeSayisi.exe
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev22_KelimeSayisi\bin\Debug\net8.0\Odev22_KelimeSayisi.deps.json
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev22_KelimeSayisi\bin\Debug\net8.0\Odev22_KelimeSayisi.runtimeconfig.json
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev22_KelimeSayisi\bin\Debug\net8.0\Odev22_KelimeSayisi.dll
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev22_KelimeSayisi\bin\Debug\net8.0\Odev22_KelimeSayisi.pdb
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev22_KelimeSayisi\obj\Debug\net8.0\Odev22_KelimeSayisi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev22_KelimeSayisi\obj\Debug\net8.0\Odev22_KelimeSayisi.AssemblyInfoInputs.cache
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev22_KelimeSayisi\obj\Debug\net8.0\Odev22_KelimeSayisi.AssemblyInfo.cs
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev22_KelimeSayisi\obj\Debug\net8.0\Odev22_KelimeSayisi.csproj.CoreCompileInputs.cache
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev22_KelimeSayisi\obj\Debug\net8.0\Odev22_KelimeSayisi.dll
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev22_KelimeSayisi\obj\Debug\net8.0\refint\Odev22_KelimeSayisi.dll
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev22_KelimeSayisi\obj\Debug\net8.0\Odev22_KelimeSayisi.pdb
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev22_KelimeSayisi\obj\Debug\net8.0\Odev22_KelimeSayisi.genruntimeconfig.cache
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev22_KelimeSayisi\obj\Debug\net8.0\ref\Odev22_KelimeSayisi.dll

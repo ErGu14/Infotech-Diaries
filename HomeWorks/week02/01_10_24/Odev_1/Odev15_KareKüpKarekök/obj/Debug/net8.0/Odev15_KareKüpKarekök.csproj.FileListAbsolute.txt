@@ -1,0 +1,14 @@
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev15_KareKüpKarekök\bin\Debug\net8.0\Odev15_KareKüpKarekök.exe
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev15_KareKüpKarekök\bin\Debug\net8.0\Odev15_KareKüpKarekök.deps.json
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev15_KareKüpKarekök\bin\Debug\net8.0\Odev15_KareKüpKarekök.runtimeconfig.json
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev15_KareKüpKarekök\bin\Debug\net8.0\Odev15_KareKüpKarekök.dll
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev15_KareKüpKarekök\bin\Debug\net8.0\Odev15_KareKüpKarekök.pdb
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev15_KareKüpKarekök\obj\Debug\net8.0\Odev15_KareKüpKarekök.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev15_KareKüpKarekök\obj\Debug\net8.0\Odev15_KareKüpKarekök.AssemblyInfoInputs.cache
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev15_KareKüpKarekök\obj\Debug\net8.0\Odev15_KareKüpKarekök.AssemblyInfo.cs
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev15_KareKüpKarekök\obj\Debug\net8.0\Odev15_KareKüpKarekök.csproj.CoreCompileInputs.cache
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev15_KareKüpKarekök\obj\Debug\net8.0\Odev15_KareKüpKarekök.dll
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev15_KareKüpKarekök\obj\Debug\net8.0\refint\Odev15_KareKüpKarekök.dll
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev15_KareKüpKarekök\obj\Debug\net8.0\Odev15_KareKüpKarekök.pdb
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev15_KareKüpKarekök\obj\Debug\net8.0\Odev15_KareKüpKarekök.genruntimeconfig.cache
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev15_KareKüpKarekök\obj\Debug\net8.0\ref\Odev15_KareKüpKarekök.dll

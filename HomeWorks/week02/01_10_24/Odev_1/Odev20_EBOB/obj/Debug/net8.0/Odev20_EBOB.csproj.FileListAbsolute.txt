@@ -1,0 +1,14 @@
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev20_EBOB\bin\Debug\net8.0\Odev20_EBOB.exe
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev20_EBOB\bin\Debug\net8.0\Odev20_EBOB.deps.json
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev20_EBOB\bin\Debug\net8.0\Odev20_EBOB.runtimeconfig.json
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev20_EBOB\bin\Debug\net8.0\Odev20_EBOB.dll
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev20_EBOB\bin\Debug\net8.0\Odev20_EBOB.pdb
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev20_EBOB\obj\Debug\net8.0\Odev20_EBOB.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev20_EBOB\obj\Debug\net8.0\Odev20_EBOB.AssemblyInfoInputs.cache
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev20_EBOB\obj\Debug\net8.0\Odev20_EBOB.AssemblyInfo.cs
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev20_EBOB\obj\Debug\net8.0\Odev20_EBOB.csproj.CoreCompileInputs.cache
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev20_EBOB\obj\Debug\net8.0\Odev20_EBOB.dll
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev20_EBOB\obj\Debug\net8.0\refint\Odev20_EBOB.dll
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev20_EBOB\obj\Debug\net8.0\Odev20_EBOB.pdb
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev20_EBOB\obj\Debug\net8.0\Odev20_EBOB.genruntimeconfig.cache
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev20_EBOB\obj\Debug\net8.0\ref\Odev20_EBOB.dll

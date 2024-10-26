@@ -1,0 +1,14 @@
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev05_10_Elemanli_Dizi_Yazdirma\bin\Debug\net8.0\Odev05_10_Elemanli_Dizi_Yazdirma.exe
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev05_10_Elemanli_Dizi_Yazdirma\bin\Debug\net8.0\Odev05_10_Elemanli_Dizi_Yazdirma.deps.json
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev05_10_Elemanli_Dizi_Yazdirma\bin\Debug\net8.0\Odev05_10_Elemanli_Dizi_Yazdirma.runtimeconfig.json
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev05_10_Elemanli_Dizi_Yazdirma\bin\Debug\net8.0\Odev05_10_Elemanli_Dizi_Yazdirma.dll
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev05_10_Elemanli_Dizi_Yazdirma\bin\Debug\net8.0\Odev05_10_Elemanli_Dizi_Yazdirma.pdb
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev05_10_Elemanli_Dizi_Yazdirma\obj\Debug\net8.0\Odev05_10_Elemanli_Dizi_Yazdirma.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev05_10_Elemanli_Dizi_Yazdirma\obj\Debug\net8.0\Odev05_10_Elemanli_Dizi_Yazdirma.AssemblyInfoInputs.cache
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev05_10_Elemanli_Dizi_Yazdirma\obj\Debug\net8.0\Odev05_10_Elemanli_Dizi_Yazdirma.AssemblyInfo.cs
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev05_10_Elemanli_Dizi_Yazdirma\obj\Debug\net8.0\Odev05_10_Elemanli_Dizi_Yazdirma.csproj.CoreCompileInputs.cache
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev05_10_Elemanli_Dizi_Yazdirma\obj\Debug\net8.0\Odev05_10_Elemanli_Dizi_Yazdirma.dll
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev05_10_Elemanli_Dizi_Yazdirma\obj\Debug\net8.0\refint\Odev05_10_Elemanli_Dizi_Yazdirma.dll
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev05_10_Elemanli_Dizi_Yazdirma\obj\Debug\net8.0\Odev05_10_Elemanli_Dizi_Yazdirma.pdb
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev05_10_Elemanli_Dizi_Yazdirma\obj\Debug\net8.0\Odev05_10_Elemanli_Dizi_Yazdirma.genruntimeconfig.cache
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev05_10_Elemanli_Dizi_Yazdirma\obj\Debug\net8.0\ref\Odev05_10_Elemanli_Dizi_Yazdirma.dll

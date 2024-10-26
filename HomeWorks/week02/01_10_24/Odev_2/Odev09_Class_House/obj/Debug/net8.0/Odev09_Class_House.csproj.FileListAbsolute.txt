@@ -1,0 +1,14 @@
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev_2\Odev09_Class_House\bin\Debug\net8.0\Odev09_Class_House.exe
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev_2\Odev09_Class_House\bin\Debug\net8.0\Odev09_Class_House.deps.json
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev_2\Odev09_Class_House\bin\Debug\net8.0\Odev09_Class_House.runtimeconfig.json
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev_2\Odev09_Class_House\bin\Debug\net8.0\Odev09_Class_House.dll
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev_2\Odev09_Class_House\bin\Debug\net8.0\Odev09_Class_House.pdb
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev_2\Odev09_Class_House\obj\Debug\net8.0\Odev09_Class_House.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev_2\Odev09_Class_House\obj\Debug\net8.0\Odev09_Class_House.AssemblyInfoInputs.cache
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev_2\Odev09_Class_House\obj\Debug\net8.0\Odev09_Class_House.AssemblyInfo.cs
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev_2\Odev09_Class_House\obj\Debug\net8.0\Odev09_Class_House.csproj.CoreCompileInputs.cache
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev_2\Odev09_Class_House\obj\Debug\net8.0\Odev09_Class_House.dll
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev_2\Odev09_Class_House\obj\Debug\net8.0\refint\Odev09_Class_House.dll
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev_2\Odev09_Class_House\obj\Debug\net8.0\Odev09_Class_House.pdb
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev_2\Odev09_Class_House\obj\Debug\net8.0\Odev09_Class_House.genruntimeconfig.cache
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev_2\Odev09_Class_House\obj\Debug\net8.0\ref\Odev09_Class_House.dll

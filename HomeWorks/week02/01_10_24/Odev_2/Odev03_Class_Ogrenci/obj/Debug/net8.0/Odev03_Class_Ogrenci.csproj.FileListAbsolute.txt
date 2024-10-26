@@ -1,0 +1,14 @@
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev_2\Odev03_Class_Ogrenci\bin\Debug\net8.0\Odev03_Class_Ogrenci.exe
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev_2\Odev03_Class_Ogrenci\bin\Debug\net8.0\Odev03_Class_Ogrenci.deps.json
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev_2\Odev03_Class_Ogrenci\bin\Debug\net8.0\Odev03_Class_Ogrenci.runtimeconfig.json
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev_2\Odev03_Class_Ogrenci\bin\Debug\net8.0\Odev03_Class_Ogrenci.dll
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev_2\Odev03_Class_Ogrenci\bin\Debug\net8.0\Odev03_Class_Ogrenci.pdb
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev_2\Odev03_Class_Ogrenci\obj\Debug\net8.0\Odev03_Class_Ogrenci.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev_2\Odev03_Class_Ogrenci\obj\Debug\net8.0\Odev03_Class_Ogrenci.AssemblyInfoInputs.cache
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev_2\Odev03_Class_Ogrenci\obj\Debug\net8.0\Odev03_Class_Ogrenci.AssemblyInfo.cs
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev_2\Odev03_Class_Ogrenci\obj\Debug\net8.0\Odev03_Class_Ogrenci.csproj.CoreCompileInputs.cache
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev_2\Odev03_Class_Ogrenci\obj\Debug\net8.0\Odev03_Class_Ogrenci.dll
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev_2\Odev03_Class_Ogrenci\obj\Debug\net8.0\refint\Odev03_Class_Ogrenci.dll
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev_2\Odev03_Class_Ogrenci\obj\Debug\net8.0\Odev03_Class_Ogrenci.pdb
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev_2\Odev03_Class_Ogrenci\obj\Debug\net8.0\Odev03_Class_Ogrenci.genruntimeconfig.cache
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev_2\Odev03_Class_Ogrenci\obj\Debug\net8.0\ref\Odev03_Class_Ogrenci.dll

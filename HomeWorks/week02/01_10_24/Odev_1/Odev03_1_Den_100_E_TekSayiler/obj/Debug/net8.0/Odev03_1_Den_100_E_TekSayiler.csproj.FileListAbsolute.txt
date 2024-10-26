@@ -1,0 +1,14 @@
+C:\Users\erayg\source\repos\Odev03_1_Den_100_E_TekSayiler\bin\Debug\net8.0\Odev03_1_Den_100_E_TekSayiler.exe
+C:\Users\erayg\source\repos\Odev03_1_Den_100_E_TekSayiler\bin\Debug\net8.0\Odev03_1_Den_100_E_TekSayiler.deps.json
+C:\Users\erayg\source\repos\Odev03_1_Den_100_E_TekSayiler\bin\Debug\net8.0\Odev03_1_Den_100_E_TekSayiler.runtimeconfig.json
+C:\Users\erayg\source\repos\Odev03_1_Den_100_E_TekSayiler\bin\Debug\net8.0\Odev03_1_Den_100_E_TekSayiler.dll
+C:\Users\erayg\source\repos\Odev03_1_Den_100_E_TekSayiler\bin\Debug\net8.0\Odev03_1_Den_100_E_TekSayiler.pdb
+C:\Users\erayg\source\repos\Odev03_1_Den_100_E_TekSayiler\obj\Debug\net8.0\Odev03_1_Den_100_E_TekSayiler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erayg\source\repos\Odev03_1_Den_100_E_TekSayiler\obj\Debug\net8.0\Odev03_1_Den_100_E_TekSayiler.AssemblyInfoInputs.cache
+C:\Users\erayg\source\repos\Odev03_1_Den_100_E_TekSayiler\obj\Debug\net8.0\Odev03_1_Den_100_E_TekSayiler.AssemblyInfo.cs
+C:\Users\erayg\source\repos\Odev03_1_Den_100_E_TekSayiler\obj\Debug\net8.0\Odev03_1_Den_100_E_TekSayiler.csproj.CoreCompileInputs.cache
+C:\Users\erayg\source\repos\Odev03_1_Den_100_E_TekSayiler\obj\Debug\net8.0\Odev03_1_Den_100_E_TekSayiler.dll
+C:\Users\erayg\source\repos\Odev03_1_Den_100_E_TekSayiler\obj\Debug\net8.0\refint\Odev03_1_Den_100_E_TekSayiler.dll
+C:\Users\erayg\source\repos\Odev03_1_Den_100_E_TekSayiler\obj\Debug\net8.0\Odev03_1_Den_100_E_TekSayiler.pdb
+C:\Users\erayg\source\repos\Odev03_1_Den_100_E_TekSayiler\obj\Debug\net8.0\Odev03_1_Den_100_E_TekSayiler.genruntimeconfig.cache
+C:\Users\erayg\source\repos\Odev03_1_Den_100_E_TekSayiler\obj\Debug\net8.0\ref\Odev03_1_Den_100_E_TekSayiler.dll

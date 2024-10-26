@@ -1,0 +1,14 @@
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev07_SayilarinToplami\bin\Debug\net8.0\Odev07_SayilarinToplami.exe
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev07_SayilarinToplami\bin\Debug\net8.0\Odev07_SayilarinToplami.deps.json
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev07_SayilarinToplami\bin\Debug\net8.0\Odev07_SayilarinToplami.runtimeconfig.json
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev07_SayilarinToplami\bin\Debug\net8.0\Odev07_SayilarinToplami.dll
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev07_SayilarinToplami\bin\Debug\net8.0\Odev07_SayilarinToplami.pdb
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev07_SayilarinToplami\obj\Debug\net8.0\Odev07_SayilarinToplami.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev07_SayilarinToplami\obj\Debug\net8.0\Odev07_SayilarinToplami.AssemblyInfoInputs.cache
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev07_SayilarinToplami\obj\Debug\net8.0\Odev07_SayilarinToplami.AssemblyInfo.cs
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev07_SayilarinToplami\obj\Debug\net8.0\Odev07_SayilarinToplami.csproj.CoreCompileInputs.cache
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev07_SayilarinToplami\obj\Debug\net8.0\Odev07_SayilarinToplami.dll
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev07_SayilarinToplami\obj\Debug\net8.0\refint\Odev07_SayilarinToplami.dll
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev07_SayilarinToplami\obj\Debug\net8.0\Odev07_SayilarinToplami.pdb
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev07_SayilarinToplami\obj\Debug\net8.0\Odev07_SayilarinToplami.genruntimeconfig.cache
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev07_SayilarinToplami\obj\Debug\net8.0\ref\Odev07_SayilarinToplami.dll

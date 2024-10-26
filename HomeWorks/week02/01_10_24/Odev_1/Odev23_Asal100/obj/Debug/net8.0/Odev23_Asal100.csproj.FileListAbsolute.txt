@@ -1,0 +1,14 @@
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev23_Asal100\bin\Debug\net8.0\Odev23_Asal100.exe
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev23_Asal100\bin\Debug\net8.0\Odev23_Asal100.deps.json
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev23_Asal100\bin\Debug\net8.0\Odev23_Asal100.runtimeconfig.json
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev23_Asal100\bin\Debug\net8.0\Odev23_Asal100.dll
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev23_Asal100\bin\Debug\net8.0\Odev23_Asal100.pdb
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev23_Asal100\obj\Debug\net8.0\Odev23_Asal100.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev23_Asal100\obj\Debug\net8.0\Odev23_Asal100.AssemblyInfoInputs.cache
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev23_Asal100\obj\Debug\net8.0\Odev23_Asal100.AssemblyInfo.cs
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev23_Asal100\obj\Debug\net8.0\Odev23_Asal100.csproj.CoreCompileInputs.cache
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev23_Asal100\obj\Debug\net8.0\Odev23_Asal100.dll
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev23_Asal100\obj\Debug\net8.0\refint\Odev23_Asal100.dll
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev23_Asal100\obj\Debug\net8.0\Odev23_Asal100.pdb
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev23_Asal100\obj\Debug\net8.0\Odev23_Asal100.genruntimeconfig.cache
+D:\Kodlama\Infotech Odevler\week02\01_10_24\Odev23_Asal100\obj\Debug\net8.0\ref\Odev23_Asal100.dll

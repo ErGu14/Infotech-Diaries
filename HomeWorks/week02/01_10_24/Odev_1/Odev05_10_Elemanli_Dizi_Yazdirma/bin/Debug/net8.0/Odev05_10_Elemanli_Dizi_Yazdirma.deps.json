@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Odev05_10_Elemanli_Dizi_Yazdirma/1.0.0": {
+        "runtime": {
+          "Odev05_10_Elemanli_Dizi_Yazdirma.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Odev05_10_Elemanli_Dizi_Yazdirma/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
