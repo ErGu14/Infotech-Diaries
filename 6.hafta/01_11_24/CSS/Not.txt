@@ -1,0 +1,9 @@
+***BACKGROUND***
+
+iamge = resim ekleme
+position = pozisyonu
+repeat = tekrarlama
+size = boyut
+no repeat = tekrarlamicak
+cover = ortala gibi
+contain = resmin orjinal boyutunu bozmuyor
