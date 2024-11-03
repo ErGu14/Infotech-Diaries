@@ -1,0 +1,33 @@
+/* Burda textin rengini düzenliyoruz */
+p{
+    color: crimson;
+}
+
+/* burda ise textin nerede nasıl duracağı gibi işlemleri yapıyoruz */
+
+p{
+    text-align: center;  /*metin oluşan yerde tam ortada olsun*/
+    direction: rtl; /*metinn gidiş hizasını sağdan sola yapıyor*/
+    unicode-bidi: bidi-override; /*yazıyı ters çeviriyor*/  /*Not: üsteki olmadan alttakinin anlamı yok üstteki altyapı hazırlığı yapıyor alttaki ise işlemi uyguluyor*/
+}
+/* burda yapılan işlem dikey hizalanmasını sağlar */
+img{
+   
+    vertical-align: bottom;
+}
+
+/* burda yapılan işlemler metnin dekorasyonu için */
+
+p{
+    text-decoration-line:line-through; /*metnin üstüne altına içine çizgi eklemek */
+    text-decoration-color: blue;
+    text-decoration-style: dotted; /*çizgi stilini belirlemek aynı border stili belirlemek gibi*/
+    text-decoration-thickness: 3px; /*üstündeki çizginin kalınlığı*/
+    text-decoration: underline blue double 5px; /*yukarıda ayrı ayrı yazdığımız gibi tek satırdada yazabiliyoruz*/
+}
+
+/*burda yazdığımız yazıların işte büyük harf küçük harf gibi */
+
+p{
+    text-transform: capitalize; /*textte olan yazıların her bir kelimesinin baş harfi büyük olsun*/
+}

@@ -1,0 +1,1 @@
+Marginler içeriğin kenar boşluklarıdır.

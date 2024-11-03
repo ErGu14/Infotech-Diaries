@@ -1,0 +1,10 @@
+1- Strings başlığı incelendi ve egzersizleri yapıldı
+2- Booleans başlığı incelendi ve egzersizleri yapıldı
+3- if..Else başlığı incelendi ve egzersizleri yapıldı
+4- switch başlığı incelendi ve egzersizleri yapıldı
+5- while loop başlığı incelendi ve egzersizleri yapıldı
+6- for loop başlığı incelendi ve egzersizleri yapıldı
+7- break/continue başlığı incelendi ve egzersizleri yapıldı
+8- Arrays başlığı incelendi ve egzersizleri yapıldı
+
+incelemeler, notlar ve deneme kodları "24-09-24" tarihinde oluşturulan klasörün içindeki c# projesi içinden görünebilir.

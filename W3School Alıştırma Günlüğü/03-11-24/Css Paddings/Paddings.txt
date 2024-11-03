@@ -1,0 +1,1 @@
+paddings yani dolgular içeriğin etrafında tanımlanmış herahngi bir kenarlığın içinde boşluk oluşturmak için kullamnılır.

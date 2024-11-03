@@ -1,0 +1,125 @@
+/* Burada yapacağımız işlem yazdığımız "p" lerin borderlerini şekillendireceğiz */
+
+.dotted{
+    border-style: dotted;
+}
+
+.dashed{
+    border-style: dashed;
+}
+
+.solid{
+    border-style: solid;
+}
+
+.double{
+    border-style: double;
+}
+
+.groove{
+    border-style: groove;
+}
+
+.ridge{
+    border-style: ridge;
+}
+
+.inset{
+    border-style: inset;
+}
+
+.outset{
+    border-style: outset ;
+}
+
+.none{
+    border-style: none;
+}
+
+.hidden{
+    border-style: hidden;
+}
+
+.random{
+    border-style: dashed solid ridge groove;
+}
+
+/* Burada yapacağımız işlem yazdığımız "p" lerin border UZUNLUKLARINI şekillendireceğiz */
+
+#dotted{
+    border-width: 5px;
+    border-style: dotted;
+}
+
+#dashed{
+    border-width: 10px;
+    border-style: dashed;
+}
+
+#solid{
+    border-width: 8px;
+    border-style: solid;
+}
+
+#double{
+    border-width: 6px;
+    border-style: double;
+}
+
+#groove{
+    border-width: 11px;
+    border-style: groove;
+}
+
+#ridge{
+    border-width: 12px;
+    border-style: ridge;
+}
+
+#inset{
+    border-width: 20px;
+    border-style: inset;
+}
+
+#outset{
+    border-width: 20px;
+    border-style: outset ;
+}
+
+
+#random{
+    border-width: 20px;
+    border-style: dashed solid ridge groove;
+}
+
+/* borderlere border-color diyerek renk verebiliyoruz lakin 4 köşeye farklı renk vermek için şu şekilde yapıyoruz */
+
+#groove{
+    border-color: red blue green orange;
+    border-width: 11px;
+    border-style: groove;
+}
+
+/* borderlere stil uygulayabiliyoruz yani saağı solu aşağısı yukarısı ne olsun ne renk olsun gibi düzenlemeler yapabiliyoruz */
+
+#solid{
+    border-width: 8px;
+    border-style: solid dotted double ridge;
+    border-top-color: blue;
+    border-right-color: crimson;
+    border-bottom-color: blueviolet;
+    border-left-color: green;
+}
+
+/* sadece BORDER yazarak bir çok özelliğini tek satır kod halinde yazabiliyoruz */
+
+#random{
+    border: 5px red solid;
+}
+
+/* border-radius ile borderin köşelerini yuvarlaklaştırabiliyoruz */
+
+#random{
+    border-radius: 10px;
+    border: 5px red solid;
+}

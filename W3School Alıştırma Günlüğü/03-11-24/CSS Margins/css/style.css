@@ -1,0 +1,11 @@
+/* burda p attribute nin dış boşluğunu yani marginini düzenliyoruz (sağdan ve soldan 10 ar px boşluk koyuyoruz) */
+p{
+    /* font-variant-position: initial;    varsayılana döndürme */
+    /* font-variant-position: inherit;   üstten miras alma */
+    font-style: oblique;
+    border: 1px solid red;
+    margin: 10px 10px;
+    /* position: fixed; */
+    font-display: center;
+    text-align: center;  /* yazının yerini ayarlama*/ 
+}

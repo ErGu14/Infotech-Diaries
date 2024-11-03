@@ -1,0 +1,33 @@
+/* body classını çağırarak arka plan rengini değiştireceğiz */
+body{
+    background-color: dimgrey;
+}
+
+/* Divimizin arka plan rengini opaklaştırma  */
+.div1{
+    /* background-color: rgba(0, 255, 0, 0.5); -- Burda divimizin arka planını "rgba" ile değiştirip sonra "a" ile opaklığımızı ayarlayabiliyoruz */
+    background-color: green;
+    opacity: 0.5;
+}
+
+/* Burada arka planımıza resim ekliyoruz ve birkaç düzenleme yapıyoruz */
+body{
+     background-size: auto; /*--arka plan boyutu */
+    background-image: url("https://picsum.photos/id/870/200/300?grayscale&blur=2");
+     background-repeat: no-repeat; /*--arka planndaki çoğun şeyin tekrar etmesini önlemek için yazdığımız kod */
+     /* background-repeat: repeat-x;   -- resmin x ekseni üzerinde sadece tekrar etmesi */
+     /* background-repeat: repeat-y; -- resmin y ekseni üzerinde tekrar etmesi */
+     background-position: center; /*-- Bu attribute ise arka plan görüntüsünün pozisyonunu yani nerede duracağını gösteriyor */
+    /* background-attachment: fixed; arka plan görüntüsünün kaydırılıp kaydırılmayacağını veya düzeltilip düzeltilmeyeceğini belirtir (sayfanın geri kalanıyla birlikte kaydırılmaz):*/
+    /*background-attachment: scroll; Sayfa kaydıkça arka planda sayfa ile beraber kayar*/
+
+   /* NOT :
+        CSS arka planı - Steno özelliği
+
+            Kodu kısaltmak için tüm kodları tek bir satıra yazabiliriz*/
+
+            /* ÖRNEK
+            background: red url("https://picsum.photos/id/870/200/300?grayscale&blur=2") no-repeat center; */
+            background-clip: border-box; /*boyanacak yerin yerini ayarlama*/
+            background-origin: content-box; /*resmin nereye konumlanacağı belirlenir*/
+}

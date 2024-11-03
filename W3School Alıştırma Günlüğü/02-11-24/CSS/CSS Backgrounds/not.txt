@@ -1,0 +1,19 @@
+Özellik      -Açıklaması
+
+background    -Tüm arka plan özelliklerini tek bir bildirimde ayarlar
+
+background-attachment    -Bir arka plan resminin sabit mi yoksa sayfanın geri kalanıyla birlikte kaydırılıp kaydırılmayacağını ayarlar
+
+background-clip          -Arka planın boyama alanını belirtir
+
+background-color         -Bir öğenin arka plan rengini ayarlar
+
+background-origin        -Bir öğenin arka plan resmini ayarlar
+
+background-position      -Arka plan görsellerinin nereye konumlandırılacağını belirtir
+
+arka plan konumu          -Bir arka plan görüntüsünün başlangıç ​​konumunu ayarlar
+
+abackground-repeat        -Bir arka plan görüntüsünün nasıl tekrarlanacağını ayarlar
+
+background-size           -Arka plan görsellerinin boyutunu belirtir

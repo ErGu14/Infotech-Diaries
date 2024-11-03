@@ -1,0 +1,9 @@
+p{
+    padding-top: 30px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;  
+    background-color: red; /*background color padding sınırları içerisinde yer alır*/
+    border-style: solid;
+    text-align: center;
+}

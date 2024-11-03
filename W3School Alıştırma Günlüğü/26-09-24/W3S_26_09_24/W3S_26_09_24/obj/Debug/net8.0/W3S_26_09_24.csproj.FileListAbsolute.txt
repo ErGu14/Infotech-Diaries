@@ -1,0 +1,14 @@
+D:\Kodlama\W3School Alıştırma Günlüğü\26-09-24\W3S_26_09_24\W3S_26_09_24\bin\Debug\net8.0\W3S_26_09_24.exe
+D:\Kodlama\W3School Alıştırma Günlüğü\26-09-24\W3S_26_09_24\W3S_26_09_24\bin\Debug\net8.0\W3S_26_09_24.deps.json
+D:\Kodlama\W3School Alıştırma Günlüğü\26-09-24\W3S_26_09_24\W3S_26_09_24\bin\Debug\net8.0\W3S_26_09_24.runtimeconfig.json
+D:\Kodlama\W3School Alıştırma Günlüğü\26-09-24\W3S_26_09_24\W3S_26_09_24\bin\Debug\net8.0\W3S_26_09_24.dll
+D:\Kodlama\W3School Alıştırma Günlüğü\26-09-24\W3S_26_09_24\W3S_26_09_24\bin\Debug\net8.0\W3S_26_09_24.pdb
+D:\Kodlama\W3School Alıştırma Günlüğü\26-09-24\W3S_26_09_24\W3S_26_09_24\obj\Debug\net8.0\W3S_26_09_24.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kodlama\W3School Alıştırma Günlüğü\26-09-24\W3S_26_09_24\W3S_26_09_24\obj\Debug\net8.0\W3S_26_09_24.AssemblyInfoInputs.cache
+D:\Kodlama\W3School Alıştırma Günlüğü\26-09-24\W3S_26_09_24\W3S_26_09_24\obj\Debug\net8.0\W3S_26_09_24.AssemblyInfo.cs
+D:\Kodlama\W3School Alıştırma Günlüğü\26-09-24\W3S_26_09_24\W3S_26_09_24\obj\Debug\net8.0\W3S_26_09_24.csproj.CoreCompileInputs.cache
+D:\Kodlama\W3School Alıştırma Günlüğü\26-09-24\W3S_26_09_24\W3S_26_09_24\obj\Debug\net8.0\W3S_26_09_24.dll
+D:\Kodlama\W3School Alıştırma Günlüğü\26-09-24\W3S_26_09_24\W3S_26_09_24\obj\Debug\net8.0\refint\W3S_26_09_24.dll
+D:\Kodlama\W3School Alıştırma Günlüğü\26-09-24\W3S_26_09_24\W3S_26_09_24\obj\Debug\net8.0\W3S_26_09_24.pdb
+D:\Kodlama\W3School Alıştırma Günlüğü\26-09-24\W3S_26_09_24\W3S_26_09_24\obj\Debug\net8.0\W3S_26_09_24.genruntimeconfig.cache
+D:\Kodlama\W3School Alıştırma Günlüğü\26-09-24\W3S_26_09_24\W3S_26_09_24\obj\Debug\net8.0\ref\W3S_26_09_24.dll
