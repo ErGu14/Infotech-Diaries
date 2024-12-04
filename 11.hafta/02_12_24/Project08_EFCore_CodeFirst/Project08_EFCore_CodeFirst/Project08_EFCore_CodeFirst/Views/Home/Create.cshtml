@@ -1,0 +1,41 @@
+﻿@model Student
+<form asp-controller="Home" asp-action="Create" method="post">
+    <div class="mb-3">
+        <label class="form-label"asp-for="FirstName"></label>
+        <input asp-for="FirstName "></input>
+        <span class="text-danger" asp-validation-for="FirstName"></span>
+    </div>
+    <div class="mb-3">
+        <label class="form-label" asp-for="LastName"></label>
+        <input asp-for="LastName"></input>
+        <span class="text-danger" asp-validation-for="LastName"></span>
+    </div>
+    <div class="mb-3">
+        <label class="form-label" asp-for="Email"></label>
+        <input asp-for="Email"></input>
+        <span class="text-danger" asp-validation-for="Email"></span>
+    </div>
+    <div class="mb-3">
+        <label class="form-label" asp-for="Age"></label>
+        <input asp-for="Age"></input>
+        <span class="text-danger" asp-validation-for="Age"></span>
+    </div>ex
+    <div class="mb-3">
+        <label class="form-label" asp-for="Password"></label>
+        <input asp-for="Password"></input>
+        <span class="text-danger" asp-validation-for="Password"></span>
+    </div>
+    <div class="mb-3">
+        <label class="form-label" asp-for="RePassword"></label>
+        <input asp-for="RePassword"></input>
+        <span class="text-danger" asp-validation-for="RePassword"></span>
+    </div>
+    <div class="mb-3">
+        <label class="form-label" asp-for="ApplyDate"></label>
+        <input asp-for="ApplyDate"></input>
+        <span class="text-danger" asp-validation-for="ApplyDate"></span>
+    </div>
+    <div>
+        <button type="submit" class="btn btn-primary">Kaydet</button>
+    </div>
+</form>

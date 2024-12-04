@@ -1,0 +1,56 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: aliceblue;
+    margin: 0; 
+}
+
+.slider{
+    position: relative;
+    width: 80%;
+    max-width: 600px;
+    border-radius: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, .1);
+    overflow: hidden;
+}
+
+.slides{
+    height: 400px;
+
+}
+
+.slide{
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 100%;
+    opacity: 0;
+    transition: opacity 1s ease-in-out;
+}
+.slide.active{
+    opacity: 1;
+}
+
+button{
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%); /*absolute bir şeyin pozisyonunu daha geniş işlemlerle konumaldırmaya yarıyor*/
+    background-color: rgba(0, 0, 0, .5);
+    color: white;
+    border:none;
+    padding: 10px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+.prev{
+    left: 10px;
+}
+
+.next{
+    right: 10px;
+}

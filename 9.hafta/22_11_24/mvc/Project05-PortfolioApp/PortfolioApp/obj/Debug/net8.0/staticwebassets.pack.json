@@ -1,0 +1,637 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\9.hafta\\22_11_24\\mvc\\Project05-PortfolioApp\\PortfolioApp\\wwwroot\\ui\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\ui\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\9.hafta\\22_11_24\\mvc\\Project05-PortfolioApp\\PortfolioApp\\wwwroot\\ui\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\ui\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\9.hafta\\22_11_24\\mvc\\Project05-PortfolioApp\\PortfolioApp\\wwwroot\\ui\\css\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\ui\\css\\magnific-popup.css"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\9.hafta\\22_11_24\\mvc\\Project05-PortfolioApp\\PortfolioApp\\wwwroot\\ui\\css\\style.css",
+      "PackagePath": "staticwebassets\\ui\\css\\style.css"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\9.hafta\\22_11_24\\mvc\\Project05-PortfolioApp\\PortfolioApp\\wwwroot\\ui\\css\\style.css.map",
+      "PackagePath": "staticwebassets\\ui\\css\\style.css.map"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\9.hafta\\22_11_24\\mvc\\Project05-PortfolioApp\\PortfolioApp\\wwwroot\\ui\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\ui\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\9.hafta\\22_11_24\\mvc\\Project05-PortfolioApp\\PortfolioApp\\wwwroot\\ui\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\ui\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\9.hafta\\22_11_24\\mvc\\Project05-PortfolioApp\\PortfolioApp\\wwwroot\\ui\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\ui\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\9.hafta\\22_11_24\\mvc\\Project05-PortfolioApp\\PortfolioApp\\wwwroot\\ui\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\ui\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\9.hafta\\22_11_24\\mvc\\Project05-PortfolioApp\\PortfolioApp\\wwwroot\\ui\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\ui\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\9.hafta\\22_11_24\\mvc\\Project05-PortfolioApp\\PortfolioApp\\wwwroot\\ui\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\ui\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\9.hafta\\22_11_24\\mvc\\Project05-PortfolioApp\\PortfolioApp\\wwwroot\\ui\\img\\about-us.png",
+      "PackagePath": "staticwebassets\\ui\\img\\about-us.png"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\9.hafta\\22_11_24\\mvc\\Project05-PortfolioApp\\PortfolioApp\\wwwroot\\ui\\img\\banner\\banner-2.jpg",
+      "PackagePath": "staticwebassets\\ui\\img\\banner\\banner-2.jpg"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\9.hafta\\22_11_24\\mvc\\Project05-PortfolioApp\\PortfolioApp\\wwwroot\\ui\\img\\banner\\banner.jpg",
+      "PackagePath": "staticwebassets\\ui\\img\\banner\\banner.jpg"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\9.hafta\\22_11_24\\mvc\\Project05-PortfolioApp\\PortfolioApp\\wwwroot\\ui\\img\\banner\\common-banner.png",
+      "PackagePath": "staticwebassets\\ui\\img\\banner\\common-banner.png"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\9.hafta\\22_11_24\\mvc\\Project05-PortfolioApp\\PortfolioApp\\wwwroot\\ui\\img\\banner\\home-banner.png",
+      "PackagePath": "staticwebassets\\ui\\img\\banner\\home-banner.png"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\9.hafta\\22_11_24\\mvc\\Project05-PortfolioApp\\PortfolioApp\\wwwroot\\ui\\img\\banner\\home-right.png",
+      "PackagePath": "staticwebassets\\ui\\img\\banner\\home-right.png"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\9.hafta\\22_11_24\\mvc\\Project05-PortfolioApp\\PortfolioApp\\wwwroot\\ui\\img\\blog\\add.jpg",
+      "PackagePath": "staticwebassets\\ui\\img\\blog\\add.jpg"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\9.hafta\\22_11_24\\mvc\\Project05-PortfolioApp\\PortfolioApp\\wwwroot\\ui\\img\\blog\\author.png",
+      "PackagePath": "staticwebassets\\ui\\img\\blog\\author.png"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\9.hafta\\22_11_24\\mvc\\Project05-PortfolioApp\\PortfolioApp\\wwwroot\\ui\\img\\blog\\c1.jpg",
+      "PackagePath": "staticwebassets\\ui\\img\\blog\\c1.jpg"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\9.hafta\\22_11_24\\mvc\\Project05-PortfolioApp\\PortfolioApp\\wwwroot\\ui\\img\\blog\\c2.jpg",
+      "PackagePath": "staticwebassets\\ui\\img\\blog\\c2.jpg"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\9.hafta\\22_11_24\\mvc\\Project05-PortfolioApp\\PortfolioApp\\wwwroot\\ui\\img\\blog\\c3.jpg",
+      "PackagePath": "staticwebassets\\ui\\img\\blog\\c3.jpg"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\9.hafta\\22_11_24\\mvc\\Project05-PortfolioApp\\PortfolioApp\\wwwroot\\ui\\img\\blog\\c4.jpg",
+      "PackagePath": "staticwebassets\\ui\\img\\blog\\c4.jpg"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\9.hafta\\22_11_24\\mvc\\Project05-PortfolioApp\\PortfolioApp\\wwwroot\\ui\\img\\blog\\c5.jpg",
+      "PackagePath": "staticwebassets\\ui\\img\\blog\\c5.jpg"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\9.hafta\\22_11_24\\mvc\\Project05-PortfolioApp\\PortfolioApp\\wwwroot\\ui\\img\\blog\\c6.jpg",
+      "PackagePath": "staticwebassets\\ui\\img\\blog\\c6.jpg"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\9.hafta\\22_11_24\\mvc\\Project05-PortfolioApp\\PortfolioApp\\wwwroot\\ui\\img\\blog\\cat-post\\cat-post-1.jpg",
+      "PackagePath": "staticwebassets\\ui\\img\\blog\\cat-post\\cat-post-1.jpg"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\9.hafta\\22_11_24\\mvc\\Project05-PortfolioApp\\PortfolioApp\\wwwroot\\ui\\img\\blog\\cat-post\\cat-post-2.jpg",
+      "PackagePath": "staticwebassets\\ui\\img\\blog\\cat-post\\cat-post-2.jpg"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\9.hafta\\22_11_24\\mvc\\Project05-PortfolioApp\\PortfolioApp\\wwwroot\\ui\\img\\blog\\cat-post\\cat-post-3.jpg",
+      "PackagePath": "staticwebassets\\ui\\img\\blog\\cat-post\\cat-post-3.jpg"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\9.hafta\\22_11_24\\mvc\\Project05-PortfolioApp\\PortfolioApp\\wwwroot\\ui\\img\\blog\\causes\\causes-1.jpg",
+      "PackagePath": "staticwebassets\\ui\\img\\blog\\causes\\causes-1.jpg"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\9.hafta\\22_11_24\\mvc\\Project05-PortfolioApp\\PortfolioApp\\wwwroot\\ui\\img\\blog\\causes\\causes-2.jpg",
+      "PackagePath": "staticwebassets\\ui\\img\\blog\\causes\\causes-2.jpg"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\9.hafta\\22_11_24\\mvc\\Project05-PortfolioApp\\PortfolioApp\\wwwroot\\ui\\img\\blog\\causes\\causes-3.jpg",
+      "PackagePath": "staticwebassets\\ui\\img\\blog\\causes\\causes-3.jpg"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\9.hafta\\22_11_24\\mvc\\Project05-PortfolioApp\\PortfolioApp\\wwwroot\\ui\\img\\blog\\feature-img1.jpg",
+      "PackagePath": "staticwebassets\\ui\\img\\blog\\feature-img1.jpg"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\9.hafta\\22_11_24\\mvc\\Project05-PortfolioApp\\PortfolioApp\\wwwroot\\ui\\img\\blog\\home-blog\\home-blog-1.jpg",
+      "PackagePath": "staticwebassets\\ui\\img\\blog\\home-blog\\home-blog-1.jpg"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\9.hafta\\22_11_24\\mvc\\Project05-PortfolioApp\\PortfolioApp\\wwwroot\\ui\\img\\blog\\home-blog\\home-blog-2.jpg",
+      "PackagePath": "staticwebassets\\ui\\img\\blog\\home-blog\\home-blog-2.jpg"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\9.hafta\\22_11_24\\mvc\\Project05-PortfolioApp\\PortfolioApp\\wwwroot\\ui\\img\\blog\\home-blog\\home-blog-3.jpg",
+      "PackagePath": "staticwebassets\\ui\\img\\blog\\home-blog\\home-blog-3.jpg"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\9.hafta\\22_11_24\\mvc\\Project05-PortfolioApp\\PortfolioApp\\wwwroot\\ui\\img\\blog\\main-blog\\m-blog-1.jpg",
+      "PackagePath": "staticwebassets\\ui\\img\\blog\\main-blog\\m-blog-1.jpg"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\9.hafta\\22_11_24\\mvc\\Project05-PortfolioApp\\PortfolioApp\\wwwroot\\ui\\img\\blog\\main-blog\\m-blog-2.jpg",
+      "PackagePath": "staticwebassets\\ui\\img\\blog\\main-blog\\m-blog-2.jpg"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\9.hafta\\22_11_24\\mvc\\Project05-PortfolioApp\\PortfolioApp\\wwwroot\\ui\\img\\blog\\main-blog\\m-blog-3.jpg",
+      "PackagePath": "staticwebassets\\ui\\img\\blog\\main-blog\\m-blog-3.jpg"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\9.hafta\\22_11_24\\mvc\\Project05-PortfolioApp\\PortfolioApp\\wwwroot\\ui\\img\\blog\\main-blog\\m-blog-4.jpg",
+      "PackagePath": "staticwebassets\\ui\\img\\blog\\main-blog\\m-blog-4.jpg"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\9.hafta\\22_11_24\\mvc\\Project05-PortfolioApp\\PortfolioApp\\wwwroot\\ui\\img\\blog\\main-blog\\m-blog-5.jpg",
+      "PackagePath": "staticwebassets\\ui\\img\\blog\\main-blog\\m-blog-5.jpg"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\9.hafta\\22_11_24\\mvc\\Project05-PortfolioApp\\PortfolioApp\\wwwroot\\ui\\img\\blog\\next.jpg",
+      "PackagePath": "staticwebassets\\ui\\img\\blog\\next.jpg"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\9.hafta\\22_11_24\\mvc\\Project05-PortfolioApp\\PortfolioApp\\wwwroot\\ui\\img\\blog\\popular-post\\post1.jpg",
+      "PackagePath": "staticwebassets\\ui\\img\\blog\\popular-post\\post1.jpg"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\9.hafta\\22_11_24\\mvc\\Project05-PortfolioApp\\PortfolioApp\\wwwroot\\ui\\img\\blog\\popular-post\\post2.jpg",
+      "PackagePath": "staticwebassets\\ui\\img\\blog\\popular-post\\post2.jpg"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\9.hafta\\22_11_24\\mvc\\Project05-PortfolioApp\\PortfolioApp\\wwwroot\\ui\\img\\blog\\popular-post\\post3.jpg",
+      "PackagePath": "staticwebassets\\ui\\img\\blog\\popular-post\\post3.jpg"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\9.hafta\\22_11_24\\mvc\\Project05-PortfolioApp\\PortfolioApp\\wwwroot\\ui\\img\\blog\\popular-post\\post4.jpg",
+      "PackagePath": "staticwebassets\\ui\\img\\blog\\popular-post\\post4.jpg"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\9.hafta\\22_11_24\\mvc\\Project05-PortfolioApp\\PortfolioApp\\wwwroot\\ui\\img\\blog\\post-img1.jpg",
+      "PackagePath": "staticwebassets\\ui\\img\\blog\\post-img1.jpg"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\9.hafta\\22_11_24\\mvc\\Project05-PortfolioApp\\PortfolioApp\\wwwroot\\ui\\img\\blog\\post-img2.jpg",
+      "PackagePath": "staticwebassets\\ui\\img\\blog\\post-img2.jpg"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\9.hafta\\22_11_24\\mvc\\Project05-PortfolioApp\\PortfolioApp\\wwwroot\\ui\\img\\blog\\prev.jpg",
+      "PackagePath": "staticwebassets\\ui\\img\\blog\\prev.jpg"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\9.hafta\\22_11_24\\mvc\\Project05-PortfolioApp\\PortfolioApp\\wwwroot\\ui\\img\\body-bg.png",
+      "PackagePath": "staticwebassets\\ui\\img\\body-bg.png"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\9.hafta\\22_11_24\\mvc\\Project05-PortfolioApp\\PortfolioApp\\wwwroot\\ui\\img\\brands\\logo1.png",
+      "PackagePath": "staticwebassets\\ui\\img\\brands\\logo1.png"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\9.hafta\\22_11_24\\mvc\\Project05-PortfolioApp\\PortfolioApp\\wwwroot\\ui\\img\\brands\\logo2.png",
+      "PackagePath": "staticwebassets\\ui\\img\\brands\\logo2.png"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\9.hafta\\22_11_24\\mvc\\Project05-PortfolioApp\\PortfolioApp\\wwwroot\\ui\\img\\brands\\logo3.png",
+      "PackagePath": "staticwebassets\\ui\\img\\brands\\logo3.png"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\9.hafta\\22_11_24\\mvc\\Project05-PortfolioApp\\PortfolioApp\\wwwroot\\ui\\img\\brands\\logo4.png",
+      "PackagePath": "staticwebassets\\ui\\img\\brands\\logo4.png"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\9.hafta\\22_11_24\\mvc\\Project05-PortfolioApp\\PortfolioApp\\wwwroot\\ui\\img\\brands\\logo5.png",
+      "PackagePath": "staticwebassets\\ui\\img\\brands\\logo5.png"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\9.hafta\\22_11_24\\mvc\\Project05-PortfolioApp\\PortfolioApp\\wwwroot\\ui\\img\\brands\\logo6.png",
+      "PackagePath": "staticwebassets\\ui\\img\\brands\\logo6.png"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\9.hafta\\22_11_24\\mvc\\Project05-PortfolioApp\\PortfolioApp\\wwwroot\\ui\\img\\brands\\logo7.png",
+      "PackagePath": "staticwebassets\\ui\\img\\brands\\logo7.png"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\9.hafta\\22_11_24\\mvc\\Project05-PortfolioApp\\PortfolioApp\\wwwroot\\ui\\img\\brands\\logo8.png",
+      "PackagePath": "staticwebassets\\ui\\img\\brands\\logo8.png"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\9.hafta\\22_11_24\\mvc\\Project05-PortfolioApp\\PortfolioApp\\wwwroot\\ui\\img\\brands\\logo9.png",
+      "PackagePath": "staticwebassets\\ui\\img\\brands\\logo9.png"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\9.hafta\\22_11_24\\mvc\\Project05-PortfolioApp\\PortfolioApp\\wwwroot\\ui\\img\\client-info-bg.png",
+      "PackagePath": "staticwebassets\\ui\\img\\client-info-bg.png"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\9.hafta\\22_11_24\\mvc\\Project05-PortfolioApp\\PortfolioApp\\wwwroot\\ui\\img\\elements\\_DS_Store",
+      "PackagePath": "staticwebassets\\ui\\img\\elements"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\9.hafta\\22_11_24\\mvc\\Project05-PortfolioApp\\PortfolioApp\\wwwroot\\ui\\img\\elements\\a.jpg",
+      "PackagePath": "staticwebassets\\ui\\img\\elements\\a.jpg"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\9.hafta\\22_11_24\\mvc\\Project05-PortfolioApp\\PortfolioApp\\wwwroot\\ui\\img\\elements\\a2.jpg",
+      "PackagePath": "staticwebassets\\ui\\img\\elements\\a2.jpg"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\9.hafta\\22_11_24\\mvc\\Project05-PortfolioApp\\PortfolioApp\\wwwroot\\ui\\img\\elements\\d.jpg",
+      "PackagePath": "staticwebassets\\ui\\img\\elements\\d.jpg"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\9.hafta\\22_11_24\\mvc\\Project05-PortfolioApp\\PortfolioApp\\wwwroot\\ui\\img\\elements\\disabled-check.png",
+      "PackagePath": "staticwebassets\\ui\\img\\elements\\disabled-check.png"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\9.hafta\\22_11_24\\mvc\\Project05-PortfolioApp\\PortfolioApp\\wwwroot\\ui\\img\\elements\\disabled-radio.png",
+      "PackagePath": "staticwebassets\\ui\\img\\elements\\disabled-radio.png"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\9.hafta\\22_11_24\\mvc\\Project05-PortfolioApp\\PortfolioApp\\wwwroot\\ui\\img\\elements\\f1.jpg",
+      "PackagePath": "staticwebassets\\ui\\img\\elements\\f1.jpg"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\9.hafta\\22_11_24\\mvc\\Project05-PortfolioApp\\PortfolioApp\\wwwroot\\ui\\img\\elements\\f2.jpg",
+      "PackagePath": "staticwebassets\\ui\\img\\elements\\f2.jpg"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\9.hafta\\22_11_24\\mvc\\Project05-PortfolioApp\\PortfolioApp\\wwwroot\\ui\\img\\elements\\f3.jpg",
+      "PackagePath": "staticwebassets\\ui\\img\\elements\\f3.jpg"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\9.hafta\\22_11_24\\mvc\\Project05-PortfolioApp\\PortfolioApp\\wwwroot\\ui\\img\\elements\\f4.jpg",
+      "PackagePath": "staticwebassets\\ui\\img\\elements\\f4.jpg"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\9.hafta\\22_11_24\\mvc\\Project05-PortfolioApp\\PortfolioApp\\wwwroot\\ui\\img\\elements\\f5.jpg",
+      "PackagePath": "staticwebassets\\ui\\img\\elements\\f5.jpg"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\9.hafta\\22_11_24\\mvc\\Project05-PortfolioApp\\PortfolioApp\\wwwroot\\ui\\img\\elements\\f6.jpg",
+      "PackagePath": "staticwebassets\\ui\\img\\elements\\f6.jpg"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\9.hafta\\22_11_24\\mvc\\Project05-PortfolioApp\\PortfolioApp\\wwwroot\\ui\\img\\elements\\f7.jpg",
+      "PackagePath": "staticwebassets\\ui\\img\\elements\\f7.jpg"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\9.hafta\\22_11_24\\mvc\\Project05-PortfolioApp\\PortfolioApp\\wwwroot\\ui\\img\\elements\\f8.jpg",
+      "PackagePath": "staticwebassets\\ui\\img\\elements\\f8.jpg"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\9.hafta\\22_11_24\\mvc\\Project05-PortfolioApp\\PortfolioApp\\wwwroot\\ui\\img\\elements\\g1.jpg",
+      "PackagePath": "staticwebassets\\ui\\img\\elements\\g1.jpg"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\9.hafta\\22_11_24\\mvc\\Project05-PortfolioApp\\PortfolioApp\\wwwroot\\ui\\img\\elements\\g2.jpg",
+      "PackagePath": "staticwebassets\\ui\\img\\elements\\g2.jpg"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\9.hafta\\22_11_24\\mvc\\Project05-PortfolioApp\\PortfolioApp\\wwwroot\\ui\\img\\elements\\g3.jpg",
+      "PackagePath": "staticwebassets\\ui\\img\\elements\\g3.jpg"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\9.hafta\\22_11_24\\mvc\\Project05-PortfolioApp\\PortfolioApp\\wwwroot\\ui\\img\\elements\\g4.jpg",
+      "PackagePath": "staticwebassets\\ui\\img\\elements\\g4.jpg"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\9.hafta\\22_11_24\\mvc\\Project05-PortfolioApp\\PortfolioApp\\wwwroot\\ui\\img\\elements\\g5.jpg",
+      "PackagePath": "staticwebassets\\ui\\img\\elements\\g5.jpg"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\9.hafta\\22_11_24\\mvc\\Project05-PortfolioApp\\PortfolioApp\\wwwroot\\ui\\img\\elements\\g6.jpg",
+      "PackagePath": "staticwebassets\\ui\\img\\elements\\g6.jpg"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\9.hafta\\22_11_24\\mvc\\Project05-PortfolioApp\\PortfolioApp\\wwwroot\\ui\\img\\elements\\g7.jpg",
+      "PackagePath": "staticwebassets\\ui\\img\\elements\\g7.jpg"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\9.hafta\\22_11_24\\mvc\\Project05-PortfolioApp\\PortfolioApp\\wwwroot\\ui\\img\\elements\\g8.jpg",
+      "PackagePath": "staticwebassets\\ui\\img\\elements\\g8.jpg"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\9.hafta\\22_11_24\\mvc\\Project05-PortfolioApp\\PortfolioApp\\wwwroot\\ui\\img\\elements\\primary-check.png",
+      "PackagePath": "staticwebassets\\ui\\img\\elements\\primary-check.png"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\9.hafta\\22_11_24\\mvc\\Project05-PortfolioApp\\PortfolioApp\\wwwroot\\ui\\img\\elements\\primary-radio.png",
+      "PackagePath": "staticwebassets\\ui\\img\\elements\\primary-radio.png"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\9.hafta\\22_11_24\\mvc\\Project05-PortfolioApp\\PortfolioApp\\wwwroot\\ui\\img\\elements\\success-check.png",
+      "PackagePath": "staticwebassets\\ui\\img\\elements\\success-check.png"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\9.hafta\\22_11_24\\mvc\\Project05-PortfolioApp\\PortfolioApp\\wwwroot\\ui\\img\\elements\\success-radio.png",
+      "PackagePath": "staticwebassets\\ui\\img\\elements\\success-radio.png"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\9.hafta\\22_11_24\\mvc\\Project05-PortfolioApp\\PortfolioApp\\wwwroot\\ui\\img\\elements\\user1.png",
+      "PackagePath": "staticwebassets\\ui\\img\\elements\\user1.png"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\9.hafta\\22_11_24\\mvc\\Project05-PortfolioApp\\PortfolioApp\\wwwroot\\ui\\img\\elements\\user2.png",
+      "PackagePath": "staticwebassets\\ui\\img\\elements\\user2.png"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\9.hafta\\22_11_24\\mvc\\Project05-PortfolioApp\\PortfolioApp\\wwwroot\\ui\\img\\favicon.png",
+      "PackagePath": "staticwebassets\\ui\\img\\favicon.png"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\9.hafta\\22_11_24\\mvc\\Project05-PortfolioApp\\PortfolioApp\\wwwroot\\ui\\img\\footer-bg.png",
+      "PackagePath": "staticwebassets\\ui\\img\\footer-bg.png"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\9.hafta\\22_11_24\\mvc\\Project05-PortfolioApp\\PortfolioApp\\wwwroot\\ui\\img\\instagram\\Image-01.jpg",
+      "PackagePath": "staticwebassets\\ui\\img\\instagram\\Image-01.jpg"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\9.hafta\\22_11_24\\mvc\\Project05-PortfolioApp\\PortfolioApp\\wwwroot\\ui\\img\\instagram\\Image-02.jpg",
+      "PackagePath": "staticwebassets\\ui\\img\\instagram\\Image-02.jpg"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\9.hafta\\22_11_24\\mvc\\Project05-PortfolioApp\\PortfolioApp\\wwwroot\\ui\\img\\instagram\\Image-03.jpg",
+      "PackagePath": "staticwebassets\\ui\\img\\instagram\\Image-03.jpg"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\9.hafta\\22_11_24\\mvc\\Project05-PortfolioApp\\PortfolioApp\\wwwroot\\ui\\img\\instagram\\Image-04.jpg",
+      "PackagePath": "staticwebassets\\ui\\img\\instagram\\Image-04.jpg"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\9.hafta\\22_11_24\\mvc\\Project05-PortfolioApp\\PortfolioApp\\wwwroot\\ui\\img\\instagram\\Image-05.jpg",
+      "PackagePath": "staticwebassets\\ui\\img\\instagram\\Image-05.jpg"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\9.hafta\\22_11_24\\mvc\\Project05-PortfolioApp\\PortfolioApp\\wwwroot\\ui\\img\\instagram\\Image-06.jpg",
+      "PackagePath": "staticwebassets\\ui\\img\\instagram\\Image-06.jpg"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\9.hafta\\22_11_24\\mvc\\Project05-PortfolioApp\\PortfolioApp\\wwwroot\\ui\\img\\instagram\\Image-07.jpg",
+      "PackagePath": "staticwebassets\\ui\\img\\instagram\\Image-07.jpg"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\9.hafta\\22_11_24\\mvc\\Project05-PortfolioApp\\PortfolioApp\\wwwroot\\ui\\img\\instagram\\Image-08.jpg",
+      "PackagePath": "staticwebassets\\ui\\img\\instagram\\Image-08.jpg"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\9.hafta\\22_11_24\\mvc\\Project05-PortfolioApp\\PortfolioApp\\wwwroot\\ui\\img\\logo.png",
+      "PackagePath": "staticwebassets\\ui\\img\\logo.png"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\9.hafta\\22_11_24\\mvc\\Project05-PortfolioApp\\PortfolioApp\\wwwroot\\ui\\img\\portfolio\\p1.jpg",
+      "PackagePath": "staticwebassets\\ui\\img\\portfolio\\p1.jpg"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\9.hafta\\22_11_24\\mvc\\Project05-PortfolioApp\\PortfolioApp\\wwwroot\\ui\\img\\portfolio\\p2.jpg",
+      "PackagePath": "staticwebassets\\ui\\img\\portfolio\\p2.jpg"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\9.hafta\\22_11_24\\mvc\\Project05-PortfolioApp\\PortfolioApp\\wwwroot\\ui\\img\\portfolio\\p3.jpg",
+      "PackagePath": "staticwebassets\\ui\\img\\portfolio\\p3.jpg"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\9.hafta\\22_11_24\\mvc\\Project05-PortfolioApp\\PortfolioApp\\wwwroot\\ui\\img\\portfolio\\p4.jpg",
+      "PackagePath": "staticwebassets\\ui\\img\\portfolio\\p4.jpg"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\9.hafta\\22_11_24\\mvc\\Project05-PortfolioApp\\PortfolioApp\\wwwroot\\ui\\img\\portfolio\\p5.jpg",
+      "PackagePath": "staticwebassets\\ui\\img\\portfolio\\p5.jpg"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\9.hafta\\22_11_24\\mvc\\Project05-PortfolioApp\\PortfolioApp\\wwwroot\\ui\\img\\portfolio\\p6.jpg",
+      "PackagePath": "staticwebassets\\ui\\img\\portfolio\\p6.jpg"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\9.hafta\\22_11_24\\mvc\\Project05-PortfolioApp\\PortfolioApp\\wwwroot\\ui\\img\\portfolio\\p7.jpg",
+      "PackagePath": "staticwebassets\\ui\\img\\portfolio\\p7.jpg"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\9.hafta\\22_11_24\\mvc\\Project05-PortfolioApp\\PortfolioApp\\wwwroot\\ui\\img\\portfolio\\p8.jpg",
+      "PackagePath": "staticwebassets\\ui\\img\\portfolio\\p8.jpg"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\9.hafta\\22_11_24\\mvc\\Project05-PortfolioApp\\PortfolioApp\\wwwroot\\ui\\img\\portfolio\\p9.jpg",
+      "PackagePath": "staticwebassets\\ui\\img\\portfolio\\p9.jpg"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\9.hafta\\22_11_24\\mvc\\Project05-PortfolioApp\\PortfolioApp\\wwwroot\\ui\\img\\portfolio\\portfolio-details.jpg",
+      "PackagePath": "staticwebassets\\ui\\img\\portfolio\\portfolio-details.jpg"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\9.hafta\\22_11_24\\mvc\\Project05-PortfolioApp\\PortfolioApp\\wwwroot\\ui\\img\\services\\s1.png",
+      "PackagePath": "staticwebassets\\ui\\img\\services\\s1.png"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\9.hafta\\22_11_24\\mvc\\Project05-PortfolioApp\\PortfolioApp\\wwwroot\\ui\\img\\services\\s2.png",
+      "PackagePath": "staticwebassets\\ui\\img\\services\\s2.png"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\9.hafta\\22_11_24\\mvc\\Project05-PortfolioApp\\PortfolioApp\\wwwroot\\ui\\img\\services\\s3.png",
+      "PackagePath": "staticwebassets\\ui\\img\\services\\s3.png"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\9.hafta\\22_11_24\\mvc\\Project05-PortfolioApp\\PortfolioApp\\wwwroot\\ui\\img\\services\\s4.png",
+      "PackagePath": "staticwebassets\\ui\\img\\services\\s4.png"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\9.hafta\\22_11_24\\mvc\\Project05-PortfolioApp\\PortfolioApp\\wwwroot\\ui\\img\\subscribe-bg.png",
+      "PackagePath": "staticwebassets\\ui\\img\\subscribe-bg.png"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\9.hafta\\22_11_24\\mvc\\Project05-PortfolioApp\\PortfolioApp\\wwwroot\\ui\\img\\testimonials\\t1.jpg",
+      "PackagePath": "staticwebassets\\ui\\img\\testimonials\\t1.jpg"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\9.hafta\\22_11_24\\mvc\\Project05-PortfolioApp\\PortfolioApp\\wwwroot\\ui\\img\\testimonials\\t2.jpg",
+      "PackagePath": "staticwebassets\\ui\\img\\testimonials\\t2.jpg"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\9.hafta\\22_11_24\\mvc\\Project05-PortfolioApp\\PortfolioApp\\wwwroot\\ui\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\ui\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\9.hafta\\22_11_24\\mvc\\Project05-PortfolioApp\\PortfolioApp\\wwwroot\\ui\\js\\contact.js",
+      "PackagePath": "staticwebassets\\ui\\js\\contact.js"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\9.hafta\\22_11_24\\mvc\\Project05-PortfolioApp\\PortfolioApp\\wwwroot\\ui\\js\\gmaps.min.js",
+      "PackagePath": "staticwebassets\\ui\\js\\gmaps.min.js"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\9.hafta\\22_11_24\\mvc\\Project05-PortfolioApp\\PortfolioApp\\wwwroot\\ui\\js\\isotope.pkgd.min.js",
+      "PackagePath": "staticwebassets\\ui\\js\\isotope.pkgd.min.js"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\9.hafta\\22_11_24\\mvc\\Project05-PortfolioApp\\PortfolioApp\\wwwroot\\ui\\js\\jquery-3.2.1.min.js",
+      "PackagePath": "staticwebassets\\ui\\js\\jquery-3.2.1.min.js"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\9.hafta\\22_11_24\\mvc\\Project05-PortfolioApp\\PortfolioApp\\wwwroot\\ui\\js\\jquery.ajaxchimp.min.js",
+      "PackagePath": "staticwebassets\\ui\\js\\jquery.ajaxchimp.min.js"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\9.hafta\\22_11_24\\mvc\\Project05-PortfolioApp\\PortfolioApp\\wwwroot\\ui\\js\\jquery.form.js",
+      "PackagePath": "staticwebassets\\ui\\js\\jquery.form.js"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\9.hafta\\22_11_24\\mvc\\Project05-PortfolioApp\\PortfolioApp\\wwwroot\\ui\\js\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\ui\\js\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\9.hafta\\22_11_24\\mvc\\Project05-PortfolioApp\\PortfolioApp\\wwwroot\\ui\\js\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\ui\\js\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\9.hafta\\22_11_24\\mvc\\Project05-PortfolioApp\\PortfolioApp\\wwwroot\\ui\\js\\mail-script.js",
+      "PackagePath": "staticwebassets\\ui\\js\\mail-script.js"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\9.hafta\\22_11_24\\mvc\\Project05-PortfolioApp\\PortfolioApp\\wwwroot\\ui\\js\\popper.js",
+      "PackagePath": "staticwebassets\\ui\\js\\popper.js"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\9.hafta\\22_11_24\\mvc\\Project05-PortfolioApp\\PortfolioApp\\wwwroot\\ui\\js\\stellar.js",
+      "PackagePath": "staticwebassets\\ui\\js\\stellar.js"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\9.hafta\\22_11_24\\mvc\\Project05-PortfolioApp\\PortfolioApp\\wwwroot\\ui\\js\\theme.js",
+      "PackagePath": "staticwebassets\\ui\\js\\theme.js"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\9.hafta\\22_11_24\\mvc\\Project05-PortfolioApp\\PortfolioApp\\wwwroot\\ui\\vendors\\bootstrap-datepicker\\bootstrap-datetimepicker.min.css",
+      "PackagePath": "staticwebassets\\ui\\vendors\\bootstrap-datepicker\\bootstrap-datetimepicker.min.css"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\9.hafta\\22_11_24\\mvc\\Project05-PortfolioApp\\PortfolioApp\\wwwroot\\ui\\vendors\\bootstrap-datepicker\\bootstrap-datetimepicker.min.js",
+      "PackagePath": "staticwebassets\\ui\\vendors\\bootstrap-datepicker\\bootstrap-datetimepicker.min.js"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\9.hafta\\22_11_24\\mvc\\Project05-PortfolioApp\\PortfolioApp\\wwwroot\\ui\\vendors\\bootstrap-datepicker\\bootstrap-select.css",
+      "PackagePath": "staticwebassets\\ui\\vendors\\bootstrap-datepicker\\bootstrap-select.css"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\9.hafta\\22_11_24\\mvc\\Project05-PortfolioApp\\PortfolioApp\\wwwroot\\ui\\vendors\\bootstrap-datepicker\\bootstrap-select.js",
+      "PackagePath": "staticwebassets\\ui\\vendors\\bootstrap-datepicker\\bootstrap-select.js"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\9.hafta\\22_11_24\\mvc\\Project05-PortfolioApp\\PortfolioApp\\wwwroot\\ui\\vendors\\flipclock\\timer.js",
+      "PackagePath": "staticwebassets\\ui\\vendors\\flipclock\\timer.js"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\9.hafta\\22_11_24\\mvc\\Project05-PortfolioApp\\PortfolioApp\\wwwroot\\ui\\vendors\\isotope\\imagesloaded.pkgd.min.js",
+      "PackagePath": "staticwebassets\\ui\\vendors\\isotope\\imagesloaded.pkgd.min.js"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\9.hafta\\22_11_24\\mvc\\Project05-PortfolioApp\\PortfolioApp\\wwwroot\\ui\\vendors\\isotope\\isotope-min.js",
+      "PackagePath": "staticwebassets\\ui\\vendors\\isotope\\isotope-min.js"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\9.hafta\\22_11_24\\mvc\\Project05-PortfolioApp\\PortfolioApp\\wwwroot\\ui\\vendors\\jquery-ui\\jquery-ui.css",
+      "PackagePath": "staticwebassets\\ui\\vendors\\jquery-ui\\jquery-ui.css"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\9.hafta\\22_11_24\\mvc\\Project05-PortfolioApp\\PortfolioApp\\wwwroot\\ui\\vendors\\jquery-ui\\jquery-ui.js",
+      "PackagePath": "staticwebassets\\ui\\vendors\\jquery-ui\\jquery-ui.js"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\9.hafta\\22_11_24\\mvc\\Project05-PortfolioApp\\PortfolioApp\\wwwroot\\ui\\vendors\\lightbox\\simpleLightbox.css",
+      "PackagePath": "staticwebassets\\ui\\vendors\\lightbox\\simpleLightbox.css"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\9.hafta\\22_11_24\\mvc\\Project05-PortfolioApp\\PortfolioApp\\wwwroot\\ui\\vendors\\lightbox\\simpleLightbox.min.js",
+      "PackagePath": "staticwebassets\\ui\\vendors\\lightbox\\simpleLightbox.min.js"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\9.hafta\\22_11_24\\mvc\\Project05-PortfolioApp\\PortfolioApp\\wwwroot\\ui\\vendors\\linericon\\fonts\\Linearicons-Free.eot",
+      "PackagePath": "staticwebassets\\ui\\vendors\\linericon\\fonts\\Linearicons-Free.eot"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\9.hafta\\22_11_24\\mvc\\Project05-PortfolioApp\\PortfolioApp\\wwwroot\\ui\\vendors\\linericon\\fonts\\Linearicons-Free.svg",
+      "PackagePath": "staticwebassets\\ui\\vendors\\linericon\\fonts\\Linearicons-Free.svg"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\9.hafta\\22_11_24\\mvc\\Project05-PortfolioApp\\PortfolioApp\\wwwroot\\ui\\vendors\\linericon\\fonts\\Linearicons-Free.ttf",
+      "PackagePath": "staticwebassets\\ui\\vendors\\linericon\\fonts\\Linearicons-Free.ttf"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\9.hafta\\22_11_24\\mvc\\Project05-PortfolioApp\\PortfolioApp\\wwwroot\\ui\\vendors\\linericon\\fonts\\Linearicons-Free.woff",
+      "PackagePath": "staticwebassets\\ui\\vendors\\linericon\\fonts\\Linearicons-Free.woff"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\9.hafta\\22_11_24\\mvc\\Project05-PortfolioApp\\PortfolioApp\\wwwroot\\ui\\vendors\\linericon\\fonts\\Linearicons-Free.woff2",
+      "PackagePath": "staticwebassets\\ui\\vendors\\linericon\\fonts\\Linearicons-Free.woff2"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\9.hafta\\22_11_24\\mvc\\Project05-PortfolioApp\\PortfolioApp\\wwwroot\\ui\\vendors\\linericon\\style.css",
+      "PackagePath": "staticwebassets\\ui\\vendors\\linericon\\style.css"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\9.hafta\\22_11_24\\mvc\\Project05-PortfolioApp\\PortfolioApp\\wwwroot\\ui\\vendors\\nice-select\\css\\nice-select.css",
+      "PackagePath": "staticwebassets\\ui\\vendors\\nice-select\\css\\nice-select.css"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\9.hafta\\22_11_24\\mvc\\Project05-PortfolioApp\\PortfolioApp\\wwwroot\\ui\\vendors\\nice-select\\css\\style.css",
+      "PackagePath": "staticwebassets\\ui\\vendors\\nice-select\\css\\style.css"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\9.hafta\\22_11_24\\mvc\\Project05-PortfolioApp\\PortfolioApp\\wwwroot\\ui\\vendors\\nice-select\\js\\jquery.nice-select.js",
+      "PackagePath": "staticwebassets\\ui\\vendors\\nice-select\\js\\jquery.nice-select.js"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\9.hafta\\22_11_24\\mvc\\Project05-PortfolioApp\\PortfolioApp\\wwwroot\\ui\\vendors\\nice-select\\js\\jquery.nice-select.min.js",
+      "PackagePath": "staticwebassets\\ui\\vendors\\nice-select\\js\\jquery.nice-select.min.js"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\9.hafta\\22_11_24\\mvc\\Project05-PortfolioApp\\PortfolioApp\\wwwroot\\ui\\vendors\\owl-carousel\\assets\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\ui\\vendors\\owl-carousel\\assets\\ajax-loader.gif"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\9.hafta\\22_11_24\\mvc\\Project05-PortfolioApp\\PortfolioApp\\wwwroot\\ui\\vendors\\owl-carousel\\assets\\animated.css",
+      "PackagePath": "staticwebassets\\ui\\vendors\\owl-carousel\\assets\\animated.css"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\9.hafta\\22_11_24\\mvc\\Project05-PortfolioApp\\PortfolioApp\\wwwroot\\ui\\vendors\\owl-carousel\\assets\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\ui\\vendors\\owl-carousel\\assets\\owl.carousel.css"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\9.hafta\\22_11_24\\mvc\\Project05-PortfolioApp\\PortfolioApp\\wwwroot\\ui\\vendors\\owl-carousel\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\ui\\vendors\\owl-carousel\\owl.carousel.min.css"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\9.hafta\\22_11_24\\mvc\\Project05-PortfolioApp\\PortfolioApp\\wwwroot\\ui\\vendors\\owl-carousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\ui\\vendors\\owl-carousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.PortfolioApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.PortfolioApp.props",
+      "PackagePath": "build\\PortfolioApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.PortfolioApp.props",
+      "PackagePath": "buildMultiTargeting\\PortfolioApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.PortfolioApp.props",
+      "PackagePath": "buildTransitive\\PortfolioApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

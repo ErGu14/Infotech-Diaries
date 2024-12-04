@@ -1,0 +1,60 @@
+﻿<!DOCTYPE html>
+    <html>
+    <head>
+        <title>MVC Statik</title>
+        <link href="~/Bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+        <link href="~/CSS/styles.css" rel="stylesheet" />
+        @RenderSection("Styles",false)
+    </head>
+    <body>
+    <header id="container" class="container-fluid p-0 ">
+        <header class="sticky-top">
+            <nav class="navbar navbar-expand-lg bg-dark border-bottom border-body" data-bs-theme="dark">
+                <div class="container-fluid p-0">
+                    <a class="navbar-brand" href="#">Klima App</a>
+                    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+                    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                        <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                            <li class="nav-item">
+                                <a class="nav-link active" aria-current="page" href="/">Ana Sayfa</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="/product">Ürünler</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="/about">Hakkımızda</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="#">Linkler</a>
+                            </li>
+                            
+                            
+                        </ul>
+                        <form class="d-flex" role="search">
+                            <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+                            <button class="btn btn-success" type="submit">Search</button>
+                        </form>
+                    </div>
+                </div>
+            </nav>
+        </header>
+        <main class="container-fluid bg-dark">
+            <div class="container p-5 bg-white ">
+                @RenderBody()
+            </div>
+            
+        </main>
+
+        <footer class="fixed-bottom">
+            <div class="bg-dark text-white d-flex align-items-center justify-content-center "> <!-- dikey ortalama ve yatayda ortalama-->
+                <p class="text-center">Bu çalışma MSCD-6 Tarafından Yapılmıştır</p>
+            </div>
+        </footer>
+        
+    
+
+        <script src="~/Bootstrap/js/bootstrap.bundle.min.js"></script>
+    </body>
+    </html>

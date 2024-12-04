@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+:root {
+    --bg-color-1: #091057;
+    --bg-color-2: #024CAA;
+    --bg-color-3: #EC8305;
+    --text-color: #DBD3D3;
+    --text-white: #FFF;
+
+}
+
+/*ezmek,emir vermek gibi düşün*/
+ .navbar.bg-primary, footer.bg-primary{
+    background-color: var(--bg-color-1) !important;  
+} 
+
+section.bg-info{
+    background-color: var(--bg-color-2) !important;
+}

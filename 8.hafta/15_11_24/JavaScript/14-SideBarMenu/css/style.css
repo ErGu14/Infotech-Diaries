@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+body{
+    font-family: Roboto, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.menu{
+    background-color: #111;
+    color: #fff;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.menu a{
+    text-decoration: none;
+    color: #808080;
+    /* padding: 10px 20px; */
+    font-size: 18px;
+}
+
+.menu a:hover{
+    color: #f0f0f0;
+}
+
+.hamburger{
+    font-size: 24px;
+    cursor: pointer;
+    display: none;
+    
+
+}
+
+.btn-close{
+    /* responsive menüyü açıp gösterdiğimizde buranın kodlarını yazacağız */
+    position: absolute;
+    top: 5px;
+    right: 10px;
+    color: #fff;
+    z-index: 999;
+    font-size: 36px;
+    cursor: pointer;
+}
+
+.menu-links{
+    display: flex;
+    gap: 10px;
+}
+@media (max-width:768px){
+    .menu-links{
+        flex-direction: column;
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 0;
+        height: 100%;
+        background-color: #111;
+        transition: width .3s; 
+        padding-top: 60px;
+        overflow: hidden;
+
+    }
+    .menu-links a{
+        font-size: 20px;
+        padding: 10px 40px;
+    }
+    .hamburger{
+        display: block;
+        z-index: 1;
+    }
+     
+}
+
+@media(min-width:768px){
+    .btn-close{
+        display: none;
+    }
+}

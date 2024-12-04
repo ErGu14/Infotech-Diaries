@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Project07_EfCore_Dbfirst_Portfolio.props" />
+</Project>

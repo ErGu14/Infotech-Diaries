@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Intro</title>
+</head>
+<body>
+    <button onclick="alert('Bana tıkladın!(inline)')">Click Me!</button>
+    <button onmouseover="alert('Üzerime Geldin(inline)')">Üzerime Gel</button>
+    <button onblur="alert('Burdayım(inline)')">Bana Tıkla Sonra Başka Yere Tıkla</button>
+    <button onmouseleave="alert('Burdayım(inline)')">Üzerime Gel Ve Çık</button>
+    <br><br>
+    <button onclick="mesajVer()">Bana da tıkla</button>
+    <button id="btn1">Hadi Tıkla</button>
+    <br>
+    <button id="btn2">Harici Dosya Kodu</button>
+
+
+
+
+
+
+
+
+
+    <script>
+        function mesajVer(){
+            alert("İşte Tıkladın (Internal)")
+        }
+
+        document.getElementById("btn1").addEventListener("click",function(){
+            alert("Tıklamayı Başardın (Internal)")
+        })
+
+
+    </script>
+    <script src="/JS/app.js"></script>
+</body>
+</html>

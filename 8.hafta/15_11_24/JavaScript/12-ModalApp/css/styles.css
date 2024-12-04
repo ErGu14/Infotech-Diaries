@@ -1,0 +1,101 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.box{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 30px;
+}
+
+#title{
+    color:  orangered;
+    font-weight: normal;
+    font-size: 45px;
+}
+
+button{
+    border:none;
+    padding: 8px 16px;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    margin: 5px;
+    transition: all .5s;
+}
+
+button:hover{
+    opacity: .8;
+}
+
+#btn-modal-open{
+    background-color: orangered;
+    color:white;
+}
+
+.main-modal{
+    background-color: rgba(191, 189, 189, 0.8);
+    position: fixed;
+    top:0;
+    right: 0;
+    bottom:0;
+    left: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.modal{
+    background-color: white;
+    padding:10px 16px;
+    height: 250px;
+    width: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    border-radius: 5px;
+}
+
+.modal-header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 2px solid rgba(220,220,220,.5);
+    padding-bottom:3px;
+}
+
+.modal-header-title{
+    color:orangered;
+    font-weight: normal;
+}
+
+.btn-modal-close{
+    font-size:30px;
+    line-height: 1;
+    cursor: pointer;
+    transition: all .5s;
+}
+.btn-modal-close:hover{
+    color:gray;
+}
+
+.modal-footer{
+    text-align: end;
+}
+
+.btn-modal-yes{
+    background-color: deepskyblue;
+}
+
+.btn-modal-no{
+    background-color: orangered;
+    color:white;
+}

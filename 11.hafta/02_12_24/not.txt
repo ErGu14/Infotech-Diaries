@@ -1,0 +1,43 @@
+entity= db den gelicek bilgileri burda bulunduruyorum
+
+repository = getirme silme gibi işlemleri burda yapıcaz
+
+
+tools = ef tool (dotnet ef) hazır sql serveri kendiliğinden clasları vs oluşturmak için kullanılır bu kodları çalıştırmak içinde ef design indirmelisin
+
+
+komutlar:
+
+dotnet ef
+dotnet ef scaffold = söyliceğimiz özellikleri kullanarak veri tabanındaki bilgleri projeye getir ve dbcontextleri oluştur
+
+"string ile sql bilgilerini gir", sonra ms.efCore.sqlserver yazıp veritabanı bilgilerini yazıyoruz
+--context-dir Models/Contexts   diyerek hangi yere kaydettiğimizi yazıyoruz
+--context ile bu contexttin adını belirtiyoruz
+--output-dir Modles/Entities  diyerek entitlerim nerde oluşucak onu belirliyorum
+
+kısaca kodumuz:
+
+dotnet ef dbcontext scaffold "Server=DESKTOP-O3KR7G2\SQLEXPRESS;Database=Northwind;User=sa;Password=1234;TrustServerCertificate=true" Microsoft.EntityFrameworkCore.SqlServer --context-dir Models/Contexts --context "NorthwindDbContext" --output-dir Models/Entities
+
+--force =   eklendiğinde güçlü ekleme diyoruz yani önceki verilerin üzerine düzenlenerek yeni eklenen bir veri varsa onuda ekler
+
+----------------------------------------------------------------------
+***Project08_EFCore_CodeFirst***
+
+veri tabanını yaratmadan önce c# içerisindeki yapılanmalarımızı hazırlayıp bu yapılanmalara göre veritabanının yaratılmasını gerektiğinde güncellenmesini vb işlemleri sağlama tekniğidir.
+
+1-Öncelikle ms.efc.sqlserver ve design paketleri yüklenmelidir
+2- entity claslarımız yaratmak
+3- db context yaratılmalıdır. Her entity için bir dbset hazırlanmalıdır.
+4-appsettings.json dosyasına connection string oluşturuyoruz
+5- program.cs e de connection bağlayalım
+6- dbcontexte geçip ctor metodumuzu yazalım
+7-migration ekleyerek, veri tabanını güncellerken neler yapacağını belirtiyoruz.
+	dotnet ef migrations add (MigrationsAdı)
+	
+8-hazırlanan migration dosyasını kullanarak veri tabanını güncelleyelelim.
+	dotnet ef database update
+
+
+

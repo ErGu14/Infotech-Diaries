@@ -1,0 +1,3 @@
+entity= db den gelicek bilgileri burda bulunduruyorum
+
+repository = getirme silme gibi işlemleri burda yapıcaz

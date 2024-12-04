@@ -1,0 +1,18 @@
+﻿<!doctype html>
+<html lang="en">
+
+<head>
+	@await Html.PartialAsync("_StylesPartial") <!--html tags dediğimiz (html helper) yeri -->
+</head>
+
+<body>
+
+	@await Html.PartialAsync("_HeaderPartial")
+    @RenderBody()
+
+	@await Html.PartialAsync("_FooterPartial")
+
+	@await Html.PartialAsync("_ScriptPartial")
+</body>
+
+</html>
