@@ -5,48 +5,53 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Ana Sayfa-Eray Gülüçmen</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.3/css/bootstrap.min.css">
+    <link rel="stylesheet" href="CSS/style.css">
 </head>
 <body>
     <div class="container bg-secondary p-0">
         <!-- Navbar  Started-->
-        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+        <nav class="navbar navbar-expand-lg navbar-dark bg-primary sticky-top">
             <div class="container-fluid">
-              <a class="navbar-brand" href="#">Eray Gülüçmen</a>
+              <a class="navbar-brand fs-2 ps-3 py-3" href="/">Eray Gülüçmen</a>
               <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#topMenu" aria-controls="topMenu" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
               </button>
               <div class="collapse navbar-collapse" id="topMenu">
-                <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
                   <li class="nav-item">
-                    <a class="nav-link active" aria-current="page" href="#">Home</a>
-                  </li>
-                  <li class="nav-item">
-                    <a class="nav-link" href="#">Link</a>
-                  </li>
-                  <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                      Dropdown
-                    </a>
-                    <ul class="dropdown-menu">
-                      <li><a class="dropdown-item" href="#">Action</a></li>
-                      <li><a class="dropdown-item" href="#">Another action</a></li>
-                      <li><hr class="dropdown-divider"></li>
-                      <li><a class="dropdown-item" href="#">Something else here</a></li>
-                    </ul>
+                    <a class="nav-link active" aria-current="page" href="/">Ana Sayfa</a>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link disabled" aria-disabled="true">Disabled</a>
+                    <a class="nav-link" href="about.html">Hakkımda</a>
                   </li>
+                  <li class="nav-item"><a class="nav-link" href="portfolio.html">Projeler</a></li>
+                  <li class="nav-item"><a class="nav-link" href="blog.html">Blog</a></li>
+                  <li class="nav-item"><a class="nav-link" href="contact.html">İletişim</a></li>
+                  
                 </ul>
-                <form class="d-flex" role="search">
-                  <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
-                  <button class="btn btn-outline-success" type="submit">Search</button>
-                </form>
+                
               </div>
             </div>
           </nav>
         <!-- Navbar  Ended-->
-
+         <!---->
+        <!-- Hero Start -->
+         <section class="d-flex justify-content-center align-items-center bg-info text-light" style="height: calc(100vh - 168px);">
+            <div class="container text-center">
+              <h1 class="display-1">Eray Gülüçmen</h1>
+              <p class="lead">Yazılım Geliştirici</p>
+              <a href="/" class="btn btn-warning btn-lg mt-3">Projelerimi İncele</a>
+            </div>
+         </section>
+        <!-- Hero End -->
+         <!---->
+        <!-- Footer Start -->
+         <footer class="bg-primary text-light py-4 text-center sticky-bottom ">
+          <div class="container">
+            <p class="m-0">Eray Gülüçmen Tarafından Tasarlanmıştır. &copy;2024</p>
+          </div>
+         </footer>
+        <!-- Footer End -->
     </div>
     
 
