@@ -1,0 +1,8 @@
+﻿@model List<InvitationsViewModel>
+ 
+@foreach (var i in Model)
+{
+    <div class="mb-5 text-center">
+        <a asp-controller="Home" asp-action="Join" asp-route-id="@i.Id" class="btn btn-link">@i.EventName (Etkinlik Günü = @i.EventDate)</a>
+    </div>
+}

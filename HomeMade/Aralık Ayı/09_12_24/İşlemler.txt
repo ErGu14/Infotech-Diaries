@@ -1,0 +1,2 @@
+1- Entity e kemik yapımızı oluşturuyoruz.
+2-Datamızı oluşturuyoruz (gerekli nugetler yüklenerek ve sql veri tabanımızı bağlayarak)

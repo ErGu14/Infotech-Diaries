@@ -1,0 +1,62 @@
+﻿@model JoinViewModel
+<div class="invitation-section">
+    <h1 class="display-6 text-primary">@Model.Invitation.EventName</h1>
+    <span class="text-danger">
+        Tarih: <span class="text-primary">@Model.Invitation.EventDate.ToShortDateString()</span>
+    </span>
+    <span class="text-danger ms-4">
+        Katılımcı Sayısı: <span class="text-primary">@Model.CountOfParticipants</span>
+    </span>
+</div>
+
+<div class="my-3">
+    <form asp-controller="Home" asp-action="join" method="post">
+        <input type="hidden" name="InvitationId" value=@Model.Invitation.Id />
+        <div class="mb-3">
+            <label asp-for=@Model.Participant.FullName class="form-label"></label>
+            <input asp-for=@Model.Participant.FullName class="form-control" />
+            <span class="text-danger" asp-validation-for=@Model.Participant.FullName></span>
+        </div>
+        <div class="mb-3">
+            <label asp-for=@Model.Participant.Email class="form-label"></label>
+            <input asp-for=@Model.Participant.Email class="form-control" />
+            <span class="text-danger" asp-validation-for=@Model.Participant.Email></span>
+        </div>
+        <div class="mb-3">
+            <label asp-for=@Model.Participant.PhoneNumber class="form-label"></label>
+            <input asp-for=@Model.Participant.PhoneNumber class="form-control" />
+            <span class="text-danger" asp-validation-for=@Model.Participant.PhoneNumber></span>
+        </div>
+        <div class="mb-3">
+            <label asp-for=@Model.Participant.Age class="form-label"></label>
+            <input asp-for=@Model.Participant.Age class="form-control"/>
+            <span class="text-danger" asp-validation-for=@Model.Participant.Age></span>
+        </div>
+        <div class="mb-3">
+            <label asp-for=@Model.Participant.NumberOfPeople class="form-label"></label>
+            <input asp-for=@Model.Participant.NumberOfPeople class="form-control"/>
+            <span class="text-danger" asp-validation-for=@Model.Participant.NumberOfPeople></span>
+        </div>
+        <div>
+            <button type="submit" class="btn btn-success">Katıl</button>
+        </div>
+    </form>
+</div>
+
+
+<div>
+    <table class="table table-sm table-bordered">
+        <tr>
+            <th>Ad Soyad</th>
+            <th>Yaş</th>
+            <th>Telefon</th>
+        </tr>
+        @foreach(var p in Model.Participants){
+            <tr>
+                <td>@p.FullName</td>
+                <td>@p.Age</td>
+                <td>@p.PhoneNumber</td>
+            </tr>
+        }
+    </table>
+</div>

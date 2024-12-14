@@ -1,0 +1,368 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\12.hafta\\09_12_24\\PartyApp(Hatasız)\\PartyApp\\PartyApp.MVC\\PartyApp.MVC.csproj": {}
+  },
+  "projects": {
+    "F:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\12.hafta\\09_12_24\\PartyApp(Hatasız)\\PartyApp\\PartyApp.Business\\PartyApp.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\12.hafta\\09_12_24\\PartyApp(Hatasız)\\PartyApp\\PartyApp.Business\\PartyApp.Business.csproj",
+        "projectName": "PartyApp.Business",
+        "projectPath": "F:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\12.hafta\\09_12_24\\PartyApp(Hatasız)\\PartyApp\\PartyApp.Business\\PartyApp.Business.csproj",
+        "packagesPath": "C:\\Users\\erayg\\.nuget\\packages\\",
+        "outputPath": "F:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\12.hafta\\09_12_24\\PartyApp(Hatasız)\\PartyApp\\PartyApp.Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\erayg\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "F:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\12.hafta\\09_12_24\\PartyApp(Hatasız)\\PartyApp\\PartyApp.Data\\PartyApp.Data.csproj": {
+                "projectPath": "F:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\12.hafta\\09_12_24\\PartyApp(Hatasız)\\PartyApp\\PartyApp.Data\\PartyApp.Data.csproj"
+              },
+              "F:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\12.hafta\\09_12_24\\PartyApp(Hatasız)\\PartyApp\\PartyApp.Shared\\PartyApp.Shared.csproj": {
+                "projectPath": "F:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\12.hafta\\09_12_24\\PartyApp(Hatasız)\\PartyApp\\PartyApp.Shared\\PartyApp.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\12.hafta\\09_12_24\\PartyApp(Hatasız)\\PartyApp\\PartyApp.Data\\PartyApp.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\12.hafta\\09_12_24\\PartyApp(Hatasız)\\PartyApp\\PartyApp.Data\\PartyApp.Data.csproj",
+        "projectName": "PartyApp.Data",
+        "projectPath": "F:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\12.hafta\\09_12_24\\PartyApp(Hatasız)\\PartyApp\\PartyApp.Data\\PartyApp.Data.csproj",
+        "packagesPath": "C:\\Users\\erayg\\.nuget\\packages\\",
+        "outputPath": "F:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\12.hafta\\09_12_24\\PartyApp(Hatasız)\\PartyApp\\PartyApp.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\erayg\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "F:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\12.hafta\\09_12_24\\PartyApp(Hatasız)\\PartyApp\\PartyApp.Entity\\PartyApp.Entity.csproj": {
+                "projectPath": "F:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\12.hafta\\09_12_24\\PartyApp(Hatasız)\\PartyApp\\PartyApp.Entity\\PartyApp.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.11, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\12.hafta\\09_12_24\\PartyApp(Hatasız)\\PartyApp\\PartyApp.Entity\\PartyApp.Entity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\12.hafta\\09_12_24\\PartyApp(Hatasız)\\PartyApp\\PartyApp.Entity\\PartyApp.Entity.csproj",
+        "projectName": "PartyApp.Entity",
+        "projectPath": "F:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\12.hafta\\09_12_24\\PartyApp(Hatasız)\\PartyApp\\PartyApp.Entity\\PartyApp.Entity.csproj",
+        "packagesPath": "C:\\Users\\erayg\\.nuget\\packages\\",
+        "outputPath": "F:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\12.hafta\\09_12_24\\PartyApp(Hatasız)\\PartyApp\\PartyApp.Entity\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\erayg\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\12.hafta\\09_12_24\\PartyApp(Hatasız)\\PartyApp\\PartyApp.MVC\\PartyApp.MVC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\12.hafta\\09_12_24\\PartyApp(Hatasız)\\PartyApp\\PartyApp.MVC\\PartyApp.MVC.csproj",
+        "projectName": "PartyApp.MVC",
+        "projectPath": "F:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\12.hafta\\09_12_24\\PartyApp(Hatasız)\\PartyApp\\PartyApp.MVC\\PartyApp.MVC.csproj",
+        "packagesPath": "C:\\Users\\erayg\\.nuget\\packages\\",
+        "outputPath": "F:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\12.hafta\\09_12_24\\PartyApp(Hatasız)\\PartyApp\\PartyApp.MVC\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\erayg\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "F:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\12.hafta\\09_12_24\\PartyApp(Hatasız)\\PartyApp\\PartyApp.Business\\PartyApp.Business.csproj": {
+                "projectPath": "F:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\12.hafta\\09_12_24\\PartyApp(Hatasız)\\PartyApp\\PartyApp.Business\\PartyApp.Business.csproj"
+              },
+              "F:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\12.hafta\\09_12_24\\PartyApp(Hatasız)\\PartyApp\\PartyApp.Shared\\PartyApp.Shared.csproj": {
+                "projectPath": "F:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\12.hafta\\09_12_24\\PartyApp(Hatasız)\\PartyApp\\PartyApp.Shared\\PartyApp.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.11, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\12.hafta\\09_12_24\\PartyApp(Hatasız)\\PartyApp\\PartyApp.Shared\\PartyApp.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\12.hafta\\09_12_24\\PartyApp(Hatasız)\\PartyApp\\PartyApp.Shared\\PartyApp.Shared.csproj",
+        "projectName": "PartyApp.Shared",
+        "projectPath": "F:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\12.hafta\\09_12_24\\PartyApp(Hatasız)\\PartyApp\\PartyApp.Shared\\PartyApp.Shared.csproj",
+        "packagesPath": "C:\\Users\\erayg\\.nuget\\packages\\",
+        "outputPath": "F:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\12.hafta\\09_12_24\\PartyApp(Hatasız)\\PartyApp\\PartyApp.Shared\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\erayg\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
