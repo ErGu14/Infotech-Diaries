@@ -1,0 +1,6 @@
+@_10_12_24_APIExam_HostAddress = http://localhost:5122
+
+GET {{_10_12_24_APIExam_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

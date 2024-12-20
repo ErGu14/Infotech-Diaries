@@ -1,0 +1,80 @@
+D:\Kodlama\Course-Diaries\Infotech-Diaries\12.hafta\10_12_24\API\Ecommerce\ECommerce.Businnes\bin\Debug\net8.0\ECommerce.Businnes.deps.json
+D:\Kodlama\Course-Diaries\Infotech-Diaries\12.hafta\10_12_24\API\Ecommerce\ECommerce.Businnes\bin\Debug\net8.0\ECommerce.Businnes.dll
+D:\Kodlama\Course-Diaries\Infotech-Diaries\12.hafta\10_12_24\API\Ecommerce\ECommerce.Businnes\bin\Debug\net8.0\ECommerce.Businnes.pdb
+D:\Kodlama\Course-Diaries\Infotech-Diaries\12.hafta\10_12_24\API\Ecommerce\ECommerce.Businnes\obj\Debug\net8.0\ECommerce.Businnes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kodlama\Course-Diaries\Infotech-Diaries\12.hafta\10_12_24\API\Ecommerce\ECommerce.Businnes\obj\Debug\net8.0\ECommerce.Businnes.AssemblyInfoInputs.cache
+D:\Kodlama\Course-Diaries\Infotech-Diaries\12.hafta\10_12_24\API\Ecommerce\ECommerce.Businnes\obj\Debug\net8.0\ECommerce.Businnes.AssemblyInfo.cs
+D:\Kodlama\Course-Diaries\Infotech-Diaries\12.hafta\10_12_24\API\Ecommerce\ECommerce.Businnes\obj\Debug\net8.0\ECommerce.Businnes.csproj.CoreCompileInputs.cache
+D:\Kodlama\Course-Diaries\Infotech-Diaries\12.hafta\10_12_24\API\Ecommerce\ECommerce.Businnes\obj\Debug\net8.0\ECommerce.Businnes.sourcelink.json
+D:\Kodlama\Course-Diaries\Infotech-Diaries\12.hafta\10_12_24\API\Ecommerce\ECommerce.Businnes\obj\Debug\net8.0\ECommerce.Businnes.dll
+D:\Kodlama\Course-Diaries\Infotech-Diaries\12.hafta\10_12_24\API\Ecommerce\ECommerce.Businnes\obj\Debug\net8.0\refint\ECommerce.Businnes.dll
+D:\Kodlama\Course-Diaries\Infotech-Diaries\12.hafta\10_12_24\API\Ecommerce\ECommerce.Businnes\obj\Debug\net8.0\ECommerce.Businnes.pdb
+D:\Kodlama\Course-Diaries\Infotech-Diaries\12.hafta\10_12_24\API\Ecommerce\ECommerce.Businnes\obj\Debug\net8.0\ref\ECommerce.Businnes.dll
+D:\Kodlama\Course-Diaries\Infotech-Diaries\12.hafta\10_12_24\API\Ecommerce\ECommerce.Businnes\bin\Debug\net8.0\ECommerce.Data.dll
+D:\Kodlama\Course-Diaries\Infotech-Diaries\12.hafta\10_12_24\API\Ecommerce\ECommerce.Businnes\bin\Debug\net8.0\ECommerce.Entity.dll
+D:\Kodlama\Course-Diaries\Infotech-Diaries\12.hafta\10_12_24\API\Ecommerce\ECommerce.Businnes\bin\Debug\net8.0\ECommerce.Shared.dll
+D:\Kodlama\Course-Diaries\Infotech-Diaries\12.hafta\10_12_24\API\Ecommerce\ECommerce.Businnes\bin\Debug\net8.0\ECommerce.Data.pdb
+D:\Kodlama\Course-Diaries\Infotech-Diaries\12.hafta\10_12_24\API\Ecommerce\ECommerce.Businnes\bin\Debug\net8.0\ECommerce.Shared.pdb
+D:\Kodlama\Course-Diaries\Infotech-Diaries\12.hafta\10_12_24\API\Ecommerce\ECommerce.Businnes\bin\Debug\net8.0\ECommerce.Entity.pdb
+D:\Kodlama\Course-Diaries\Infotech-Diaries\12.hafta\10_12_24\API\Ecommerce\ECommerce.Businnes\obj\Debug\net8.0\ECommerce.Businnes.csproj.AssemblyReference.cache
+D:\Kodlama\Course-Diaries\Infotech-Diaries\12.hafta\10_12_24\API\Ecommerce\ECommerce.Businnes\obj\Debug\net8.0\ECommerc.24D0395D.Up2Date
+D:\Kodlama\Course-Diaries\Infotech-Diaries\12.hafta\13_12_24\API\Ecommerce\ECommerce.Businnes\bin\Debug\net8.0\ECommerce.Businnes.deps.json
+D:\Kodlama\Course-Diaries\Infotech-Diaries\12.hafta\13_12_24\API\Ecommerce\ECommerce.Businnes\bin\Debug\net8.0\ECommerce.Businnes.dll
+D:\Kodlama\Course-Diaries\Infotech-Diaries\12.hafta\13_12_24\API\Ecommerce\ECommerce.Businnes\bin\Debug\net8.0\ECommerce.Businnes.pdb
+D:\Kodlama\Course-Diaries\Infotech-Diaries\12.hafta\13_12_24\API\Ecommerce\ECommerce.Businnes\bin\Debug\net8.0\ECommerce.Data.dll
+D:\Kodlama\Course-Diaries\Infotech-Diaries\12.hafta\13_12_24\API\Ecommerce\ECommerce.Businnes\bin\Debug\net8.0\ECommerce.Entity.dll
+D:\Kodlama\Course-Diaries\Infotech-Diaries\12.hafta\13_12_24\API\Ecommerce\ECommerce.Businnes\bin\Debug\net8.0\ECommerce.Shared.dll
+D:\Kodlama\Course-Diaries\Infotech-Diaries\12.hafta\13_12_24\API\Ecommerce\ECommerce.Businnes\bin\Debug\net8.0\ECommerce.Data.pdb
+D:\Kodlama\Course-Diaries\Infotech-Diaries\12.hafta\13_12_24\API\Ecommerce\ECommerce.Businnes\bin\Debug\net8.0\ECommerce.Shared.pdb
+D:\Kodlama\Course-Diaries\Infotech-Diaries\12.hafta\13_12_24\API\Ecommerce\ECommerce.Businnes\bin\Debug\net8.0\ECommerce.Entity.pdb
+D:\Kodlama\Course-Diaries\Infotech-Diaries\12.hafta\13_12_24\API\Ecommerce\ECommerce.Businnes\obj\Debug\net8.0\ECommerce.Businnes.csproj.AssemblyReference.cache
+D:\Kodlama\Course-Diaries\Infotech-Diaries\12.hafta\13_12_24\API\Ecommerce\ECommerce.Businnes\obj\Debug\net8.0\ECommerce.Businnes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kodlama\Course-Diaries\Infotech-Diaries\12.hafta\13_12_24\API\Ecommerce\ECommerce.Businnes\obj\Debug\net8.0\ECommerce.Businnes.AssemblyInfoInputs.cache
+D:\Kodlama\Course-Diaries\Infotech-Diaries\12.hafta\13_12_24\API\Ecommerce\ECommerce.Businnes\obj\Debug\net8.0\ECommerce.Businnes.AssemblyInfo.cs
+D:\Kodlama\Course-Diaries\Infotech-Diaries\12.hafta\13_12_24\API\Ecommerce\ECommerce.Businnes\obj\Debug\net8.0\ECommerce.Businnes.csproj.CoreCompileInputs.cache
+D:\Kodlama\Course-Diaries\Infotech-Diaries\12.hafta\13_12_24\API\Ecommerce\ECommerce.Businnes\obj\Debug\net8.0\ECommerce.Businnes.sourcelink.json
+D:\Kodlama\Course-Diaries\Infotech-Diaries\12.hafta\13_12_24\API\Ecommerce\ECommerce.Businnes\obj\Debug\net8.0\ECommerc.24D0395D.Up2Date
+D:\Kodlama\Course-Diaries\Infotech-Diaries\12.hafta\13_12_24\API\Ecommerce\ECommerce.Businnes\obj\Debug\net8.0\ECommerce.Businnes.dll
+D:\Kodlama\Course-Diaries\Infotech-Diaries\12.hafta\13_12_24\API\Ecommerce\ECommerce.Businnes\obj\Debug\net8.0\refint\ECommerce.Businnes.dll
+D:\Kodlama\Course-Diaries\Infotech-Diaries\12.hafta\13_12_24\API\Ecommerce\ECommerce.Businnes\obj\Debug\net8.0\ECommerce.Businnes.pdb
+D:\Kodlama\Course-Diaries\Infotech-Diaries\12.hafta\13_12_24\API\Ecommerce\ECommerce.Businnes\obj\Debug\net8.0\ref\ECommerce.Businnes.dll
+D:\Kodlama\Course-Diaries\Infotech-Diaries\13.hafta\16_12_24\API\Ecommerce\ECommerce.Businnes\bin\Debug\net8.0\ECommerce.Businnes.deps.json
+D:\Kodlama\Course-Diaries\Infotech-Diaries\13.hafta\16_12_24\API\Ecommerce\ECommerce.Businnes\bin\Debug\net8.0\ECommerce.Businnes.dll
+D:\Kodlama\Course-Diaries\Infotech-Diaries\13.hafta\16_12_24\API\Ecommerce\ECommerce.Businnes\bin\Debug\net8.0\ECommerce.Businnes.pdb
+D:\Kodlama\Course-Diaries\Infotech-Diaries\13.hafta\16_12_24\API\Ecommerce\ECommerce.Businnes\bin\Debug\net8.0\ECommerce.Data.dll
+D:\Kodlama\Course-Diaries\Infotech-Diaries\13.hafta\16_12_24\API\Ecommerce\ECommerce.Businnes\bin\Debug\net8.0\ECommerce.Entity.dll
+D:\Kodlama\Course-Diaries\Infotech-Diaries\13.hafta\16_12_24\API\Ecommerce\ECommerce.Businnes\bin\Debug\net8.0\ECommerce.Shared.dll
+D:\Kodlama\Course-Diaries\Infotech-Diaries\13.hafta\16_12_24\API\Ecommerce\ECommerce.Businnes\bin\Debug\net8.0\ECommerce.Data.pdb
+D:\Kodlama\Course-Diaries\Infotech-Diaries\13.hafta\16_12_24\API\Ecommerce\ECommerce.Businnes\bin\Debug\net8.0\ECommerce.Shared.pdb
+D:\Kodlama\Course-Diaries\Infotech-Diaries\13.hafta\16_12_24\API\Ecommerce\ECommerce.Businnes\bin\Debug\net8.0\ECommerce.Entity.pdb
+D:\Kodlama\Course-Diaries\Infotech-Diaries\13.hafta\16_12_24\API\Ecommerce\ECommerce.Businnes\obj\Debug\net8.0\ECommerce.Businnes.csproj.AssemblyReference.cache
+D:\Kodlama\Course-Diaries\Infotech-Diaries\13.hafta\16_12_24\API\Ecommerce\ECommerce.Businnes\obj\Debug\net8.0\ECommerce.Businnes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kodlama\Course-Diaries\Infotech-Diaries\13.hafta\16_12_24\API\Ecommerce\ECommerce.Businnes\obj\Debug\net8.0\ECommerce.Businnes.AssemblyInfoInputs.cache
+D:\Kodlama\Course-Diaries\Infotech-Diaries\13.hafta\16_12_24\API\Ecommerce\ECommerce.Businnes\obj\Debug\net8.0\ECommerce.Businnes.AssemblyInfo.cs
+D:\Kodlama\Course-Diaries\Infotech-Diaries\13.hafta\16_12_24\API\Ecommerce\ECommerce.Businnes\obj\Debug\net8.0\ECommerce.Businnes.csproj.CoreCompileInputs.cache
+D:\Kodlama\Course-Diaries\Infotech-Diaries\13.hafta\16_12_24\API\Ecommerce\ECommerce.Businnes\obj\Debug\net8.0\ECommerce.Businnes.sourcelink.json
+D:\Kodlama\Course-Diaries\Infotech-Diaries\13.hafta\16_12_24\API\Ecommerce\ECommerce.Businnes\obj\Debug\net8.0\ECommerc.24D0395D.Up2Date
+D:\Kodlama\Course-Diaries\Infotech-Diaries\13.hafta\16_12_24\API\Ecommerce\ECommerce.Businnes\obj\Debug\net8.0\ECommerce.Businnes.dll
+D:\Kodlama\Course-Diaries\Infotech-Diaries\13.hafta\16_12_24\API\Ecommerce\ECommerce.Businnes\obj\Debug\net8.0\refint\ECommerce.Businnes.dll
+D:\Kodlama\Course-Diaries\Infotech-Diaries\13.hafta\16_12_24\API\Ecommerce\ECommerce.Businnes\obj\Debug\net8.0\ECommerce.Businnes.pdb
+D:\Kodlama\Course-Diaries\Infotech-Diaries\13.hafta\16_12_24\API\Ecommerce\ECommerce.Businnes\obj\Debug\net8.0\ref\ECommerce.Businnes.dll
+F:\Kodlama\Course-Diaries\Infotech-Diaries\HomeMade\Aralık Ayı\16_12_24\API\Ecommerce\ECommerce.Businnes\obj\Debug\net8.0\ECommerce.Businnes.csproj.AssemblyReference.cache
+F:\Kodlama\Course-Diaries\Infotech-Diaries\HomeMade\Aralık Ayı\16_12_24\API\Ecommerce\ECommerce.Businnes\obj\Debug\net8.0\ECommerce.Businnes.GeneratedMSBuildEditorConfig.editorconfig
+F:\Kodlama\Course-Diaries\Infotech-Diaries\HomeMade\Aralık Ayı\16_12_24\API\Ecommerce\ECommerce.Businnes\obj\Debug\net8.0\ECommerce.Businnes.AssemblyInfoInputs.cache
+F:\Kodlama\Course-Diaries\Infotech-Diaries\HomeMade\Aralık Ayı\16_12_24\API\Ecommerce\ECommerce.Businnes\obj\Debug\net8.0\ECommerce.Businnes.AssemblyInfo.cs
+F:\Kodlama\Course-Diaries\Infotech-Diaries\HomeMade\Aralık Ayı\16_12_24\API\Ecommerce\ECommerce.Businnes\obj\Debug\net8.0\ECommerce.Businnes.csproj.CoreCompileInputs.cache
+F:\Kodlama\Course-Diaries\Infotech-Diaries\HomeMade\Aralık Ayı\16_12_24\API\Ecommerce\ECommerce.Businnes\obj\Debug\net8.0\ECommerce.Businnes.sourcelink.json
+F:\Kodlama\Course-Diaries\Infotech-Diaries\HomeMade\Aralık Ayı\16_12_24\API\Ecommerce\ECommerce.Businnes\obj\Debug\net8.0\ECommerce.Businnes.dll
+F:\Kodlama\Course-Diaries\Infotech-Diaries\HomeMade\Aralık Ayı\16_12_24\API\Ecommerce\ECommerce.Businnes\obj\Debug\net8.0\refint\ECommerce.Businnes.dll
+F:\Kodlama\Course-Diaries\Infotech-Diaries\HomeMade\Aralık Ayı\16_12_24\API\Ecommerce\ECommerce.Businnes\obj\Debug\net8.0\ECommerce.Businnes.pdb
+F:\Kodlama\Course-Diaries\Infotech-Diaries\HomeMade\Aralık Ayı\16_12_24\API\Ecommerce\ECommerce.Businnes\bin\Debug\net8.0\ECommerce.Businnes.deps.json
+F:\Kodlama\Course-Diaries\Infotech-Diaries\HomeMade\Aralık Ayı\16_12_24\API\Ecommerce\ECommerce.Businnes\bin\Debug\net8.0\ECommerce.Businnes.dll
+F:\Kodlama\Course-Diaries\Infotech-Diaries\HomeMade\Aralık Ayı\16_12_24\API\Ecommerce\ECommerce.Businnes\bin\Debug\net8.0\ECommerce.Businnes.pdb
+F:\Kodlama\Course-Diaries\Infotech-Diaries\HomeMade\Aralık Ayı\16_12_24\API\Ecommerce\ECommerce.Businnes\bin\Debug\net8.0\ECommerce.Data.dll
+F:\Kodlama\Course-Diaries\Infotech-Diaries\HomeMade\Aralık Ayı\16_12_24\API\Ecommerce\ECommerce.Businnes\bin\Debug\net8.0\ECommerce.Entity.dll
+F:\Kodlama\Course-Diaries\Infotech-Diaries\HomeMade\Aralık Ayı\16_12_24\API\Ecommerce\ECommerce.Businnes\bin\Debug\net8.0\ECommerce.Shared.dll
+F:\Kodlama\Course-Diaries\Infotech-Diaries\HomeMade\Aralık Ayı\16_12_24\API\Ecommerce\ECommerce.Businnes\bin\Debug\net8.0\ECommerce.Data.pdb
+F:\Kodlama\Course-Diaries\Infotech-Diaries\HomeMade\Aralık Ayı\16_12_24\API\Ecommerce\ECommerce.Businnes\bin\Debug\net8.0\ECommerce.Shared.pdb
+F:\Kodlama\Course-Diaries\Infotech-Diaries\HomeMade\Aralık Ayı\16_12_24\API\Ecommerce\ECommerce.Businnes\bin\Debug\net8.0\ECommerce.Entity.pdb
+F:\Kodlama\Course-Diaries\Infotech-Diaries\HomeMade\Aralık Ayı\16_12_24\API\Ecommerce\ECommerce.Businnes\obj\Debug\net8.0\ECommerc.24D0395D.Up2Date
+F:\Kodlama\Course-Diaries\Infotech-Diaries\HomeMade\Aralık Ayı\16_12_24\API\Ecommerce\ECommerce.Businnes\obj\Debug\net8.0\ref\ECommerce.Businnes.dll
