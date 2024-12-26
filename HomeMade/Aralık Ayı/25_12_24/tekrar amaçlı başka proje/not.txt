@@ -1,0 +1,11 @@
+Identity = user bilgilerini getall ,delete gibi işlemlerin yapmasını sağlamamızı basit şekilde yapan pakettir (entityde kuruldu)
+
+public class ECommerceDbContext : IdentityDbContext<IdentityUser,IdentityRole,string>
+
+Identity user = user bilgilerinin hepsi
+I.Role = user rolü için gerekli şeyler<
+string = bunun identitysini veya primary keyini string olaak almak istiyorum UNIQE 
+
+
+
+postman= swagger ın daha iyisi

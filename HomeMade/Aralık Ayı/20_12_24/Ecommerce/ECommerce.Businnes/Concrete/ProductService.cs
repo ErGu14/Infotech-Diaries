@@ -4,6 +4,7 @@ using ECommerce.Data.Abstract;
 using ECommerce.Entity.Concrete;
 using ECommerce.Shared.DTOs;
 using ECommerce.Shared.ResponseDTOs;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata;
 using Microsoft.EntityFrameworkCore.Query;
 using System;
@@ -20,6 +21,8 @@ namespace ECommerce.Businnes.Concrete
         private readonly IUnitOfWork _unitOfWork;
         private readonly IMapper _mapper;
         private readonly IGenericRepository<Product> _repsitory;
+        
+
 
         public ProductService(IUnitOfWork unitOfWork, IMapper mapper)
         {
@@ -107,12 +110,11 @@ namespace ECommerce.Businnes.Concrete
 
         public async Task<ResponseDTO<IEnumerable<ProductDTO>>> GetAllWithCategoriesAsync()
         {
-            throw new NotImplementedException();
-            
-            
-        
-          
-     
+            var products = await _repsitory.GetAllAsync(p => p.ProductCategories.Select(pc => pc.Category).ToList());
+
+
+
+
         }
 
         public Task<ResponseDTO<ProductDTO>> GetAsync(int id)
