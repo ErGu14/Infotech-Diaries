@@ -39,6 +39,7 @@ builder.Services.AddIdentity<ApplicationUser, ApplicationRole>(x =>
 {
 
     //user bilgileri
+    
     x.User.RequireUniqueEmail = true; // sistemde ayný adrese ait bir eposta bilgisi olmasýn 
     x.User.AllowedUserNameCharacters = "abcdefghijklmnoprstuwvyzABCDEFGIJKLMNOPRSTUWVYZ1234567890*.@_-";
 
