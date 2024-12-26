@@ -4411,11 +4411,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\HomeMade\\Aralık Ayı\\25_12_24\\Ecommerce\\ECommerce.API\\ECommerce.API.csproj",
+      "projectUniqueName": "F:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\HomeMade\\Aralık Ayı\\26_12_24\\Ecommerce\\ECommerce.API\\ECommerce.API.csproj",
       "projectName": "ECommerce.API",
-      "projectPath": "F:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\HomeMade\\Aralık Ayı\\25_12_24\\Ecommerce\\ECommerce.API\\ECommerce.API.csproj",
+      "projectPath": "F:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\HomeMade\\Aralık Ayı\\26_12_24\\Ecommerce\\ECommerce.API\\ECommerce.API.csproj",
       "packagesPath": "C:\\Users\\erayg\\.nuget\\packages\\",
-      "outputPath": "F:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\HomeMade\\Aralık Ayı\\25_12_24\\Ecommerce\\ECommerce.API\\obj\\",
+      "outputPath": "F:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\HomeMade\\Aralık Ayı\\26_12_24\\Ecommerce\\ECommerce.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -4437,11 +4437,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "F:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\HomeMade\\Aralık Ayı\\25_12_24\\Ecommerce\\ECommerce.Businnes\\ECommerce.Businnes.csproj": {
-              "projectPath": "F:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\HomeMade\\Aralık Ayı\\25_12_24\\Ecommerce\\ECommerce.Businnes\\ECommerce.Businnes.csproj"
+            "F:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\HomeMade\\Aralık Ayı\\26_12_24\\Ecommerce\\ECommerce.Businnes\\ECommerce.Businnes.csproj": {
+              "projectPath": "F:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\HomeMade\\Aralık Ayı\\26_12_24\\Ecommerce\\ECommerce.Businnes\\ECommerce.Businnes.csproj"
             },
-            "F:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\HomeMade\\Aralık Ayı\\25_12_24\\Ecommerce\\ECommerce.Shared\\ECommerce.Shared.csproj": {
-              "projectPath": "F:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\HomeMade\\Aralık Ayı\\25_12_24\\Ecommerce\\ECommerce.Shared\\ECommerce.Shared.csproj"
+            "F:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\HomeMade\\Aralık Ayı\\26_12_24\\Ecommerce\\ECommerce.Shared\\ECommerce.Shared.csproj": {
+              "projectPath": "F:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\HomeMade\\Aralık Ayı\\26_12_24\\Ecommerce\\ECommerce.Shared\\ECommerce.Shared.csproj"
             }
           }
         }

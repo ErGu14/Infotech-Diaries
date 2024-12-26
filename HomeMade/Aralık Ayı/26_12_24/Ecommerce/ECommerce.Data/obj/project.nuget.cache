@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OQOwIPVC9J8=",
+  "dgSpecHash": "Xk3u4HSY358=",
   "success": true,
-  "projectFilePath": "F:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\HomeMade\\Aralık Ayı\\25_12_24\\Ecommerce\\ECommerce.Data\\ECommerce.Data.csproj",
+  "projectFilePath": "F:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\HomeMade\\Aralık Ayı\\26_12_24\\Ecommerce\\ECommerce.Data\\ECommerce.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\erayg\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\erayg\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

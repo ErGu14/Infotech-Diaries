@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "E46tI9cLCh4=",
+  "dgSpecHash": "VKhv6Mf9LfU=",
   "success": true,
-  "projectFilePath": "F:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\HomeMade\\Aralık Ayı\\25_12_24\\Ecommerce\\ECommerce.Entity\\ECommerce.Entity.csproj",
+  "projectFilePath": "F:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\HomeMade\\Aralık Ayı\\26_12_24\\Ecommerce\\ECommerce.Entity\\ECommerce.Entity.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\erayg\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\8.0.11\\microsoft.aspnetcore.cryptography.internal.8.0.11.nupkg.sha512",
     "C:\\Users\\erayg\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\8.0.11\\microsoft.aspnetcore.cryptography.keyderivation.8.0.11.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jzjTAcspyeI=",
+  "dgSpecHash": "cnBN+Ig9ieY=",
   "success": true,
-  "projectFilePath": "F:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\HomeMade\\Aralık Ayı\\25_12_24\\Ecommerce\\ECommerce.Businnes\\ECommerce.Businnes.csproj",
+  "projectFilePath": "F:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\HomeMade\\Aralık Ayı\\26_12_24\\Ecommerce\\ECommerce.Businnes\\ECommerce.Businnes.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\erayg\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\erayg\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",

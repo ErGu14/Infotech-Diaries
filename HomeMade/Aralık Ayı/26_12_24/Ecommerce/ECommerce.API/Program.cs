@@ -30,6 +30,7 @@ builder.Services.AddAutoMapper(typeof(MappingProfile));
 builder.Services.AddScoped<ICategoryService,CategoryService>();
 builder.Services.AddScoped<IProductService,ProductService>();
 builder.Services.AddScoped<IRoleService,RoleService>();
+builder.Services.AddScoped<IAuthService,AuthService>();
 
 builder.Services.Configure<JWTConfig>(builder.Configuration.GetSection("JwtConfig"));
 JWTConfig? jWTConfig = builder.Configuration.GetSection("JwtConfig").Get<JWTConfig>(); // gelen .json u class a çevirerek aþaðýda yazcaðým düzenlemelerde kullanabileceðim yani appsettings bir soyutsa jwt config benim somut halim ve somutu kodkarýmda kullanmam daha uygun  gibi bir örnek verilebilir IproductService ile product service gibi
@@ -74,7 +75,7 @@ builder.Services.AddAuthentication(x =>
 
 
     };
-});
+}); // burada þemalar yüklenicek sonra sunucu token olduðunu anlicak ve token bilgilerini kontrol et dicem 
 
 
 var app = builder.Build();
