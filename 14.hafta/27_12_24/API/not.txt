@@ -1,0 +1,32 @@
+Identity = user bilgilerini getall ,delete gibi işlemlerin yapmasını sağlamamızı basit şekilde yapan pakettir (entityde kuruldu)
+
+public class ECommerceDbContext : IdentityDbContext<IdentityUser,IdentityRole,string>
+
+Identity user = user bilgilerinin hepsi
+I.Role = user rolü için gerekli şeyler<
+string = bunun identitysini veya primary keyini string olaak almak istiyorum UNIQE 
+
+
+
+postman= swagger ın daha iyisi
+
+
+JWT.io 
+
+jwt = json web token 
+
+access token daki bilgileri işte 
+kullanıcı bilgileri vs vs kimlik görevi görür
+3 parça var
+
+header.payload.verify_signature
+
+header. = bunun ne tür bir şifreleme metodu olduğunu belirtiyoruz   jwt tipi ve algoritma tipi
+payload. = kullanıcı bilgileri işte adı yetkisi kimlik bilgisi gibi gibi
+verify_signature (_ de boşluk var ben sadece okunurluk için öyle yazdım) = metodun imzalanmasıyla ilgili bir bölüm içerisinde
+
+header + paylodun oluşturulduğu bir imzadır 
+
+bide bir  terim daha var verify kısmında 
+
+your-256-bit-secret = bu bilgileri kimler okuyabilir diye bir alandır ve buranın içerisine benim anahtarımı yazıcam yani okuyacak kişilerin kimliğini yazıcam

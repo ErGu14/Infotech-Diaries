@@ -1,0 +1,12 @@
+D:\Kodlama\Course-Diaries\Infotech-Diaries\14.hafta\27_12_24\API\ECommerce\ECommerce.Shared\bin\Debug\net8.0\ECommerce.Shared.deps.json
+D:\Kodlama\Course-Diaries\Infotech-Diaries\14.hafta\27_12_24\API\ECommerce\ECommerce.Shared\bin\Debug\net8.0\ECommerce.Shared.dll
+D:\Kodlama\Course-Diaries\Infotech-Diaries\14.hafta\27_12_24\API\ECommerce\ECommerce.Shared\bin\Debug\net8.0\ECommerce.Shared.pdb
+D:\Kodlama\Course-Diaries\Infotech-Diaries\14.hafta\27_12_24\API\ECommerce\ECommerce.Shared\obj\Debug\net8.0\ECommerce.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kodlama\Course-Diaries\Infotech-Diaries\14.hafta\27_12_24\API\ECommerce\ECommerce.Shared\obj\Debug\net8.0\ECommerce.Shared.AssemblyInfoInputs.cache
+D:\Kodlama\Course-Diaries\Infotech-Diaries\14.hafta\27_12_24\API\ECommerce\ECommerce.Shared\obj\Debug\net8.0\ECommerce.Shared.AssemblyInfo.cs
+D:\Kodlama\Course-Diaries\Infotech-Diaries\14.hafta\27_12_24\API\ECommerce\ECommerce.Shared\obj\Debug\net8.0\ECommerce.Shared.csproj.CoreCompileInputs.cache
+D:\Kodlama\Course-Diaries\Infotech-Diaries\14.hafta\27_12_24\API\ECommerce\ECommerce.Shared\obj\Debug\net8.0\ECommerce.Shared.sourcelink.json
+D:\Kodlama\Course-Diaries\Infotech-Diaries\14.hafta\27_12_24\API\ECommerce\ECommerce.Shared\obj\Debug\net8.0\ECommerce.Shared.dll
+D:\Kodlama\Course-Diaries\Infotech-Diaries\14.hafta\27_12_24\API\ECommerce\ECommerce.Shared\obj\Debug\net8.0\refint\ECommerce.Shared.dll
+D:\Kodlama\Course-Diaries\Infotech-Diaries\14.hafta\27_12_24\API\ECommerce\ECommerce.Shared\obj\Debug\net8.0\ECommerce.Shared.pdb
+D:\Kodlama\Course-Diaries\Infotech-Diaries\14.hafta\27_12_24\API\ECommerce\ECommerce.Shared\obj\Debug\net8.0\ref\ECommerce.Shared.dll
