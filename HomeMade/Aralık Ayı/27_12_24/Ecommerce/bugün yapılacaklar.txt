@@ -28,3 +28,4 @@ dto ların amacı benim veri tabanındaki görüntülerim yerine kullanıcıya g
 	* interface e gerekli işlemlerimi yani gerekli kemik yapımı oluşturdum ordada yazdığım gibi buralara daha neler neler eklenebilir lakin hocanın senaryosundan mantığını anlasak yeter
 
 - şimdi ise basketimizin somut halini yani class halini yazıyoruz
+	* basket somut hali yazıldı (eğer anlamıyorsan unutuyorsun merak etme yarın 0 dan yazıcaksın ve hayatın bunlarla geçicek illaki mantığını oturtucaksın)
