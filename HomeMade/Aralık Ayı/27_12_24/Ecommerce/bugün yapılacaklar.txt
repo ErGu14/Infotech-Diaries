@@ -1,0 +1,30 @@
+bugbugün kursta 
+
+order
+order Items
+basket
+basket Items
+
+kodlarımızı yazdık şimdi bunları yönetmek için illa ayrı ayrı service oluşturmamıza gerek yok bu yüzden hepsine ilgili 1'er service oluşturucaz 
+
+
+
+şimdi orderde baskette ilgili basket itemleri silicez. peki niye?
+
+bir kullanıcı siparişi tamamla dediğinde sepete kayıtlı olan verileri silicez ve orderimize gidicek yani hepsiburada dan örnek verelim sepete ürünü ekledin iyi güzel orda işlemi tamamladıktan sonra ne olucak sipraişin alınmış olucak ve sepetin temizlenecek . Bu işlem için öncelikle basket ile alakalı işlemlerimizi yazpıcaz
+
+1-basket ve Items
+
+şimdi benim entitymde basket ve item ile ilgili entitylerim var ama ben kullanıcıya belirli şeyleri geri döndürmem yani göstermem lazım o yüzden DTO larımızı oluşturcaz 
+
+dto ların amacı benim veri tabanındaki görüntülerim yerine kullanıcıya göstermem gereken şeyleri göstericez bun yapma amacımız misal entityde 30 tane verimiz olcak ama kullanıcı sadece 5ini görücek ve görmesi daha uygun o yüzden yapıyoruz
+
+
+- örnek verilerimizi repodan alalım
+-dtoları düzenleyelim
+	* Dto ların eksik olanlarını girdik ve gerekli düzenlemeler yapıldı (sepet miktar değiştirme, sepetteki ürünleri silme/kaldırma, siparişin fiyat toplamı , sepetteki ürünün quantitysi)
+
+-Interface Basket Servisimizi yazmaya başlıyoruz
+	* interface e gerekli işlemlerimi yani gerekli kemik yapımı oluşturdum ordada yazdığım gibi buralara daha neler neler eklenebilir lakin hocanın senaryosundan mantığını anlasak yeter
+
+- şimdi ise basketimizin somut halini yani class halini yazıyoruz

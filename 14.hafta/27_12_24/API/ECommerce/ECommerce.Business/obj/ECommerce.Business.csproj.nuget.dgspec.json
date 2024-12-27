@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\14.hafta\\27_12_24\\API\\ECommerce\\ECommerce.Business\\ECommerce.Business.csproj": {}
+    "F:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\14.hafta\\27_12_24\\API\\ECommerce\\ECommerce.Business\\ECommerce.Business.csproj": {}
   },
   "projects": {
-    "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\14.hafta\\27_12_24\\API\\ECommerce\\ECommerce.Business\\ECommerce.Business.csproj": {
+    "F:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\14.hafta\\27_12_24\\API\\ECommerce\\ECommerce.Business\\ECommerce.Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\14.hafta\\27_12_24\\API\\ECommerce\\ECommerce.Business\\ECommerce.Business.csproj",
+        "projectUniqueName": "F:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\14.hafta\\27_12_24\\API\\ECommerce\\ECommerce.Business\\ECommerce.Business.csproj",
         "projectName": "ECommerce.Business",
-        "projectPath": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\14.hafta\\27_12_24\\API\\ECommerce\\ECommerce.Business\\ECommerce.Business.csproj",
-        "packagesPath": "C:\\Users\\oguzr\\.nuget\\packages\\",
-        "outputPath": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\14.hafta\\27_12_24\\API\\ECommerce\\ECommerce.Business\\obj\\",
+        "projectPath": "F:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\14.hafta\\27_12_24\\API\\ECommerce\\ECommerce.Business\\ECommerce.Business.csproj",
+        "packagesPath": "C:\\Users\\erayg\\.nuget\\packages\\",
+        "outputPath": "F:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\14.hafta\\27_12_24\\API\\ECommerce\\ECommerce.Business\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\oguzr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\erayg\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,17 +26,18 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\14.hafta\\27_12_24\\API\\ECommerce\\ECommerce.Data\\ECommerce.Data.csproj": {
-                "projectPath": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\14.hafta\\27_12_24\\API\\ECommerce\\ECommerce.Data\\ECommerce.Data.csproj"
+              "F:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\14.hafta\\27_12_24\\API\\ECommerce\\ECommerce.Data\\ECommerce.Data.csproj": {
+                "projectPath": "F:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\14.hafta\\27_12_24\\API\\ECommerce\\ECommerce.Data\\ECommerce.Data.csproj"
               },
-              "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\14.hafta\\27_12_24\\API\\ECommerce\\ECommerce.Shared\\ECommerce.Shared.csproj": {
-                "projectPath": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\14.hafta\\27_12_24\\API\\ECommerce\\ECommerce.Shared\\ECommerce.Shared.csproj"
+              "F:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\14.hafta\\27_12_24\\API\\ECommerce\\ECommerce.Shared\\ECommerce.Shared.csproj": {
+                "projectPath": "F:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\14.hafta\\27_12_24\\API\\ECommerce\\ECommerce.Shared\\ECommerce.Shared.csproj"
               }
             }
           }
@@ -73,21 +78,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\14.hafta\\27_12_24\\API\\ECommerce\\ECommerce.Data\\ECommerce.Data.csproj": {
+    "F:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\14.hafta\\27_12_24\\API\\ECommerce\\ECommerce.Data\\ECommerce.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\14.hafta\\27_12_24\\API\\ECommerce\\ECommerce.Data\\ECommerce.Data.csproj",
+        "projectUniqueName": "F:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\14.hafta\\27_12_24\\API\\ECommerce\\ECommerce.Data\\ECommerce.Data.csproj",
         "projectName": "ECommerce.Data",
-        "projectPath": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\14.hafta\\27_12_24\\API\\ECommerce\\ECommerce.Data\\ECommerce.Data.csproj",
-        "packagesPath": "C:\\Users\\oguzr\\.nuget\\packages\\",
-        "outputPath": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\14.hafta\\27_12_24\\API\\ECommerce\\ECommerce.Data\\obj\\",
+        "projectPath": "F:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\14.hafta\\27_12_24\\API\\ECommerce\\ECommerce.Data\\ECommerce.Data.csproj",
+        "packagesPath": "C:\\Users\\erayg\\.nuget\\packages\\",
+        "outputPath": "F:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\14.hafta\\27_12_24\\API\\ECommerce\\ECommerce.Data\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\oguzr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\erayg\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -95,17 +104,18 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\14.hafta\\27_12_24\\API\\ECommerce\\ECommerce.Entity\\ECommerce.Entity.csproj": {
-                "projectPath": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\14.hafta\\27_12_24\\API\\ECommerce\\ECommerce.Entity\\ECommerce.Entity.csproj"
+              "F:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\14.hafta\\27_12_24\\API\\ECommerce\\ECommerce.Entity\\ECommerce.Entity.csproj": {
+                "projectPath": "F:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\14.hafta\\27_12_24\\API\\ECommerce\\ECommerce.Entity\\ECommerce.Entity.csproj"
               },
-              "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\14.hafta\\27_12_24\\API\\ECommerce\\ECommerce.Shared\\ECommerce.Shared.csproj": {
-                "projectPath": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\14.hafta\\27_12_24\\API\\ECommerce\\ECommerce.Shared\\ECommerce.Shared.csproj"
+              "F:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\14.hafta\\27_12_24\\API\\ECommerce\\ECommerce.Shared\\ECommerce.Shared.csproj": {
+                "projectPath": "F:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\14.hafta\\27_12_24\\API\\ECommerce\\ECommerce.Shared\\ECommerce.Shared.csproj"
               }
             }
           }
@@ -146,21 +156,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\14.hafta\\27_12_24\\API\\ECommerce\\ECommerce.Entity\\ECommerce.Entity.csproj": {
+    "F:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\14.hafta\\27_12_24\\API\\ECommerce\\ECommerce.Entity\\ECommerce.Entity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\14.hafta\\27_12_24\\API\\ECommerce\\ECommerce.Entity\\ECommerce.Entity.csproj",
+        "projectUniqueName": "F:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\14.hafta\\27_12_24\\API\\ECommerce\\ECommerce.Entity\\ECommerce.Entity.csproj",
         "projectName": "ECommerce.Entity",
-        "projectPath": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\14.hafta\\27_12_24\\API\\ECommerce\\ECommerce.Entity\\ECommerce.Entity.csproj",
-        "packagesPath": "C:\\Users\\oguzr\\.nuget\\packages\\",
-        "outputPath": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\14.hafta\\27_12_24\\API\\ECommerce\\ECommerce.Entity\\obj\\",
+        "projectPath": "F:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\14.hafta\\27_12_24\\API\\ECommerce\\ECommerce.Entity\\ECommerce.Entity.csproj",
+        "packagesPath": "C:\\Users\\erayg\\.nuget\\packages\\",
+        "outputPath": "F:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\14.hafta\\27_12_24\\API\\ECommerce\\ECommerce.Entity\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\oguzr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\erayg\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -168,14 +182,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\14.hafta\\27_12_24\\API\\ECommerce\\ECommerce.Shared\\ECommerce.Shared.csproj": {
-                "projectPath": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\14.hafta\\27_12_24\\API\\ECommerce\\ECommerce.Shared\\ECommerce.Shared.csproj"
+              "F:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\14.hafta\\27_12_24\\API\\ECommerce\\ECommerce.Shared\\ECommerce.Shared.csproj": {
+                "projectPath": "F:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\14.hafta\\27_12_24\\API\\ECommerce\\ECommerce.Shared\\ECommerce.Shared.csproj"
               }
             }
           }
@@ -216,21 +231,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\14.hafta\\27_12_24\\API\\ECommerce\\ECommerce.Shared\\ECommerce.Shared.csproj": {
+    "F:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\14.hafta\\27_12_24\\API\\ECommerce\\ECommerce.Shared\\ECommerce.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\14.hafta\\27_12_24\\API\\ECommerce\\ECommerce.Shared\\ECommerce.Shared.csproj",
+        "projectUniqueName": "F:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\14.hafta\\27_12_24\\API\\ECommerce\\ECommerce.Shared\\ECommerce.Shared.csproj",
         "projectName": "ECommerce.Shared",
-        "projectPath": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\14.hafta\\27_12_24\\API\\ECommerce\\ECommerce.Shared\\ECommerce.Shared.csproj",
-        "packagesPath": "C:\\Users\\oguzr\\.nuget\\packages\\",
-        "outputPath": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\14.hafta\\27_12_24\\API\\ECommerce\\ECommerce.Shared\\obj\\",
+        "projectPath": "F:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\14.hafta\\27_12_24\\API\\ECommerce\\ECommerce.Shared\\ECommerce.Shared.csproj",
+        "packagesPath": "C:\\Users\\erayg\\.nuget\\packages\\",
+        "outputPath": "F:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\14.hafta\\27_12_24\\API\\ECommerce\\ECommerce.Shared\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\oguzr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\erayg\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -238,6 +257,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -279,7 +299,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
