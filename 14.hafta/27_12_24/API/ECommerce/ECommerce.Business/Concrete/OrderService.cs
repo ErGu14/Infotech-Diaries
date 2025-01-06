@@ -47,6 +47,7 @@ namespace ECommerce.Business.Concrete
                 item.OrderId = order.Id;
 
             }
+
             _orderRepository.Update(order);
             await _unitOfWork.SaveChangesAsync();
             await _basketService.ClearBasketAsync(order.ApplicationUserId);
@@ -143,6 +144,7 @@ namespace ECommerce.Business.Concrete
                 return ResponseDTO<NoContent>.Fail("Sipariş Bulunmamaktadır", 404);
 
             }
+            //silip üzerine yazmak
             order.OrderItems.Clear();
             _orderRepository.Update(order);
             await _unitOfWork.SaveChangesAsync();

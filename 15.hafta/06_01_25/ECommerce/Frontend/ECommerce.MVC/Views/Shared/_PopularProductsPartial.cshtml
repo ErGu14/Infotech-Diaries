@@ -1,0 +1,26 @@
+﻿<section class="popular-products py-3">
+    <div class="container">
+        <h2 class="text-center mb-4">Popüler Ürünler</h2>
+        <div class="row">
+            <!-- Ürün Kartları -->
+            <!-- Ürün Kartı 1 -->
+            @for (int i = 0; i < 6; i++)
+            {
+                <div class="col-xl-2 col-lg-3 col-md-4 col-sm-6 col-12 mb-4">
+                    <div class="card product-card">
+                        <div onclick="window.location.href='#'" style="cursor: pointer;">
+                            <img src="~/images/product-1.jpg" class="card-img-top" alt="">
+                            <div class="card-body">
+                                <h5 class="card-title">Ürün @i</h5>
+                                <p class="card-text">1000 TL</p>
+                            </div>
+                        </div>
+                        <div class="card-footer text-center">
+                            <a href="#" class="btn btn-primary btn-block">Sepete Ekle</a>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+</section>

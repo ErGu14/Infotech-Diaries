@@ -1,0 +1,48 @@
+{
+    "version": "0.2.0",
+    "compounds": [
+        {
+            "name": "Full Stack",
+            "configurations": [
+                "API",
+                "Web"
+            ]
+        }
+    ],
+    "configurations": [
+        {
+            "name": "API",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build-api",
+            "program": "${workspaceFolder}/Backend/ECommerce.API/bin/Debug/net8.0/ECommerce.API.dll",
+            "cwd": "${workspaceFolder}/Backend/ECommerce.API",
+            "env": {
+                "ASPNETCORE_ENVIRONMENT": "Development",
+                "ASPNETCORE_URLS": "http://localhost:5050"
+            },
+            "serverReadyAction": {
+                "action": "startDebugging",
+                "pattern": "\\bNow listening on:\\s+(https?://\\S+)",
+                "name": "Web"
+            }
+        },
+        {
+            "name": "Web",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build-web",
+            "program": "${workspaceFolder}/Frontend/ECommerce.MVC/bin/Debug/net8.0/ECommerce.MVC.dll",
+            "cwd": "${workspaceFolder}/Frontend/ECommerce.MVC",
+            "env": {
+                "ASPNETCORE_ENVIRONMENT": "Development",
+                "ASPNETCORE_URLS": "http://localhost:5146"
+            },
+            "serverReadyAction": {
+                "action": "openExternally",
+                "pattern": "\\bNow listening on:\\s+(https?://\\S+)",
+                "uriFormat": "%s"
+            }
+        }
+    ]
+}

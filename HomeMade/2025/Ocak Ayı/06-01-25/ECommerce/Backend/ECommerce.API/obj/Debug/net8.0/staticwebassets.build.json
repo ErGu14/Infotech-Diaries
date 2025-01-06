@@ -1,0 +1,1979 @@
+{
+  "Version": 1,
+  "Hash": "Fv2AtHFbDCGWeu3cSpz0CsyggE82XER3oAE0BwE0wyY=",
+  "Source": "ECommerce.API",
+  "BasePath": "_content/ECommerce.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ECommerce.API\\wwwroot",
+      "Source": "ECommerce.API",
+      "ContentRoot": "F:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\HomeMade\\2025\\Ocak Ayı\\06-01-25\\ECommerce\\Backend\\ECommerce.API\\wwwroot\\",
+      "BasePath": "_content/ECommerce.API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "F:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\HomeMade\\2025\\Ocak Ayı\\06-01-25\\ECommerce\\Backend\\ECommerce.API\\wwwroot\\images\\category-elektronik.png",
+      "SourceId": "ECommerce.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\HomeMade\\2025\\Ocak Ayı\\06-01-25\\ECommerce\\Backend\\ECommerce.API\\wwwroot\\",
+      "BasePath": "_content/ECommerce.API",
+      "RelativePath": "images/category-elektronik#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "u7lx2jh1oj",
+      "Integrity": "qqcHzq/6A7II7SLXuDaSxkr+E79IiMsede70ib+VmEI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\category-elektronik.png"
+    },
+    {
+      "Identity": "F:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\HomeMade\\2025\\Ocak Ayı\\06-01-25\\ECommerce\\Backend\\ECommerce.API\\wwwroot\\images\\category-ev-dekorasyonu.png",
+      "SourceId": "ECommerce.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\HomeMade\\2025\\Ocak Ayı\\06-01-25\\ECommerce\\Backend\\ECommerce.API\\wwwroot\\",
+      "BasePath": "_content/ECommerce.API",
+      "RelativePath": "images/category-ev-dekorasyonu#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "f1fossv300",
+      "Integrity": "I552O3bwIbBZSxGXUiSSTzg1RV2WjqnwLT1r1HoYPos=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\category-ev-dekorasyonu.png"
+    },
+    {
+      "Identity": "F:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\HomeMade\\2025\\Ocak Ayı\\06-01-25\\ECommerce\\Backend\\ECommerce.API\\wwwroot\\images\\category-giyim.png",
+      "SourceId": "ECommerce.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\HomeMade\\2025\\Ocak Ayı\\06-01-25\\ECommerce\\Backend\\ECommerce.API\\wwwroot\\",
+      "BasePath": "_content/ECommerce.API",
+      "RelativePath": "images/category-giyim#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "f7cfb2qrs7",
+      "Integrity": "i34KC4ktXEYb8qA2jwfCy+jD3TOHvNVnbx8iIpP5bvw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\category-giyim.png"
+    },
+    {
+      "Identity": "F:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\HomeMade\\2025\\Ocak Ayı\\06-01-25\\ECommerce\\Backend\\ECommerce.API\\wwwroot\\images\\category-hediyelik-esya.png",
+      "SourceId": "ECommerce.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\HomeMade\\2025\\Ocak Ayı\\06-01-25\\ECommerce\\Backend\\ECommerce.API\\wwwroot\\",
+      "BasePath": "_content/ECommerce.API",
+      "RelativePath": "images/category-hediyelik-esya#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4mc2d600ej",
+      "Integrity": "XLEoVRIP51ANvbv5o2mp2GN2vSzXR//T+KXHQCGehGk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\category-hediyelik-esya.png"
+    },
+    {
+      "Identity": "F:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\HomeMade\\2025\\Ocak Ayı\\06-01-25\\ECommerce\\Backend\\ECommerce.API\\wwwroot\\images\\category-kitap.png",
+      "SourceId": "ECommerce.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\HomeMade\\2025\\Ocak Ayı\\06-01-25\\ECommerce\\Backend\\ECommerce.API\\wwwroot\\",
+      "BasePath": "_content/ECommerce.API",
+      "RelativePath": "images/category-kitap#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "crcsno1ssp",
+      "Integrity": "mBZPQUp47hgYVeH9kB+k+nNowJzqM6oofeYvTENJlyk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\category-kitap.png"
+    },
+    {
+      "Identity": "F:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\HomeMade\\2025\\Ocak Ayı\\06-01-25\\ECommerce\\Backend\\ECommerce.API\\wwwroot\\images\\category-kozmetik.png",
+      "SourceId": "ECommerce.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\HomeMade\\2025\\Ocak Ayı\\06-01-25\\ECommerce\\Backend\\ECommerce.API\\wwwroot\\",
+      "BasePath": "_content/ECommerce.API",
+      "RelativePath": "images/category-kozmetik#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3611dmdhcm",
+      "Integrity": "1e6tm5zGPpKpnYK4wO/ZmpEg6miyHhrl46G9sQEMkWM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\category-kozmetik.png"
+    },
+    {
+      "Identity": "F:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\HomeMade\\2025\\Ocak Ayı\\06-01-25\\ECommerce\\Backend\\ECommerce.API\\wwwroot\\images\\category-muzik.png",
+      "SourceId": "ECommerce.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\HomeMade\\2025\\Ocak Ayı\\06-01-25\\ECommerce\\Backend\\ECommerce.API\\wwwroot\\",
+      "BasePath": "_content/ECommerce.API",
+      "RelativePath": "images/category-muzik#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "x7cfbg8hn5",
+      "Integrity": "ndbk4W/7fF57NvViOpJtjC0ju9LdOcQo5TqEv/GK25o=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\category-muzik.png"
+    },
+    {
+      "Identity": "F:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\HomeMade\\2025\\Ocak Ayı\\06-01-25\\ECommerce\\Backend\\ECommerce.API\\wwwroot\\images\\category-oyun.png",
+      "SourceId": "ECommerce.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\HomeMade\\2025\\Ocak Ayı\\06-01-25\\ECommerce\\Backend\\ECommerce.API\\wwwroot\\",
+      "BasePath": "_content/ECommerce.API",
+      "RelativePath": "images/category-oyun#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "w3ww65hasz",
+      "Integrity": "jPTMyPqU6RUaWSbDQo88ukXhdi9+VkUIXdX1ahBN9BY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\category-oyun.png"
+    },
+    {
+      "Identity": "F:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\HomeMade\\2025\\Ocak Ayı\\06-01-25\\ECommerce\\Backend\\ECommerce.API\\wwwroot\\images\\category-spor.png",
+      "SourceId": "ECommerce.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\HomeMade\\2025\\Ocak Ayı\\06-01-25\\ECommerce\\Backend\\ECommerce.API\\wwwroot\\",
+      "BasePath": "_content/ECommerce.API",
+      "RelativePath": "images/category-spor#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "b37axakoej",
+      "Integrity": "mVTjAmbuZoagBqF6rfzsMXoLK21j1DQSdc8g2Ow8vbQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\category-spor.png"
+    },
+    {
+      "Identity": "F:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\HomeMade\\2025\\Ocak Ayı\\06-01-25\\ECommerce\\Backend\\ECommerce.API\\wwwroot\\images\\category-yiyecek.png",
+      "SourceId": "ECommerce.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\HomeMade\\2025\\Ocak Ayı\\06-01-25\\ECommerce\\Backend\\ECommerce.API\\wwwroot\\",
+      "BasePath": "_content/ECommerce.API",
+      "RelativePath": "images/category-yiyecek#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4s8hzy7bk6",
+      "Integrity": "TL52dXhOBMOnnDRK+5J5RNp2oYDJhQWqflShVHS0Gg0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\category-yiyecek.png"
+    },
+    {
+      "Identity": "F:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\HomeMade\\2025\\Ocak Ayı\\06-01-25\\ECommerce\\Backend\\ECommerce.API\\wwwroot\\images\\product-1.jpg",
+      "SourceId": "ECommerce.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\HomeMade\\2025\\Ocak Ayı\\06-01-25\\ECommerce\\Backend\\ECommerce.API\\wwwroot\\",
+      "BasePath": "_content/ECommerce.API",
+      "RelativePath": "images/product-1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "il29f7xz6k",
+      "Integrity": "ZjA7wq6/u94mMvfo6NGhCFDtjH9gEgFEDVXqXhvOszg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\product-1.jpg"
+    },
+    {
+      "Identity": "F:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\HomeMade\\2025\\Ocak Ayı\\06-01-25\\ECommerce\\Backend\\ECommerce.API\\wwwroot\\images\\product-2.jpg",
+      "SourceId": "ECommerce.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\HomeMade\\2025\\Ocak Ayı\\06-01-25\\ECommerce\\Backend\\ECommerce.API\\wwwroot\\",
+      "BasePath": "_content/ECommerce.API",
+      "RelativePath": "images/product-2#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "tdxkj6gc9h",
+      "Integrity": "AbHO/9SlMfdwradtEe81zLDTtcSts/JKPQSsJYqoRWo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\product-2.jpg"
+    },
+    {
+      "Identity": "F:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\HomeMade\\2025\\Ocak Ayı\\06-01-25\\ECommerce\\Backend\\ECommerce.API\\wwwroot\\images\\product-3.jpg",
+      "SourceId": "ECommerce.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\HomeMade\\2025\\Ocak Ayı\\06-01-25\\ECommerce\\Backend\\ECommerce.API\\wwwroot\\",
+      "BasePath": "_content/ECommerce.API",
+      "RelativePath": "images/product-3#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2d6qg8ot0q",
+      "Integrity": "Sm3fFEkEQraIyzGqVVP77/gTd5uSRIlSBMU7z5I61no=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\product-3.jpg"
+    },
+    {
+      "Identity": "F:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\HomeMade\\2025\\Ocak Ayı\\06-01-25\\ECommerce\\Backend\\ECommerce.API\\wwwroot\\images\\product-4.jpg",
+      "SourceId": "ECommerce.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\HomeMade\\2025\\Ocak Ayı\\06-01-25\\ECommerce\\Backend\\ECommerce.API\\wwwroot\\",
+      "BasePath": "_content/ECommerce.API",
+      "RelativePath": "images/product-4#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "1v4z7np1nz",
+      "Integrity": "XfZKVNGjHOQQdDb+Cshf0p98EGtU2r21xMGbxr83PoY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\product-4.jpg"
+    },
+    {
+      "Identity": "F:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\HomeMade\\2025\\Ocak Ayı\\06-01-25\\ECommerce\\Backend\\ECommerce.API\\wwwroot\\images\\product-5.jpg",
+      "SourceId": "ECommerce.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\HomeMade\\2025\\Ocak Ayı\\06-01-25\\ECommerce\\Backend\\ECommerce.API\\wwwroot\\",
+      "BasePath": "_content/ECommerce.API",
+      "RelativePath": "images/product-5#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0k8nd7j3o5",
+      "Integrity": "ECTtuVii7+lMDf0GhKYjll1aWQg3S1eJi9jbVS1kQ2s=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\product-5.jpg"
+    },
+    {
+      "Identity": "F:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\HomeMade\\2025\\Ocak Ayı\\06-01-25\\ECommerce\\Backend\\ECommerce.API\\wwwroot\\images\\product-6.jpg",
+      "SourceId": "ECommerce.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\HomeMade\\2025\\Ocak Ayı\\06-01-25\\ECommerce\\Backend\\ECommerce.API\\wwwroot\\",
+      "BasePath": "_content/ECommerce.API",
+      "RelativePath": "images/product-6#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "m3oyc9upzt",
+      "Integrity": "fuF0Jupye3zZGK5DvTdZVhO03eIrVnl1V5XjIUhGylU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\product-6.jpg"
+    },
+    {
+      "Identity": "F:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\HomeMade\\2025\\Ocak Ayı\\06-01-25\\ECommerce\\Backend\\ECommerce.API\\wwwroot\\images\\product-7.jpg",
+      "SourceId": "ECommerce.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\HomeMade\\2025\\Ocak Ayı\\06-01-25\\ECommerce\\Backend\\ECommerce.API\\wwwroot\\",
+      "BasePath": "_content/ECommerce.API",
+      "RelativePath": "images/product-7#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pnzprs0l6m",
+      "Integrity": "O1S2lW/OFdbSooxU755iVjK7laFRJn3DiAuSG0FzVnE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\product-7.jpg"
+    },
+    {
+      "Identity": "F:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\HomeMade\\2025\\Ocak Ayı\\06-01-25\\ECommerce\\Backend\\ECommerce.API\\wwwroot\\images\\product-8.jpg",
+      "SourceId": "ECommerce.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\HomeMade\\2025\\Ocak Ayı\\06-01-25\\ECommerce\\Backend\\ECommerce.API\\wwwroot\\",
+      "BasePath": "_content/ECommerce.API",
+      "RelativePath": "images/product-8#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "w1tuj90ekh",
+      "Integrity": "bNojUYHssyinGkKjJAG/Q0wB41nZG43eoK+mmtlyz+w=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\product-8.jpg"
+    },
+    {
+      "Identity": "F:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\HomeMade\\2025\\Ocak Ayı\\06-01-25\\ECommerce\\Backend\\ECommerce.API\\wwwroot\\images\\product-9.jpg",
+      "SourceId": "ECommerce.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\HomeMade\\2025\\Ocak Ayı\\06-01-25\\ECommerce\\Backend\\ECommerce.API\\wwwroot\\",
+      "BasePath": "_content/ECommerce.API",
+      "RelativePath": "images/product-9#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pqawbw9j30",
+      "Integrity": "n0YRp9TqqKqlD/QKb8MLhj53BzMsyXxZTuDk0aVPJQY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\product-9.jpg"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "images/category-elektronik.png",
+      "AssetFile": "F:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\HomeMade\\2025\\Ocak Ayı\\06-01-25\\ECommerce\\Backend\\ECommerce.API\\wwwroot\\images\\category-elektronik.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "36938"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qqcHzq/6A7II7SLXuDaSxkr+E79IiMsede70ib+VmEI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 06 Jan 2025 06:58:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qqcHzq/6A7II7SLXuDaSxkr+E79IiMsede70ib+VmEI="
+        }
+      ]
+    },
+    {
+      "Route": "images/category-elektronik.u7lx2jh1oj.png",
+      "AssetFile": "F:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\HomeMade\\2025\\Ocak Ayı\\06-01-25\\ECommerce\\Backend\\ECommerce.API\\wwwroot\\images\\category-elektronik.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "36938"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qqcHzq/6A7II7SLXuDaSxkr+E79IiMsede70ib+VmEI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 06 Jan 2025 06:58:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "u7lx2jh1oj"
+        },
+        {
+          "Name": "label",
+          "Value": "images/category-elektronik.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qqcHzq/6A7II7SLXuDaSxkr+E79IiMsede70ib+VmEI="
+        }
+      ]
+    },
+    {
+      "Route": "images/category-ev-dekorasyonu.f1fossv300.png",
+      "AssetFile": "F:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\HomeMade\\2025\\Ocak Ayı\\06-01-25\\ECommerce\\Backend\\ECommerce.API\\wwwroot\\images\\category-ev-dekorasyonu.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "47562"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"I552O3bwIbBZSxGXUiSSTzg1RV2WjqnwLT1r1HoYPos=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 06 Jan 2025 06:58:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "f1fossv300"
+        },
+        {
+          "Name": "label",
+          "Value": "images/category-ev-dekorasyonu.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-I552O3bwIbBZSxGXUiSSTzg1RV2WjqnwLT1r1HoYPos="
+        }
+      ]
+    },
+    {
+      "Route": "images/category-ev-dekorasyonu.png",
+      "AssetFile": "F:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\HomeMade\\2025\\Ocak Ayı\\06-01-25\\ECommerce\\Backend\\ECommerce.API\\wwwroot\\images\\category-ev-dekorasyonu.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "47562"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"I552O3bwIbBZSxGXUiSSTzg1RV2WjqnwLT1r1HoYPos=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 06 Jan 2025 06:58:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-I552O3bwIbBZSxGXUiSSTzg1RV2WjqnwLT1r1HoYPos="
+        }
+      ]
+    },
+    {
+      "Route": "images/category-giyim.f7cfb2qrs7.png",
+      "AssetFile": "F:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\HomeMade\\2025\\Ocak Ayı\\06-01-25\\ECommerce\\Backend\\ECommerce.API\\wwwroot\\images\\category-giyim.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "88084"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"i34KC4ktXEYb8qA2jwfCy+jD3TOHvNVnbx8iIpP5bvw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 06 Jan 2025 06:58:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "f7cfb2qrs7"
+        },
+        {
+          "Name": "label",
+          "Value": "images/category-giyim.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-i34KC4ktXEYb8qA2jwfCy+jD3TOHvNVnbx8iIpP5bvw="
+        }
+      ]
+    },
+    {
+      "Route": "images/category-giyim.png",
+      "AssetFile": "F:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\HomeMade\\2025\\Ocak Ayı\\06-01-25\\ECommerce\\Backend\\ECommerce.API\\wwwroot\\images\\category-giyim.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "88084"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"i34KC4ktXEYb8qA2jwfCy+jD3TOHvNVnbx8iIpP5bvw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 06 Jan 2025 06:58:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-i34KC4ktXEYb8qA2jwfCy+jD3TOHvNVnbx8iIpP5bvw="
+        }
+      ]
+    },
+    {
+      "Route": "images/category-hediyelik-esya.4mc2d600ej.png",
+      "AssetFile": "F:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\HomeMade\\2025\\Ocak Ayı\\06-01-25\\ECommerce\\Backend\\ECommerce.API\\wwwroot\\images\\category-hediyelik-esya.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "64772"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XLEoVRIP51ANvbv5o2mp2GN2vSzXR//T+KXHQCGehGk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 06 Jan 2025 06:58:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4mc2d600ej"
+        },
+        {
+          "Name": "label",
+          "Value": "images/category-hediyelik-esya.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-XLEoVRIP51ANvbv5o2mp2GN2vSzXR//T+KXHQCGehGk="
+        }
+      ]
+    },
+    {
+      "Route": "images/category-hediyelik-esya.png",
+      "AssetFile": "F:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\HomeMade\\2025\\Ocak Ayı\\06-01-25\\ECommerce\\Backend\\ECommerce.API\\wwwroot\\images\\category-hediyelik-esya.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "64772"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XLEoVRIP51ANvbv5o2mp2GN2vSzXR//T+KXHQCGehGk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 06 Jan 2025 06:58:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XLEoVRIP51ANvbv5o2mp2GN2vSzXR//T+KXHQCGehGk="
+        }
+      ]
+    },
+    {
+      "Route": "images/category-kitap.crcsno1ssp.png",
+      "AssetFile": "F:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\HomeMade\\2025\\Ocak Ayı\\06-01-25\\ECommerce\\Backend\\ECommerce.API\\wwwroot\\images\\category-kitap.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "32111"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mBZPQUp47hgYVeH9kB+k+nNowJzqM6oofeYvTENJlyk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 06 Jan 2025 06:58:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "crcsno1ssp"
+        },
+        {
+          "Name": "label",
+          "Value": "images/category-kitap.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-mBZPQUp47hgYVeH9kB+k+nNowJzqM6oofeYvTENJlyk="
+        }
+      ]
+    },
+    {
+      "Route": "images/category-kitap.png",
+      "AssetFile": "F:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\HomeMade\\2025\\Ocak Ayı\\06-01-25\\ECommerce\\Backend\\ECommerce.API\\wwwroot\\images\\category-kitap.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "32111"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mBZPQUp47hgYVeH9kB+k+nNowJzqM6oofeYvTENJlyk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 06 Jan 2025 06:58:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-mBZPQUp47hgYVeH9kB+k+nNowJzqM6oofeYvTENJlyk="
+        }
+      ]
+    },
+    {
+      "Route": "images/category-kozmetik.3611dmdhcm.png",
+      "AssetFile": "F:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\HomeMade\\2025\\Ocak Ayı\\06-01-25\\ECommerce\\Backend\\ECommerce.API\\wwwroot\\images\\category-kozmetik.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "123449"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1e6tm5zGPpKpnYK4wO/ZmpEg6miyHhrl46G9sQEMkWM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 06 Jan 2025 06:58:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3611dmdhcm"
+        },
+        {
+          "Name": "label",
+          "Value": "images/category-kozmetik.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1e6tm5zGPpKpnYK4wO/ZmpEg6miyHhrl46G9sQEMkWM="
+        }
+      ]
+    },
+    {
+      "Route": "images/category-kozmetik.png",
+      "AssetFile": "F:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\HomeMade\\2025\\Ocak Ayı\\06-01-25\\ECommerce\\Backend\\ECommerce.API\\wwwroot\\images\\category-kozmetik.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "123449"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1e6tm5zGPpKpnYK4wO/ZmpEg6miyHhrl46G9sQEMkWM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 06 Jan 2025 06:58:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1e6tm5zGPpKpnYK4wO/ZmpEg6miyHhrl46G9sQEMkWM="
+        }
+      ]
+    },
+    {
+      "Route": "images/category-muzik.png",
+      "AssetFile": "F:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\HomeMade\\2025\\Ocak Ayı\\06-01-25\\ECommerce\\Backend\\ECommerce.API\\wwwroot\\images\\category-muzik.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "48806"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ndbk4W/7fF57NvViOpJtjC0ju9LdOcQo5TqEv/GK25o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 06 Jan 2025 06:58:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ndbk4W/7fF57NvViOpJtjC0ju9LdOcQo5TqEv/GK25o="
+        }
+      ]
+    },
+    {
+      "Route": "images/category-muzik.x7cfbg8hn5.png",
+      "AssetFile": "F:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\HomeMade\\2025\\Ocak Ayı\\06-01-25\\ECommerce\\Backend\\ECommerce.API\\wwwroot\\images\\category-muzik.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "48806"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ndbk4W/7fF57NvViOpJtjC0ju9LdOcQo5TqEv/GK25o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 06 Jan 2025 06:58:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "x7cfbg8hn5"
+        },
+        {
+          "Name": "label",
+          "Value": "images/category-muzik.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ndbk4W/7fF57NvViOpJtjC0ju9LdOcQo5TqEv/GK25o="
+        }
+      ]
+    },
+    {
+      "Route": "images/category-oyun.png",
+      "AssetFile": "F:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\HomeMade\\2025\\Ocak Ayı\\06-01-25\\ECommerce\\Backend\\ECommerce.API\\wwwroot\\images\\category-oyun.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "66636"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jPTMyPqU6RUaWSbDQo88ukXhdi9+VkUIXdX1ahBN9BY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 06 Jan 2025 06:58:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-jPTMyPqU6RUaWSbDQo88ukXhdi9+VkUIXdX1ahBN9BY="
+        }
+      ]
+    },
+    {
+      "Route": "images/category-oyun.w3ww65hasz.png",
+      "AssetFile": "F:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\HomeMade\\2025\\Ocak Ayı\\06-01-25\\ECommerce\\Backend\\ECommerce.API\\wwwroot\\images\\category-oyun.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "66636"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jPTMyPqU6RUaWSbDQo88ukXhdi9+VkUIXdX1ahBN9BY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 06 Jan 2025 06:58:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "w3ww65hasz"
+        },
+        {
+          "Name": "label",
+          "Value": "images/category-oyun.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-jPTMyPqU6RUaWSbDQo88ukXhdi9+VkUIXdX1ahBN9BY="
+        }
+      ]
+    },
+    {
+      "Route": "images/category-spor.b37axakoej.png",
+      "AssetFile": "F:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\HomeMade\\2025\\Ocak Ayı\\06-01-25\\ECommerce\\Backend\\ECommerce.API\\wwwroot\\images\\category-spor.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "49989"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mVTjAmbuZoagBqF6rfzsMXoLK21j1DQSdc8g2Ow8vbQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 06 Jan 2025 06:58:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "b37axakoej"
+        },
+        {
+          "Name": "label",
+          "Value": "images/category-spor.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-mVTjAmbuZoagBqF6rfzsMXoLK21j1DQSdc8g2Ow8vbQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/category-spor.png",
+      "AssetFile": "F:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\HomeMade\\2025\\Ocak Ayı\\06-01-25\\ECommerce\\Backend\\ECommerce.API\\wwwroot\\images\\category-spor.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "49989"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mVTjAmbuZoagBqF6rfzsMXoLK21j1DQSdc8g2Ow8vbQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 06 Jan 2025 06:58:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-mVTjAmbuZoagBqF6rfzsMXoLK21j1DQSdc8g2Ow8vbQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/category-yiyecek.4s8hzy7bk6.png",
+      "AssetFile": "F:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\HomeMade\\2025\\Ocak Ayı\\06-01-25\\ECommerce\\Backend\\ECommerce.API\\wwwroot\\images\\category-yiyecek.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "57498"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TL52dXhOBMOnnDRK+5J5RNp2oYDJhQWqflShVHS0Gg0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 06 Jan 2025 06:58:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4s8hzy7bk6"
+        },
+        {
+          "Name": "label",
+          "Value": "images/category-yiyecek.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-TL52dXhOBMOnnDRK+5J5RNp2oYDJhQWqflShVHS0Gg0="
+        }
+      ]
+    },
+    {
+      "Route": "images/category-yiyecek.png",
+      "AssetFile": "F:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\HomeMade\\2025\\Ocak Ayı\\06-01-25\\ECommerce\\Backend\\ECommerce.API\\wwwroot\\images\\category-yiyecek.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "57498"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TL52dXhOBMOnnDRK+5J5RNp2oYDJhQWqflShVHS0Gg0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 06 Jan 2025 06:58:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-TL52dXhOBMOnnDRK+5J5RNp2oYDJhQWqflShVHS0Gg0="
+        }
+      ]
+    },
+    {
+      "Route": "images/product-1.il29f7xz6k.jpg",
+      "AssetFile": "F:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\HomeMade\\2025\\Ocak Ayı\\06-01-25\\ECommerce\\Backend\\ECommerce.API\\wwwroot\\images\\product-1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "29095"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZjA7wq6/u94mMvfo6NGhCFDtjH9gEgFEDVXqXhvOszg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 06 Jan 2025 06:58:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "il29f7xz6k"
+        },
+        {
+          "Name": "label",
+          "Value": "images/product-1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZjA7wq6/u94mMvfo6NGhCFDtjH9gEgFEDVXqXhvOszg="
+        }
+      ]
+    },
+    {
+      "Route": "images/product-1.jpg",
+      "AssetFile": "F:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\HomeMade\\2025\\Ocak Ayı\\06-01-25\\ECommerce\\Backend\\ECommerce.API\\wwwroot\\images\\product-1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "29095"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZjA7wq6/u94mMvfo6NGhCFDtjH9gEgFEDVXqXhvOszg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 06 Jan 2025 06:58:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZjA7wq6/u94mMvfo6NGhCFDtjH9gEgFEDVXqXhvOszg="
+        }
+      ]
+    },
+    {
+      "Route": "images/product-2.jpg",
+      "AssetFile": "F:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\HomeMade\\2025\\Ocak Ayı\\06-01-25\\ECommerce\\Backend\\ECommerce.API\\wwwroot\\images\\product-2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "21764"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AbHO/9SlMfdwradtEe81zLDTtcSts/JKPQSsJYqoRWo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 06 Jan 2025 06:58:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-AbHO/9SlMfdwradtEe81zLDTtcSts/JKPQSsJYqoRWo="
+        }
+      ]
+    },
+    {
+      "Route": "images/product-2.tdxkj6gc9h.jpg",
+      "AssetFile": "F:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\HomeMade\\2025\\Ocak Ayı\\06-01-25\\ECommerce\\Backend\\ECommerce.API\\wwwroot\\images\\product-2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "21764"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AbHO/9SlMfdwradtEe81zLDTtcSts/JKPQSsJYqoRWo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 06 Jan 2025 06:58:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tdxkj6gc9h"
+        },
+        {
+          "Name": "label",
+          "Value": "images/product-2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-AbHO/9SlMfdwradtEe81zLDTtcSts/JKPQSsJYqoRWo="
+        }
+      ]
+    },
+    {
+      "Route": "images/product-3.2d6qg8ot0q.jpg",
+      "AssetFile": "F:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\HomeMade\\2025\\Ocak Ayı\\06-01-25\\ECommerce\\Backend\\ECommerce.API\\wwwroot\\images\\product-3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "20601"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Sm3fFEkEQraIyzGqVVP77/gTd5uSRIlSBMU7z5I61no=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 06 Jan 2025 06:58:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2d6qg8ot0q"
+        },
+        {
+          "Name": "label",
+          "Value": "images/product-3.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Sm3fFEkEQraIyzGqVVP77/gTd5uSRIlSBMU7z5I61no="
+        }
+      ]
+    },
+    {
+      "Route": "images/product-3.jpg",
+      "AssetFile": "F:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\HomeMade\\2025\\Ocak Ayı\\06-01-25\\ECommerce\\Backend\\ECommerce.API\\wwwroot\\images\\product-3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "20601"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Sm3fFEkEQraIyzGqVVP77/gTd5uSRIlSBMU7z5I61no=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 06 Jan 2025 06:58:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Sm3fFEkEQraIyzGqVVP77/gTd5uSRIlSBMU7z5I61no="
+        }
+      ]
+    },
+    {
+      "Route": "images/product-4.1v4z7np1nz.jpg",
+      "AssetFile": "F:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\HomeMade\\2025\\Ocak Ayı\\06-01-25\\ECommerce\\Backend\\ECommerce.API\\wwwroot\\images\\product-4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "35305"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XfZKVNGjHOQQdDb+Cshf0p98EGtU2r21xMGbxr83PoY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 06 Jan 2025 06:58:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1v4z7np1nz"
+        },
+        {
+          "Name": "label",
+          "Value": "images/product-4.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-XfZKVNGjHOQQdDb+Cshf0p98EGtU2r21xMGbxr83PoY="
+        }
+      ]
+    },
+    {
+      "Route": "images/product-4.jpg",
+      "AssetFile": "F:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\HomeMade\\2025\\Ocak Ayı\\06-01-25\\ECommerce\\Backend\\ECommerce.API\\wwwroot\\images\\product-4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "35305"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XfZKVNGjHOQQdDb+Cshf0p98EGtU2r21xMGbxr83PoY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 06 Jan 2025 06:58:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XfZKVNGjHOQQdDb+Cshf0p98EGtU2r21xMGbxr83PoY="
+        }
+      ]
+    },
+    {
+      "Route": "images/product-5.0k8nd7j3o5.jpg",
+      "AssetFile": "F:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\HomeMade\\2025\\Ocak Ayı\\06-01-25\\ECommerce\\Backend\\ECommerce.API\\wwwroot\\images\\product-5.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "21340"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ECTtuVii7+lMDf0GhKYjll1aWQg3S1eJi9jbVS1kQ2s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 06 Jan 2025 06:58:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0k8nd7j3o5"
+        },
+        {
+          "Name": "label",
+          "Value": "images/product-5.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ECTtuVii7+lMDf0GhKYjll1aWQg3S1eJi9jbVS1kQ2s="
+        }
+      ]
+    },
+    {
+      "Route": "images/product-5.jpg",
+      "AssetFile": "F:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\HomeMade\\2025\\Ocak Ayı\\06-01-25\\ECommerce\\Backend\\ECommerce.API\\wwwroot\\images\\product-5.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "21340"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ECTtuVii7+lMDf0GhKYjll1aWQg3S1eJi9jbVS1kQ2s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 06 Jan 2025 06:58:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ECTtuVii7+lMDf0GhKYjll1aWQg3S1eJi9jbVS1kQ2s="
+        }
+      ]
+    },
+    {
+      "Route": "images/product-6.jpg",
+      "AssetFile": "F:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\HomeMade\\2025\\Ocak Ayı\\06-01-25\\ECommerce\\Backend\\ECommerce.API\\wwwroot\\images\\product-6.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "27557"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fuF0Jupye3zZGK5DvTdZVhO03eIrVnl1V5XjIUhGylU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 06 Jan 2025 06:58:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-fuF0Jupye3zZGK5DvTdZVhO03eIrVnl1V5XjIUhGylU="
+        }
+      ]
+    },
+    {
+      "Route": "images/product-6.m3oyc9upzt.jpg",
+      "AssetFile": "F:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\HomeMade\\2025\\Ocak Ayı\\06-01-25\\ECommerce\\Backend\\ECommerce.API\\wwwroot\\images\\product-6.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "27557"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fuF0Jupye3zZGK5DvTdZVhO03eIrVnl1V5XjIUhGylU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 06 Jan 2025 06:58:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "m3oyc9upzt"
+        },
+        {
+          "Name": "label",
+          "Value": "images/product-6.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-fuF0Jupye3zZGK5DvTdZVhO03eIrVnl1V5XjIUhGylU="
+        }
+      ]
+    },
+    {
+      "Route": "images/product-7.jpg",
+      "AssetFile": "F:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\HomeMade\\2025\\Ocak Ayı\\06-01-25\\ECommerce\\Backend\\ECommerce.API\\wwwroot\\images\\product-7.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "38512"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"O1S2lW/OFdbSooxU755iVjK7laFRJn3DiAuSG0FzVnE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 06 Jan 2025 06:58:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-O1S2lW/OFdbSooxU755iVjK7laFRJn3DiAuSG0FzVnE="
+        }
+      ]
+    },
+    {
+      "Route": "images/product-7.pnzprs0l6m.jpg",
+      "AssetFile": "F:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\HomeMade\\2025\\Ocak Ayı\\06-01-25\\ECommerce\\Backend\\ECommerce.API\\wwwroot\\images\\product-7.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "38512"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"O1S2lW/OFdbSooxU755iVjK7laFRJn3DiAuSG0FzVnE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 06 Jan 2025 06:58:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pnzprs0l6m"
+        },
+        {
+          "Name": "label",
+          "Value": "images/product-7.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-O1S2lW/OFdbSooxU755iVjK7laFRJn3DiAuSG0FzVnE="
+        }
+      ]
+    },
+    {
+      "Route": "images/product-8.jpg",
+      "AssetFile": "F:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\HomeMade\\2025\\Ocak Ayı\\06-01-25\\ECommerce\\Backend\\ECommerce.API\\wwwroot\\images\\product-8.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "30108"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bNojUYHssyinGkKjJAG/Q0wB41nZG43eoK+mmtlyz+w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 06 Jan 2025 06:58:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-bNojUYHssyinGkKjJAG/Q0wB41nZG43eoK+mmtlyz+w="
+        }
+      ]
+    },
+    {
+      "Route": "images/product-8.w1tuj90ekh.jpg",
+      "AssetFile": "F:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\HomeMade\\2025\\Ocak Ayı\\06-01-25\\ECommerce\\Backend\\ECommerce.API\\wwwroot\\images\\product-8.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "30108"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bNojUYHssyinGkKjJAG/Q0wB41nZG43eoK+mmtlyz+w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 06 Jan 2025 06:58:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "w1tuj90ekh"
+        },
+        {
+          "Name": "label",
+          "Value": "images/product-8.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-bNojUYHssyinGkKjJAG/Q0wB41nZG43eoK+mmtlyz+w="
+        }
+      ]
+    },
+    {
+      "Route": "images/product-9.jpg",
+      "AssetFile": "F:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\HomeMade\\2025\\Ocak Ayı\\06-01-25\\ECommerce\\Backend\\ECommerce.API\\wwwroot\\images\\product-9.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "22795"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"n0YRp9TqqKqlD/QKb8MLhj53BzMsyXxZTuDk0aVPJQY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 06 Jan 2025 06:58:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-n0YRp9TqqKqlD/QKb8MLhj53BzMsyXxZTuDk0aVPJQY="
+        }
+      ]
+    },
+    {
+      "Route": "images/product-9.pqawbw9j30.jpg",
+      "AssetFile": "F:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\HomeMade\\2025\\Ocak Ayı\\06-01-25\\ECommerce\\Backend\\ECommerce.API\\wwwroot\\images\\product-9.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "22795"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"n0YRp9TqqKqlD/QKb8MLhj53BzMsyXxZTuDk0aVPJQY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 06 Jan 2025 06:58:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pqawbw9j30"
+        },
+        {
+          "Name": "label",
+          "Value": "images/product-9.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-n0YRp9TqqKqlD/QKb8MLhj53BzMsyXxZTuDk0aVPJQY="
+        }
+      ]
+    }
+  ]
+}

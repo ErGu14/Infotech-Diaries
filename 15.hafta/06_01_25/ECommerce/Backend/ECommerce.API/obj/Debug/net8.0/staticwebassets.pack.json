@@ -1,0 +1,97 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\15.hafta\\06_01_25\\ECommerce\\Backend\\ECommerce.API\\wwwroot\\images\\category-elektronik.png",
+      "PackagePath": "staticwebassets\\images\\category-elektronik.png"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\15.hafta\\06_01_25\\ECommerce\\Backend\\ECommerce.API\\wwwroot\\images\\category-ev-dekorasyonu.png",
+      "PackagePath": "staticwebassets\\images\\category-ev-dekorasyonu.png"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\15.hafta\\06_01_25\\ECommerce\\Backend\\ECommerce.API\\wwwroot\\images\\category-giyim.png",
+      "PackagePath": "staticwebassets\\images\\category-giyim.png"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\15.hafta\\06_01_25\\ECommerce\\Backend\\ECommerce.API\\wwwroot\\images\\category-hediyelik-esya.png",
+      "PackagePath": "staticwebassets\\images\\category-hediyelik-esya.png"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\15.hafta\\06_01_25\\ECommerce\\Backend\\ECommerce.API\\wwwroot\\images\\category-kitap.png",
+      "PackagePath": "staticwebassets\\images\\category-kitap.png"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\15.hafta\\06_01_25\\ECommerce\\Backend\\ECommerce.API\\wwwroot\\images\\category-kozmetik.png",
+      "PackagePath": "staticwebassets\\images\\category-kozmetik.png"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\15.hafta\\06_01_25\\ECommerce\\Backend\\ECommerce.API\\wwwroot\\images\\category-muzik.png",
+      "PackagePath": "staticwebassets\\images\\category-muzik.png"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\15.hafta\\06_01_25\\ECommerce\\Backend\\ECommerce.API\\wwwroot\\images\\category-oyun.png",
+      "PackagePath": "staticwebassets\\images\\category-oyun.png"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\15.hafta\\06_01_25\\ECommerce\\Backend\\ECommerce.API\\wwwroot\\images\\category-spor.png",
+      "PackagePath": "staticwebassets\\images\\category-spor.png"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\15.hafta\\06_01_25\\ECommerce\\Backend\\ECommerce.API\\wwwroot\\images\\category-yiyecek.png",
+      "PackagePath": "staticwebassets\\images\\category-yiyecek.png"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\15.hafta\\06_01_25\\ECommerce\\Backend\\ECommerce.API\\wwwroot\\images\\product-1.jpg",
+      "PackagePath": "staticwebassets\\images\\product-1.jpg"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\15.hafta\\06_01_25\\ECommerce\\Backend\\ECommerce.API\\wwwroot\\images\\product-2.jpg",
+      "PackagePath": "staticwebassets\\images\\product-2.jpg"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\15.hafta\\06_01_25\\ECommerce\\Backend\\ECommerce.API\\wwwroot\\images\\product-3.jpg",
+      "PackagePath": "staticwebassets\\images\\product-3.jpg"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\15.hafta\\06_01_25\\ECommerce\\Backend\\ECommerce.API\\wwwroot\\images\\product-4.jpg",
+      "PackagePath": "staticwebassets\\images\\product-4.jpg"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\15.hafta\\06_01_25\\ECommerce\\Backend\\ECommerce.API\\wwwroot\\images\\product-5.jpg",
+      "PackagePath": "staticwebassets\\images\\product-5.jpg"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\15.hafta\\06_01_25\\ECommerce\\Backend\\ECommerce.API\\wwwroot\\images\\product-6.jpg",
+      "PackagePath": "staticwebassets\\images\\product-6.jpg"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\15.hafta\\06_01_25\\ECommerce\\Backend\\ECommerce.API\\wwwroot\\images\\product-7.jpg",
+      "PackagePath": "staticwebassets\\images\\product-7.jpg"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\15.hafta\\06_01_25\\ECommerce\\Backend\\ECommerce.API\\wwwroot\\images\\product-8.jpg",
+      "PackagePath": "staticwebassets\\images\\product-8.jpg"
+    },
+    {
+      "Id": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\15.hafta\\06_01_25\\ECommerce\\Backend\\ECommerce.API\\wwwroot\\images\\product-9.jpg",
+      "PackagePath": "staticwebassets\\images\\product-9.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ECommerce.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ECommerce.API.props",
+      "PackagePath": "build\\ECommerce.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ECommerce.API.props",
+      "PackagePath": "buildMultiTargeting\\ECommerce.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ECommerce.API.props",
+      "PackagePath": "buildTransitive\\ECommerce.API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

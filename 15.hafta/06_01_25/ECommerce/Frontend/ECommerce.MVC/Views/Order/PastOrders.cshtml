@@ -1,0 +1,43 @@
+@* @using ECommerce.MVC.ComplexTypes
+@model IEnumerable<OrderModel>
+
+<section class="orders py-5">
+    <div class="container">
+        <h2 class="text-center mb-4">Siparişlerim</h2>
+        <div class="row">
+            <div class="col-md-3">
+                @await Component.InvokeAsync("OrderMenu")
+            </div>
+            <div class="col-md-9">
+                <div class="accordion" id="ordersAccordion">
+                    @foreach (var order in Model)
+                    {
+                        if (order.OrderStatus == OrderStatus.Delivered)
+                        {
+                            <div class="accordion-item">
+                                <h2 class="accordion-header">
+                                    <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOrder-@order.Id" aria-expanded="false" aria-controls="collapseOrder-@order.Id">
+                                        Sipariş ID: @order.Id - Tarih: @order.CreatedDate.ToString("yyyy-MM-dd") - Tutar: @($"{order.OrderItems.Sum(x => x.Quantity * x.UnitPrice):C2}") -- Durum: @order.OrderStatus.GetDisplayName()
+                                    </button>
+                                </h2>
+                                <div id="collapseOrder-@order.Id" class="accordion-collapse collapse" data-bs-parent="#ordersAccordion">
+                                    <div class="accordion-body">
+                                        <ul>
+                                            @foreach (var item in order.OrderItems)
+                                            {
+                                                <li>@item.Product.Name - Adet: @item.Quantity - Fiyat: @($"{item.UnitPrice:C2}")</li>
+                                            }
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        }
+                    }
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+ *@
