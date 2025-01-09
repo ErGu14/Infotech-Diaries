@@ -1,0 +1,35 @@
+@{
+    List<CategoryModel> categories = Model.Categories;
+}
+<section class="hero bg-light py-5">
+    <div class="container">
+        <div id="categoryCarousel" class="carousel slide" data-bs-ride="carousel">
+            <div class="carousel-inner">
+                @for (int i = 0; i < categories.Count(); i++)
+                {
+                    <div class="carousel-item @(i==0?"active":"")" style="background-image: url('http://localhost:5050/@categories[i].ImageUrl'); 
+                                background-size: cover; 
+                                background-position: center; 
+                                height: 300px;">
+                        <a asp-area="" asp-controller="Product" asp-action="GetAllByCategory" asp-route-id="@categories[i].Id" asp-route-category="@categories[i].Name" class="d-flex justify-content-center align-items-center"
+                            style="height: 100%; text-decoration: none;">
+                            <div class="text-center text-white">
+                                <h2>@categories[i].Name</h2>
+                                <p>@categories[i].Description</p>
+                            </div>
+                        </a>
+                    </div>
+                }
+
+            </div>
+            <button class="carousel-control-prev" type="button" data-bs-target="#categoryCarousel" data-bs-slide="prev">
+                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                <span class="visually-hidden">Previous</span>
+            </button>
+            <button class="carousel-control-next" type="button" data-bs-target="#categoryCarousel" data-bs-slide="next">
+                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                <span class="visually-hidden">Next</span>
+            </button>
+        </div>
+    </div>
+</section>

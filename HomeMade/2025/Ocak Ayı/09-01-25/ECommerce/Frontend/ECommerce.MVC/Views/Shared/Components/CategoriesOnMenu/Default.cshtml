@@ -1,0 +1,27 @@
+﻿@model IEnumerable<CategoryModel>
+@* eğer 3 den az kategorimiz varsa yukardaki navbara ilk 3 kategoriyi göster *@
+@if(Model.Count()<=3){ 
+    @foreach(var category in Model)
+    {
+        <li class="nav-item"><a asp-area="" asp-controller="Product" asp-action="GetAllByCategory" asp-route-id="@category.Id" asp-route-category="@category.Name" class="nav-link">@category.Name</a></li>
+    }
+}
+else @* eğer 3 ten fazla kategori varsa *@
+{
+    @foreach (var category in Model.Skip(0).Take(3)) @* kategorinin içinden 0. indexe atla ve ilk 3 tanesini al dedik*@
+    { 
+        <li class="nav-item"><a asp-area="" asp-controller="Product" asp-action="GetAllByCategory" asp-route-id="@category.Id" asp-route-category="@category.Name" class="nav-link">@category.Name</a></li>
+    }
+    <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown"
+           aria-expanded="false">
+            Diğer
+        </a>
+        <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+            @foreach(var category in Model.Skip(3)) @* burda ise ilk 3 ünü es geç ve diğerlerini al diyoruz *@
+            {
+                <li><a asp-area="" asp-controller="Product" asp-action="GetAllByCategory" asp-route-id="@category.Id" asp-route-category="@category.Name" class="dropdown-item">@category.Name</a></li>
+            }
+        </ul>
+    </li>
+}

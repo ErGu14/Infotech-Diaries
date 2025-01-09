@@ -1,0 +1,64 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Backend", "Backend", "{58EB7504-4F04-4826-9E9E-A188AD5AE46A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ECommerce.API", "Backend\ECommerce.API\ECommerce.API.csproj", "{60EA2DD6-C552-414A-80F1-774E26AC9C71}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ECommerce.Business", "Backend\ECommerce.Business\ECommerce.Business.csproj", "{55912F5F-57B5-471B-96BC-55C8CE6C0FAB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ECommerce.Data", "Backend\ECommerce.Data\ECommerce.Data.csproj", "{BC01E3D3-26C9-4D07-ADDC-459744BAC416}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ECommerce.Entity", "Backend\ECommerce.Entity\ECommerce.Entity.csproj", "{65AB2A9F-A65D-4451-97B3-90757893603B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ECommerce.Shared", "Backend\ECommerce.Shared\ECommerce.Shared.csproj", "{EFAA65EA-27E4-44B3-A587-6631CC903CDF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Frontend", "Frontend", "{0AC1657E-2251-48A2-97F3-0401035373E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ECommerce.MVC", "Frontend\ECommerce.MVC\ECommerce.MVC.csproj", "{9B491B54-C727-4B38-BCF1-045CAD14D448}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60EA2DD6-C552-414A-80F1-774E26AC9C71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60EA2DD6-C552-414A-80F1-774E26AC9C71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60EA2DD6-C552-414A-80F1-774E26AC9C71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60EA2DD6-C552-414A-80F1-774E26AC9C71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55912F5F-57B5-471B-96BC-55C8CE6C0FAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55912F5F-57B5-471B-96BC-55C8CE6C0FAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55912F5F-57B5-471B-96BC-55C8CE6C0FAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55912F5F-57B5-471B-96BC-55C8CE6C0FAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC01E3D3-26C9-4D07-ADDC-459744BAC416}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC01E3D3-26C9-4D07-ADDC-459744BAC416}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC01E3D3-26C9-4D07-ADDC-459744BAC416}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC01E3D3-26C9-4D07-ADDC-459744BAC416}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65AB2A9F-A65D-4451-97B3-90757893603B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65AB2A9F-A65D-4451-97B3-90757893603B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65AB2A9F-A65D-4451-97B3-90757893603B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65AB2A9F-A65D-4451-97B3-90757893603B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFAA65EA-27E4-44B3-A587-6631CC903CDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFAA65EA-27E4-44B3-A587-6631CC903CDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFAA65EA-27E4-44B3-A587-6631CC903CDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFAA65EA-27E4-44B3-A587-6631CC903CDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B491B54-C727-4B38-BCF1-045CAD14D448}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B491B54-C727-4B38-BCF1-045CAD14D448}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B491B54-C727-4B38-BCF1-045CAD14D448}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B491B54-C727-4B38-BCF1-045CAD14D448}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{60EA2DD6-C552-414A-80F1-774E26AC9C71} = {58EB7504-4F04-4826-9E9E-A188AD5AE46A}
+		{55912F5F-57B5-471B-96BC-55C8CE6C0FAB} = {58EB7504-4F04-4826-9E9E-A188AD5AE46A}
+		{BC01E3D3-26C9-4D07-ADDC-459744BAC416} = {58EB7504-4F04-4826-9E9E-A188AD5AE46A}
+		{65AB2A9F-A65D-4451-97B3-90757893603B} = {58EB7504-4F04-4826-9E9E-A188AD5AE46A}
+		{EFAA65EA-27E4-44B3-A587-6631CC903CDF} = {58EB7504-4F04-4826-9E9E-A188AD5AE46A}
+		{9B491B54-C727-4B38-BCF1-045CAD14D448} = {0AC1657E-2251-48A2-97F3-0401035373E0}
+	EndGlobalSection
+EndGlobal
