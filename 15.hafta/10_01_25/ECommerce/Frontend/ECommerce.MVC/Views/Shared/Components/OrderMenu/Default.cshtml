@@ -1,0 +1,14 @@
+﻿<div class="list-group shadow-sm">
+    <div class="list-group-item bg-secondary text-white text-center font-weight-bold mb-3">
+        <i class="fas fa-user"></i> Hesap Menüsü
+    </div>
+    <a asp-controller="Account" asp-action="Index" class="list-group-item list-group-item-action active">
+        <i class="fas fa-info-circle"></i> Bilgiler
+    </a>
+    <a asp-controller="Account" asp-action="GetShippedOrders" class="list-group-item list-group-item-action" )">
+        <i class="fas fa-box"></i> Kargodaki Siparişler Siparişler
+    </a>
+    <a asp-controller="Account" asp-action="GetDeliveredOrders" class="list-group-item list-group-item-action" )">
+        <i class="fas fa-history"></i> Tamamlanmış Siparişler
+    </a>
+</div>

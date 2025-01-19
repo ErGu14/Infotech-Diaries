@@ -1,0 +1,33 @@
+ @model ProductModel
+<section class="product-detail py-5">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6">
+                <img src="http://localhost:5050/@Model.ImageUrl" class="img-fluid" alt="@Model.Name">
+            </div>
+            <div class="col-md-6">
+                <h2>@Model.Name</h2>
+                <p class="text-muted">@($"{Model.Price:C2}")</p>
+                <h5>Özellikler:</h5>
+                <p>
+                    @Model.Properties
+                </p>
+                <div class="d-flex align-items-center">
+                    <input type="number" id="quantityInput" class="form-control quantity-input mr-2" value="1" min="1">
+                    <a id="basketLink" asp-area="" asp-controller="Basket" asp-action="AddToBasket"
+                        asp-route-productId="@Model.Id" asp-route-quantity="1" class="btn btn-primary btn-block">Sepete
+                        Ekle</a>
+                </div>
+                <script>
+                    const quantityInput = document.getElementById('quantityInput');
+                    const basketLink = document.getElementById('basketLink');
+
+                    quantityInput.addEventListener('change', function () {
+                        const baseUrl = basketLink.href.split('&quantity=')[0];
+                        basketLink.href = baseUrl + '&quantity=' + this.value;
+                    });
+                </script>
+            </div>
+        </div>
+    </div>
+</section> 

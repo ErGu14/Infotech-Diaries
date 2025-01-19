@@ -1,0 +1,45 @@
+body {
+    font-family: 'Arial', sans-serif;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    padding-top: 70px;
+}
+
+.hero {
+    margin-bottom: 2rem;
+}
+
+.popular-products .card {
+    transition: transform 0.2s;
+}
+
+.popular-products .card:hover {
+    transform: scale(1.05);
+}
+
+footer {
+    margin-top: auto;
+    background-color: #343a40;
+    color: white;
+    padding: 1rem 0;
+}
+
+.quantity-input {
+    width: 80px;
+}
+
+/* Menü gizleme için gerekli CSS */
+#sidebar-wrapper {
+    width: 250px;
+    /* Menü genişliği */
+    transition: all 0.3s ease;
+    /* Geçiş efekti */
+}
+
+#sidebar-wrapper.toggled {
+    width: 0;
+    /* Menü gizlendiğinde genişliği 0 yap */
+    overflow: hidden;
+    /* Taşmayı gizle */
+}
